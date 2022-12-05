@@ -1,8 +1,14 @@
 # Stellar-MADE
-Repository for the Stellar-MADE ERC project at IPAG.
+ERC funded project
+IPAG (Grenoble, France)
+Oct. 2022 - Sept. 2027
 
-People working on this ERC project:
-Nicolas Cuello (PI) & Antoine Alaguero (PhD Student)
+Members of the team:
+- Nicolas Cuello (PI, IPAG)
+- Antoine Alaguero (PhD Student, IPAG)
 
 Collaborators:
-Francois Menard
+- Francois Menard (IPAG)
+- Daniel J. Price (Monash)
+- Christophe Pinte (IPAG/Monash)
+- Cristian Giuppone (OAC, Argentina)
