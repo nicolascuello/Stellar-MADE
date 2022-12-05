@@ -12,4 +12,7 @@ Collaborators:
 - Christophe Pinte (IPAG/Monash)
 - Cristian Giuppone (OAC, Argentina)
 
+[Abstract of the project][about]
+
 [IPAG website](https://ipag.osug.fr)
+[about]: about.md
