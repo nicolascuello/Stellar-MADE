@@ -2,23 +2,48 @@
 
 [IPAG](https://ipag.osug.fr) (Grenoble, France)
 
+##### Goals of this project:
+- A
+- B
+- C
+
 [Abstract of the project][about]
 
 Members of the team:
-- Nicolas Cuello (PI, IPAG)
+- Nicolás Cuello (PI, IPAG)
 - Antoine Alaguero (PhD Student, IPAG)
 
 Collaborators:
-- Francois Menard (IPAG, France)
+- François Menard (Grenoble, France)
 - Daniel J. Price (Monash, Asutralia)
 - Christophe Pinte (Monash, Australia)
-- Giuseppe Lodato (UniMi, Italy)
-- Simone Ceppi (UniMi, Italy)
+- Claudia Toci (Munich, Germany)
+- Cecilia Ceccarelli (Grenoble, France)
+- Eleonora Bianchi (Munich, Germany)
+- Simone Ceppi (Milano, Italy)
+- Cathie Clarke (Cambridge, UK)
+- Álvaro Ribas (Cambridge, UK)
+- Giuseppe Lodato (Milano, Italy)
+- Rebecca Nealon (Warwick, UK)
 - Matías Montesinos (Viña del Mar, Chile)
-- Mario Sucerquia (UV, Chile)
-- Cristian Giuppone (OAC, Argentina)
-- Emmanuel Gianuzzi (OAC, Argentina)
-- Álvaro Ribas (IoA, Cambridge)
-
+- Mario Sucerquia (Valparaíso, Chile)
+- Cristian Giuppone (Córdoba, Argentina)
+- Emmanuel Gianuzzi (Córdoba, Argentina)
+- Gaspard Duchêne (Berkeley, USA)
+- Enrique Macías (Munich, Germany)
+- Jean-François Gonzalez (Lyon, France)
+- Benedetta Veronesi (Lyon, France)
+- Enrico Ragusa (Lyon, France)
+- Clément Baruteau (Toulouse, France)
+- Elisabeth Borchert (Monash, Australia)
+- Fabien Louvet (Grenoble, France)
+- Miguel Vioque (Santiago, Chile)
+- María Paula Ronco (La Plata, Argentina)
+- Octavio Guilera (La Plata, Argentina)
+- Jeremy Smallwood (Taipei, Taiwan)
+- Maxime Lombart (Taipei, Taiwan)
+- Philip Webber (Santiago, Chile)
+- Sebastián Pérez (Santiago, Chile)
+- Alice Zurlo (Santiag, Chile)
 
 [about]: https://nicolascuello.github.io/Stellar-MADE/about
