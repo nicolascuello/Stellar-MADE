@@ -13,6 +13,7 @@
 - Álvaro Ribas (Cambridge, UK)
 - Giuseppe Lodato (Milano, Italy)
 - Rebecca Nealon (Warwick, UK)
+- Cristiano Longarini (Milano, Italy)
 - Matías Montesinos (Viña del Mar, Chile)
 - Mario Sucerquia (Valparaíso, Chile)
 - Cristian Giuppone (Córdoba, Argentina)
@@ -30,7 +31,7 @@
 - Octavio Guilera (La Plata, Argentina)
 - Jeremy Smallwood (Taipei, Taiwan)
 - Maxime Lombart (Taipei, Taiwan)
-- Philip Webber (Santiago, Chile)
+- Philipp Webber (Santiago, Chile)
 - Sebastián Pérez (Santiago, Chile)
 - Jorge Cuadra (Viña del Mar, Chile)
 
