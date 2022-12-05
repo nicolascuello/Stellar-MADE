@@ -1,20 +1,20 @@
-#### Stellar-MADE ERC Project (2022-27)
+# Stellar-MADE ERC Project (2022-27)
 
 Exploring the effects of stellar multiplicity on planet formation across disc evolution.  
 Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France)
 
-#### Goals of this project:  
+### Goals of this project:  
 - Establish the formation channels of protoplanetary discs around young stellar objects;  
 - Follow disc dynamics and grain growth in order to identify the regions of planetesimal formation;  
 - Characterise planetary architectures and the resulting exoplanet population.
 
 [Abstract of the project][about]
 
-#### Members of the team:
+### Members of the team:
 - Nicolás Cuello (PI, IPAG)
 - Antoine Alaguero (PhD Student, IPAG)
 
-#### Collaborators:
+### Collaborators:
 - François Menard (Grenoble, France)
 - Daniel J. Price (Monash, Asutralia)
 - Christophe Pinte (Monash, Australia)
