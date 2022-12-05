@@ -4,7 +4,7 @@ Exploring the effects of **Stellar M**ultiplicity on planet formation **A**cross
 ERC Starging Grant: October 2022 - September 2027.  
 Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France)
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/logo.png" alt="Stellar/MADE logo" width="100"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/logo.png" alt="Stellar-MADE logo" width="150"/>
 
 
 ### Members of the team:
@@ -65,7 +65,8 @@ Location: Les Playes, Villard de Lans
 
 This project has received funding from the European Research Council (ERC) under the European Union Horizon 2020 research and innovation program (grant agreement No. 101042275, project Stellar-MADE).
 
-![ERC logo](https://nicolascuello.github.io/Stellar-MADE/images/European_Research_Council_logo.svg.png)
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/European_Research_Council_logo.svg.png" alt="ERC logo" width="150"/>
+
 
 
 [about]: https://nicolascuello.github.io/Stellar-MADE/about
