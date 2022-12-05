@@ -3,6 +3,7 @@
 Exploring the effects of **Stellar M**ultiplicity on planet formation **A**cross **D**isc **E**volution.  
 ERC Starging Grant: October 2022 - September 2027.  
 Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France)
+
 ![Stellar MADE logo][https://nicolascuello.github.io/Stellar-MADE/images/logo.png]
 
 
