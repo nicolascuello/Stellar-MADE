@@ -3,6 +3,7 @@
 Exploring the effects of **Stellar M**ultiplicity on planet formation **A**cross **D**isc **E**volution.  
 ERC Starging Grant: October 2022 - September 2027.  
 Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France)
+![Stellar MADE logo][https://nicolascuello.github.io/Stellar-MADE/images/logo.png]
 
 
 ### Members of the team:
@@ -24,9 +25,9 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France)
 
 - [Close encounters: How stellar flybys shape planet-forming discs.](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)
   Cuello, Ménard & Price
-- [Circumbinary planets: migration, trapping in mean-motion resonances, and ejection.](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract(
+- [Circumbinary planets: migration, trapping in mean-motion resonances, and ejection.](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract)
   Gianuzzi, Giuppone & Cuello
-- [Sustained FU Orionis-type outbursts from colliding discs in stellar flybys.](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4436B/abstract(
+- [Sustained FU Orionis-type outbursts from colliding discs in stellar flybys.](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4436B/abstract)
   Borchert, Price, Pinte & Cuello
 
 [Complete list of publications][publications]
@@ -56,6 +57,7 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France)
 
 This project has received funding from the European Research Council (ERC) under the European Union Horizon 2020 research and innovation program (grant agreement No. 101042275, project Stellar-MADE).
 
+![ERC logo][https://nicolascuello.github.io/Stellar-MADE/images/European_Research_Council_logo.svg.png]
 
 
 [about]: https://nicolascuello.github.io/Stellar-MADE/about
