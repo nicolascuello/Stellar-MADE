@@ -1,7 +1,9 @@
+#### Meaning of the name:
+
 Stellar-MADE stands for "Exploring the impact of Stellar Multiplicity on planet formation Across Disc Evolution".
 This is an ERC Starting Grant 2021 project led by Nicolás Cuello at IPAG (Grenoble, France).
 
-Abstract:
+#### Abstract:
 
 In regions of active star formation, the protoplanetary discs around young stars act as planetary factories.
 Recent observing campaigns have shown that the majority of protostars belong to multiple stellar systems: the
@@ -12,7 +14,7 @@ stars, there is an urgent need to extend these models to multiple stars. This wi
 understanding of the process of planet formation, at a more general level.
 
 The Stellar-MADE project aims to provide a comprehensive view of disc dynamics and planet formation within
-multiple stellar systems. My team and I will thoroughly study multiples to:
+multiple stellar systems. My team and I will thoroughly study multiples to:  
 1. Establish the formation channels of protoplanetary discs around young stellar objects;  
 2. Follow disc dynamics and grain growth in order to identify the regions of planetesimal formation;  
 3. Characterise planetary architectures and the resulting exoplanet population.
