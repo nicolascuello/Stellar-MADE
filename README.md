@@ -4,7 +4,7 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France)
 
 ### Goals of this project:  
 - Establish the formation channels of protoplanetary discs around young stellar objects;  
-- Follow disc dynamics and grain growth in order to identify the regions of planetesimal formation;  
+- Follow disc dynamics and grain growth to identify the regions of planetesimal formation;  
 - Characterise planetary architectures and the resulting exoplanet population.
 
 [Abstract of the project][about]
@@ -12,6 +12,11 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France)
 ### Members of the team:
 - Nicolás Cuello (PI, IPAG)
 - Antoine Alaguero (PhD Student, IPAG)
+
+### Recent publications:  
+- A.  
+- B.  
+- C.
 
 ### Collaborators:
 - François Menard (Grenoble, France)
