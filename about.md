@@ -1,6 +1,8 @@
+### Stellar-MADE Project
+
 #### Meaning of the name:
 
-Stellar-MADE stands for "Exploring the impact of Stellar Multiplicity on planet formation Across Disc Evolution".
+_Stellar-MADE_ stands for "Exploring the impact of **Stellar** **M**ultiplicity on planet formation **A**cross **D**isc **E**volution".
 This is an ERC Starting Grant 2021 project led by Nicolás Cuello at IPAG (Grenoble, France).
 
 #### Abstract:
