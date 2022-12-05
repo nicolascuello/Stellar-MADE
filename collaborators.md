@@ -1,4 +1,6 @@
-### Collaborators:
+### Stellar-MADE Project
+
+### Main collaborators:
 
 - François Menard (Grenoble, France)
 - Daniel J. Price (Monash, Asutralia)
