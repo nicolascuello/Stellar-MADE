@@ -1,6 +1,6 @@
-### Stellar Multiplicity Across Disc Evolution
+### Stellar-MADE ERC Project
 #### ERC Starting Grant (2022-27)
-#### IPAG (Grenoble, France)
+#### [IPAG](https://ipag.osug.fr) (Grenoble, France)
 
 Members of the team:
 - Nicolas Cuello (PI, IPAG)
@@ -14,5 +14,4 @@ Collaborators:
 
 [Abstract of the project][about]
 
-[IPAG website](https://ipag.osug.fr)
-[about]: about.md
+[about]: https://nicolascuello.github.io/Stellar-MADE/about
