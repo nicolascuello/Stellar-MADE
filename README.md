@@ -1,5 +1,6 @@
 #### Stellar-MADE ERC Project (2022-27)
-#### [IPAG](https://ipag.osug.fr) (Grenoble, France)
+
+[IPAG](https://ipag.osug.fr) (Grenoble, France)
 
 [Abstract of the project][about]
 
