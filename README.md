@@ -2,10 +2,10 @@
 
 [IPAG](https://ipag.osug.fr) (Grenoble, France)
 
-##### Goals of this project:
-- A
-- B
-- C
+##### Goals of this project:  
+- Establish the formation channels of protoplanetary discs around young stellar objects;  
+- Follow disc dynamics and grain growth in order to identify the regions of planetesimal formation;  
+- Characterise planetary architectures and the resulting exoplanet population.
 
 [Abstract of the project][about]
 
