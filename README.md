@@ -1,4 +1,5 @@
-**Exploring the effects of stellar multiplicity on planet formation across disc evolution.** 
+### Stellar-MADE ERC Project (2022-27)  
+**Exploring the effects of stellar multiplicity on planet formation across disc evolution.**  
 Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France)
 
 ### Goals of this project:  
