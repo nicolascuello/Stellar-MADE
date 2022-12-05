@@ -3,7 +3,7 @@
 ### Main collaborators:
 
 - François Menard (Grenoble, France)
-- Daniel J. Price (Monash, Asutralia)
+- Daniel J. Price (Monash, Australia)
 - Christophe Pinte (Monash, Australia)
 - Claudia Toci (Munich, Germany)
 - Cecilia Ceccarelli (Grenoble, France)
