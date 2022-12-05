@@ -23,12 +23,12 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France)
 
 ### Featured publications:
 
-- [Close encounters: How stellar flybys shape planet-forming discs.](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)
-  Cuello, Ménard & Price
-- [Circumbinary planets: migration, trapping in mean-motion resonances, and ejection.](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract)
-  Gianuzzi, Giuppone & Cuello
-- [Sustained FU Orionis-type outbursts from colliding discs in stellar flybys.](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4436B/abstract)
-  Borchert, Price, Pinte & Cuello
+- [Close encounters: How stellar flybys shape planet-forming discs.](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)  
+    Cuello, Ménard & Price
+- [Circumbinary planets: migration, trapping in mean-motion resonances, and ejection.](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract)  
+    Gianuzzi, Giuppone & Cuello
+- [Sustained FU Orionis-type outbursts from colliding discs in stellar flybys.](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4436B/abstract)  
+    Borchert, Price, Pinte & Cuello
 
 [Complete list of publications][publications]
 
