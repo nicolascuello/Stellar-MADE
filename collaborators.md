@@ -32,3 +32,6 @@
 - Maxime Lombart (Taipei, Taiwan)
 - Philip Webber (Santiago, Chile)
 - Sebastián Pérez (Santiago, Chile)
+- Jorge Cuadra (Viña del Mar, Chile)
+
+
