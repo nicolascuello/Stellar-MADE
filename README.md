@@ -25,17 +25,17 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 ### Kick-off meeting in the Alps
 
 Dates: 17, 18, 19, 20 January 2023  
-Location: Les Playes, Villard de Lans  
+Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Villard de Lans  
 [List of participants & information](kickoff)
 
 
 ### Featured publications:
 
-- [Close encounters: How stellar flybys shape planet-forming discs.](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)  
+- [Close encounters: How stellar flybys shape planet-forming discs](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)  
     Cuello, Ménard & Price
-- [Circumbinary planets: migration, trapping in mean-motion resonances, and ejection.](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract)  
+- [Circumbinary planets: migration, trapping in mean-motion resonances, and ejection](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract)  
     Gianuzzi, Giuppone & Cuello
-- [Sustained FU Orionis-type outbursts from colliding discs in stellar flybys.](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4436B/abstract)  
+- [Sustained FU Orionis-type outbursts from colliding discs in stellar flybys](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4436B/abstract)  
     Borchert, Price, Pinte & Cuello
 
 [Complete list of publications][publications]
