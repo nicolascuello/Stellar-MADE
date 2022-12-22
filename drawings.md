@@ -1,12 +1,13 @@
 # Stellar-MADE Project
 
-### Drawings by Italian students
+### Drawings by Italian students from Alba Adriatica
 
-Before a presentation called "The mysteries of planet formation: Planets and binary stars", the students of this Italian school located in Alba Adriatica were asked to prepare some scientific drawings. These are all the instructions they received:
+This activity was organised remotely via Zoom thanks to Donatella Marconi who contacted me from a school located in Alba Adriatica (Italy). One week before the scheduled presentation ("The mysteries of planet formation: Planets and binary stars"), the students were asked to think about planets in binaries and draw their possible orbits.  
 
->"Planets exist in system with two stars. Imagine and draw the kind of orbits they could have."
+These are all the instructions they received:
+>"Planets exist in systems with two stars. Imagine and draw the orbits they could have."
 
-With their permission, I share some of them below:
+With their permission, I share below some of the best drawings:
 
 - Abel Osagie, 3º, scuola di Alba Adriatica, 19/01/2022
     <img src="https://nicolascuello.github.io/Stellar-MADE/images/abel-drawing.jpeg" alt="Abel drawing" width="600"/>
@@ -17,9 +18,9 @@ With their permission, I share some of them below:
 - Pietro Tino, 3º, scuola di Alba Adriatica, 19/01/2022
     <img src="https://nicolascuello.github.io/Stellar-MADE/images/pietro-drawing.jpg" alt="Pietro drawing" width="600"/>
 
-I was very impressed by theire spectacular drawings. Also, this was a great opportunity the physics behind the orbits. Upon inspection, many questions immediately arise from these drawings:
-- Can we have misaligned orbits around binary stars?
-- Why are orbits eccentric? Is this configuration stable?
+I was very impressed by their spectacular and accurate artwork. This was a great opportunity to talk about the physics behind the orbits. Upon inspection of the drawings, several questions arose:
+- Is it common to have misaligned orbits around binary stars?
+- Why are some orbits eccentric? Are these configurations stable?
 - What is the difference between circumstellar and circumbinary planets?
-- Can we have planets on the same orbit (aka Trojan planets)?
+- Can planets share the same orbit (aka Trojan planets)?
 - Are these planetary systems similar to the Solar System?
