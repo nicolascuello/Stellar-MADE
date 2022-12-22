@@ -2,7 +2,7 @@
 
 ### Drawings by Italian students from Alba Adriatica
 
-This activity was organised remotely via Zoom thanks to Donatella Marconi who contacted me from a school located in Alba Adriatica (Italy). One week before the scheduled presentation ("The mysteries of planet formation: Planets and binary stars"), the students were asked to think about planets in binaries and draw their possible orbits.  
+This activity was organised remotely via Zoom thanks to Donatella Marconi who contacted me from a school called Istituto Comprensivo Enrico Fermi (Scuola Secondaria di primo grado) in Alba Adriatica (provincia di Teramo, Italy). One week before the scheduled presentation ("The mysteries of planet formation: Planets and binary stars"), the students of the class 3E were asked to think about planets in binaries and draw their possible orbits.  
 
 These are all the instructions they received:
 >"Planets exist in systems with two stars. Imagine and draw the orbits they could have."
