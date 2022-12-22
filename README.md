@@ -43,10 +43,10 @@ Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Vil
 
 ### Outreach activities
 
-- Presentation for high-school French students at IPAG, 14/12/2022; 
-    "Simulations numériques & formation planétaire".
-- Online presentation for elementary school students, Italy, 19/12/2022. 
-    "I misteri della fomazione planetaria: Pianeti e stelle binarie" 
+- Presentation for high-school French students at IPAG, 14/12/2022;  
+    "Simulations numériques & formation planétaire".  
+- Online presentation for elementary school students, Italy, 19/12/2022.  
+    "I misteri della fomazione planetaria: Pianeti e stelle binarie"  
     [Gallery of selected drawings][drawings] by the students.
 
 
