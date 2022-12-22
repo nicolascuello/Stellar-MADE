@@ -1,3 +1,5 @@
+# Stellar-MADE Project
+
 ### Drawings by Italian students
 
 Before a presentation called "The mysteries of planet formation: Planets and binary stars", the students of this Italian school located in Alba Adriatica were asked to prepare some scientific drawings. These are all the instructions they received:
