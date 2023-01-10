@@ -1,22 +1,41 @@
 # Stellar-MADE project
 
-List of available participants for the kick-off meeting:
+List of participants for the kick-off meeting:
 1. Nicolás Cuello (Grenoble)
 2. François Ménard (Grenoble)
 3. Cathie Clarke (Cambridge)
-4. Fabien Louvet (Grenoble)
-5. Eleonora Bianchi (Munich)
-6. Simone Ceppi (Milano)
-7. Álvaro Ribas (Cambridge)
-8. Enrique Macías (Munich)
-9. Antoine Alaguero (Grenoble)
-10. Isabelle Joncour (Grenoble)
-11. Benedetta Veronesi (Lyon)
-12. Claudia Toci (Munich)
-13. Giuseppe Lodato (Milano)
-14. Enrico Ragusa (Lyon)
-15. Cristiano Longarini (Milano)
-16. Jean-Philippe Berger (Grenoble)
-17. Jean-François Gonzalez (Lyon)
-18. Estelle Moraux (Grenoble)
-19. Cecilia Ceccarelli (Grenoble)
+4. Gaspard Duchêne (Grenoble)
+5. Giuseppe Lodato (Milano) 
+6. Isabelle Joncour (Grenoble)
+7. Jean-Philippe Berger (Grenoble)
+8. Jean-François Gonzalez (Lyon)
+9. Cecilia Ceccarelli (Grenoble)
+10. Estelle Moraux (Grenoble)
+11. Álvaro Ribas (Cambridge)
+12. Enrique Macías (Munich)
+13. Antoine Alaguero (Grenoble)
+14. Simone Ceppi (Milano)
+15. Benedetta Veronesi (Lyon)
+16. Claudia Toci (Munich)
+17. Eleonora Bianchi (Munich)
+18. Enrico Ragusa (Lyon)
+19. Cristiano Longarini (Milano)
+20. Andrew Winter (Nice)
+
+Practical information:
+- Tuesday: Travel to Grenoble train/bus station or IPAG.
+- Tuesday: Start of the meeting at Hôtel des Playes.
+- Wednesday: Short presentations on the axis & work in groups.
+- Thursday: Work in groups and half-day free outdoors.
+- Friday: Wrap-up and strategy discussion for the future.
+
+We plan to work on 4 main axis during the meeting: 
+- Distribution, environement and evolution of discs: multiples vs. singles.
+- Disc diagnostics (morphology, kinematics and accretion) within multiples.
+- Dust evolution in multiples and flybys: G/D ratio, radial drift, traps, asymmetries.
+- Strategy to better characterise discs and orbits with new generation facilities.
+
+All these topics explicitly overlap and will be discussed during the meeting. Each participant
+will preferentially work on one item with a subgroup of participants. We will establish a plan
+to keep working together after the kick-off meeting, share results efficiently, and co-write
+the corresposing scientific articles.
