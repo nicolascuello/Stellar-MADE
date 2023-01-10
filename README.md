@@ -32,6 +32,7 @@ For instance, here is one a flyer of one of our meetings with DALL-E images:
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-week7.jpg" alt="journal club flyer" width="400"/>
 
 Here you can find information about our previous and future meetings.  
+[Stellar-MADE journal club](journalclub)
 Feel free to write us if you are interested.
 
 
@@ -95,5 +96,6 @@ This project has received funding from the European Research Council (ERC) under
 [about]: https://nicolascuello.github.io/Stellar-MADE/about
 [collaborators]: https://nicolascuello.github.io/Stellar-MADE/collaborators
 [publications]: https://ui.adsabs.harvard.edu/public-libraries/JlXaxrUKQL2dp176Y2cojQ
+[journalclub]: https://nicolascuello.github.io/Stellar-MADE/journalclub
 [kickoff]: https://nicolascuello.github.io/Stellar-MADE/kickoff
 [drawings]: https://nicolascuello.github.io/Stellar-MADE/drawings
