@@ -22,7 +22,7 @@ List of participants for the kick-off meeting:
 19. Cristiano Longarini (Milano)
 20. Andrew Winter (Nice)
 
-We plan to work on 4 main axis during the meeting: 
+We plan to work on 4 main axes during the meeting: 
 - Distribution, environment and evolution of discs: multiples vs. singles.
 - Disc diagnostics (morphology, kinematics and accretion) within multiples.
 - Dust evolution in multiples and flybys: G/D ratio, radial drift, traps, asymmetries.
@@ -36,7 +36,7 @@ corresponding scientific articles.
 Practical information:
 - Tuesday: Travel to Grenoble train/bus station or IPAG.
 - Tuesday: Start of the meeting at Hôtel des Playes.
-- Wednesday: Short presentations on the axis & work in groups.
+- Wednesday: Short presentations on the axes & work in groups.
 - Thursday: Work in groups and half-day free outdoors.
 - Friday: Wrap-up and strategy discussion for the future.
 
