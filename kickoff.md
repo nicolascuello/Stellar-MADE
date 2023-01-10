@@ -22,13 +22,6 @@ List of participants for the kick-off meeting:
 19. Cristiano Longarini (Milano)
 20. Andrew Winter (Nice)
 
-Practical information:
-- Tuesday: Travel to Grenoble train/bus station or IPAG.
-- Tuesday: Start of the meeting at Hôtel des Playes.
-- Wednesday: Short presentations on the axis & work in groups.
-- Thursday: Work in groups and half-day free outdoors.
-- Friday: Wrap-up and strategy discussion for the future.
-
 We plan to work on 4 main axis during the meeting: 
 - Distribution, environement and evolution of discs: multiples vs. singles.
 - Disc diagnostics (morphology, kinematics and accretion) within multiples.
@@ -39,3 +32,17 @@ All these topics explicitly overlap and will be discussed during the meeting. Ea
 will preferentially work on one item with a subgroup of participants. We will establish a plan
 to keep working together after the kick-off meeting, share results efficiently, and co-write
 the corresposing scientific articles.
+
+Practical information:
+- Tuesday: Travel to Grenoble train/bus station or IPAG.
+- Tuesday: Start of the meeting at Hôtel des Playes.
+- Wednesday: Short presentations on the axis & work in groups.
+- Thursday: Work in groups and half-day free outdoors.
+- Friday: Wrap-up and strategy discussion for the future.
+
+Cars available:
+- *Nicolás*: Álvaro, Eleonora, Claudia.
+- *François*: Cathie, Antoine, Andrew.
+- *Giuseppe*: Simone, Cristiano, Gaspard?
+- *Enrico*: Benedetta, Enrique.
+- *Others cars*: Jean-François, Estelle, Cecilia, Jean-Philippe.
