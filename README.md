@@ -78,11 +78,11 @@ Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Vil
 [Extended list of collaborators][collaborators]
 
 
-### Current supervision of PhD students
+### Current (co)supervision of PhD students
 
-- Antoine Alaguero (Grenoble, France)
-- Simone Ceppi (Milano, Italy)
-- Emmanuel Gianuzzi (Córdoba, Argentina)
+- Antoine Alaguero (Grenoble, France): 2022-2025, with François Ménard.
+- Emmanuel Gianuzzi (Córdoba, Argentina): 2021-2024, with Cristian Giuppone.
+- Simone Ceppi (Milano, Italy): 2020-2023, with Giuseppe Lodato.
 
 
 ### Acknowledgements
