@@ -23,7 +23,7 @@ List of participants for the kick-off meeting:
 20. Andrew Winter (Nice)
 
 We plan to work on 4 main axis during the meeting: 
-- Distribution, environement and evolution of discs: multiples vs. singles.
+- Distribution, environment and evolution of discs: multiples vs. singles.
 - Disc diagnostics (morphology, kinematics and accretion) within multiples.
 - Dust evolution in multiples and flybys: G/D ratio, radial drift, traps, asymmetries.
 - Strategy to better characterise discs and orbits with new generation facilities.
