@@ -32,7 +32,7 @@ For instance, here is one a flyer of one of our meetings with DALL-E images:
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-week7.jpg" alt="journal club flyer" width="700"/>
 
 Here you can find information about our previous and future meetings:  
-[Stellar-MADE journal club](journalclub)
+[Stellar-MADE journal club](journalclub)  
 Feel free to get in touch if you are interested.
 
 
