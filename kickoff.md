@@ -29,9 +29,9 @@ We plan to work on 4 main axis during the meeting:
 - Strategy to better characterise discs and orbits with new generation facilities.
 
 All these topics explicitly overlap and will be discussed during the meeting. Each participant
-will preferentially work on one item with a subgroup of participants. We will establish a plan
-to keep working together after the kick-off meeting, share results efficiently, and co-write
-the corresposing scientific articles.
+will preferentially work on one item with a subgroup of participants. At the end, we will establish
+a plan to keep working together after the meeting, share results efficiently, and co-write the
+corresponding scientific articles.
 
 Practical information:
 - Tuesday: Travel to Grenoble train/bus station or IPAG.
