@@ -9,8 +9,8 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 
 ### Members of the team:
 
-- Nicolás Cuello (Principal Investigator, IPAG)
-- Antoine Alaguero (PhD Student, IPAG)
+- [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG)
+- [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG)
 
 
 ### Goals of this project:
@@ -94,6 +94,8 @@ This project has received funding from the [European Research Council](https://e
 
 [about]: https://nicolascuello.github.io/Stellar-MADE/about
 [collaborators]: https://nicolascuello.github.io/Stellar-MADE/collaborators
+[nicolas-cuello]: https://nicolascuello.github.io/Stellar-MADE/nicolas-cuello
+[antoine-alaguero]: https://nicolascuello.github.io/Stellar-MADE/antoine-alaguero
 [publications]: https://ui.adsabs.harvard.edu/public-libraries/JlXaxrUKQL2dp176Y2cojQ
 [journalclub]: https://nicolascuello.github.io/Stellar-MADE/journalclub
 [kickoff]: https://nicolascuello.github.io/Stellar-MADE/kickoff
