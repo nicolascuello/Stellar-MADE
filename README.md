@@ -28,7 +28,7 @@ Every Wednesday at 14h30 (CET) we meet online through [Zoom](https://univ-grenob
 from the [arXiv](https://arxiv.org) with the available [collaborators][collaborators] of the Stellar-MADE project.
 We have 2 presentations: a long version (15-20 min-long) followed by a short one (5 min-long).
 
-For instance, here is one a flyer of one of our meetings with DALL-E images:  
+For instance, here is a flyer of one of our meetings with DALL-E images:  
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-week7.jpg" alt="journal club flyer" width="700"/>
 
 More information about the [Stellar-MADE journal club](journalclub).  
