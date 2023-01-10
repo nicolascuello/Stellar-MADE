@@ -24,16 +24,16 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 
 ### Journal club: Discs & Planets in Multiple Stellar Systems
 
-Every Wednesday at 14h30 (CET) we meet online through Zoom to discuss recent interesting articles
-from the [arXiv](https://arxiv.org) with the available and interested collaborators of the Stellar-MADE project.
-We have two presentations: a long version (15-20 minute-long) followed by a short one (5 minute-long).
+Every Wednesday at 14h30 (CET) we meet online through [Zoom](https://univ-grenoble-alpes-fr.zoom.us/j/7420595901?pwd=NWpxSolzbkRCLoFRTmVHSCtDdXRIUT09) to discuss recent interesting articles
+from the [arXiv](https://arxiv.org) with the available [collaborators][collaborators] of the Stellar-MADE project.
+We have 2 presentations: a long version (15-20 min-long) followed by a short one (5 min-long).
 
 For instance, here is one a flyer of one of our meetings with DALL-E images:  
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-week7.jpg" alt="journal club flyer" width="400"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-week7.jpg" alt="journal club flyer" width="700"/>
 
-Here you can find information about our previous and future meetings.  
+Here you can find information about our previous and future meetings:  
 [Stellar-MADE journal club](journalclub)
-Feel free to write us if you are interested.
+Feel free to get in touch if you are interested.
 
 
 ### Kick-off meeting in the Alps
