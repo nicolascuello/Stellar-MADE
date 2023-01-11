@@ -22,6 +22,12 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 [Abstract of the project][about]
 
 
+### Kick-off meeting in the Alps
+
+Dates: 17, 18, 19, 20 January 2023  
+Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Villard de Lans  
+[List of participants & information](kickoff)
+
 ### Journal club: Discs & Planets in Multiple Stellar Systems
 
 Every Wednesday at 14h30 (CET) we meet online through [Zoom](https://univ-grenoble-alpes-fr.zoom.us/j/7420595901?pwd=NWpxSolzbkRCLoFRTmVHSCtDdXRIUT09) to discuss recent interesting articles
@@ -33,13 +39,6 @@ For instance, here is a flyer of one of our meetings with DALL-E images:
 
 More information about the [Stellar-MADE journal club](journalclub).  
 Feel free to get in touch if you are interested.
-
-
-### Kick-off meeting in the Alps
-
-Dates: 17, 18, 19, 20 January 2023  
-Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Villard de Lans  
-[List of participants & information](kickoff)
 
 
 ### Featured publications:
