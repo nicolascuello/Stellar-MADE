@@ -1,6 +1,6 @@
 # Nicolás Cuello
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-Nicolas-Cuello-BW-2022.jpg" alt="NC picture" width="300"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-NC.jpg" alt="NC picture" width="300"/>
 
 ### Summary of my career
 
@@ -21,7 +21,7 @@ Over the last years, I led an international collaboration to investigate the eff
 
 We recently published a review article on this topic called [Close encounters: How stellar flybys shape planet-forming discs](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract) with François Ménard and Daniel Price.
 
-Below, a gallery of discs likely disrupted by stellar flybys (scattered light images from Cuello et al. 2023)  
+Below, a gallery of discs likely disrupted by stellar flybys (scattered light images from Cuello et al. 2023):  
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/flyby-gallery.png" alt="Flyby gallery gas" width="600"/>
 
 And here the same gallery but for continuum dust emission observations:
