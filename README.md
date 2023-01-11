@@ -24,28 +24,30 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 
 ### Kick-off meeting in the Alps
 
-Dates: 17, 18, 19, 20 January 2023  
-Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Villard de Lans  
-[List of participants & information](kickoff)
+Dates: 17, 18, 19, 20 January 2023.  
+Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Villard de Lans.  
+[List of participants & information](kickoff).
 
 ### Journal club: Discs & Planets in Multiple Stellar Systems
 
-Every Wednesday at 14h30 (CET) we meet online through [Zoom](https://univ-grenoble-alpes-fr.zoom.us/j/7420595901?pwd=NWpxSolzbkRCLoFRTmVHSCtDdXRIUT09) to discuss recent interesting articles
-from the [arXiv](https://arxiv.org) with the available [collaborators][collaborators] of the Stellar-MADE project.
-We have 2 presentations: a long version (15-20 min-long) followed by a short one (5 min-long).  
+Every Wednesday at 14h30 (CET) we meet online through [Zoom](https://univ-grenoble-alpes-fr.zoom.us/j/7420595901?pwd=NWpxSolzbkRCLoFRTmVHSCtDdXRIUT09) to discuss recent interesting articles from the [arXiv](https://arxiv.org) with the available [collaborators][collaborators] of the Stellar-MADE project.  
 
-Check this link for more information about the [Stellar-MADE journal club](journalclub).  
+We have 2 presentations per meeting:
+- a long version (15-20 min): detailed discussion;
+- a short one (5 min): quick update / 1-2 slides.
+
+For more information, follow this link: [Stellar-MADE journal club](journalclub).  
 Feel free to get in touch if you are interested.
 
 
 ### Featured publications:
 
 - [Close encounters: How stellar flybys shape planet-forming discs](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)  
-    Cuello, Ménard & Price
+    Cuello, Ménard & Price (2023)
 - [Circumbinary planets: migration, trapping in mean-motion resonances, and ejection](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract)  
-    Gianuzzi, Giuppone & Cuello
+    Gianuzzi, Giuppone & Cuello (2023)
 - [Sustained FU Orionis-type outbursts from colliding discs in stellar flybys](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4436B/abstract)  
-    Borchert, Price, Pinte & Cuello
+    Borchert, Price, Pinte & Cuello (2022)
 
 [Complete list of publications][publications]
 
