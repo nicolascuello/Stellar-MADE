@@ -1,6 +1,6 @@
 # Nicolás Cuello
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-Nicolas-Cuello-BW-2022.jpeg" alt="NC picture" width="300"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-Nicolas-Cuello-BW-2022.jpg" alt="NC picture" width="300"/>
 
 ### Summary of my career
 
@@ -11,7 +11,7 @@ In March 2016 I moved to Santiago (Chile) for 4 years as a FONDECYT postdoctoral
 ### Ongoing research
 
 My research focuses on protoplanetary disc dynamics and evolution around young stars. I am particularly interested in two aspects: i) dust dynamics & growth (1μm-1m) in protoplanetary discs; ii) stellar multiplicity among young stellar objects. Both topics have been at the heart of my recent research. This is why I am currently combining stellar multiplicity and dust dynamics to tackle the overarching question that follows:
->"how do planets form in multiple stellar systems?"
+>"How do planets form in multiple stellar systems?"
 
 The main goal of the ongoing ERC project (Stellar-MADE, 2022-2027) is to consistently model protoplanetary disc dynamics in multiple systems across evolutionary stages: from the molecular cloud phase, up to the formation of exoplanetary architectures. So far, studies have only targeted individual evolutionary phases and no comprehensive study has been attempted yet. Being at the forefront of the field of planet formation, my team and I are actively exploring the effects of stellar multiplicity on shaping exoplanetary systems.
 
