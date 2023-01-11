@@ -7,20 +7,19 @@ List of participants for the kick-off meeting:
 4. Gaspard Duchêne (Grenoble)
 5. Giuseppe Lodato (Milano) 
 6. Isabelle Joncour (Grenoble)
-7. Jean-Philippe Berger (Grenoble)
-8. Jean-François Gonzalez (Lyon)
-9. Cecilia Ceccarelli (Grenoble)
-10. Estelle Moraux (Grenoble)
-11. Álvaro Ribas (Cambridge)
-12. Enrique Macías (Munich)
-13. Antoine Alaguero (Grenoble)
-14. Simone Ceppi (Milano)
-15. Benedetta Veronesi (Lyon)
-16. Claudia Toci (Munich)
-17. Eleonora Bianchi (Munich)
-18. Enrico Ragusa (Lyon)
-19. Cristiano Longarini (Milano)
-20. Andrew Winter (Nice)
+7. Jean-François Gonzalez (Lyon)
+8. Cecilia Ceccarelli (Grenoble)
+9. Estelle Moraux (Grenoble)
+10. Álvaro Ribas (Cambridge)
+11. Enrique Macías (Munich)
+12. Antoine Alaguero (Grenoble)
+13. Simone Ceppi (Milano)
+14. Benedetta Veronesi (Lyon)
+15. Claudia Toci (Munich)
+16. Eleonora Bianchi (Munich)
+17. Enrico Ragusa (Lyon)
+18. Cristiano Longarini (Milano)
+19. Andrew Winter (Nice)
 
 We plan to work on 4 main axes during the meeting: 
 - Distribution, environment and evolution of discs: multiples vs. singles.
@@ -41,8 +40,8 @@ Practical information:
 - Friday: Wrap-up and strategy discussion for the future.
 
 Cars available:
-- *Nicolás*: Álvaro, Eleonora, Claudia.
-- *François*: Cathie, Antoine, Andrew.
-- *Giuseppe*: Simone, Cristiano, Gaspard?
-- *Enrico*: Benedetta, Enrique.
-- *Others cars*: Jean-François, Estelle, Cecilia, Jean-Philippe.
+- *Nicolás* 13h from IPAG: Simone, Claudia, Cristiano.
+- *François* 13h from IPAG: Gaspard, Antoine, Eleonora.
+- *Nicolás* 15h30 from Grenoble bus station: Cathie, Álvaro, Andrew.
+- *Enrico* 12h from Lyon via airport: Benedetta, Enrique.
+- *Others cars*: Giuseppe, Jean-François, Estelle, Cecilia.
