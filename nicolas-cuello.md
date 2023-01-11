@@ -1,5 +1,6 @@
-# Nicolás Cuello
+# Stellar-MADE project
 
+Nicolás Cuello  
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-NC.jpeg" alt="NC picture" width="300"/>
 
 ### Summary of my career
