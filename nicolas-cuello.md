@@ -1,6 +1,6 @@
 # Nicolás Cuello
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-Nicolas-Cuello-BW-2022.jpg" alt="NC picture" width="300"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-Nicolas-Cuello-BW-2022.jpeg" alt="NC picture" width="300"/>
 
 ### Summary of my career
 
