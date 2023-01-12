@@ -1,5 +1,15 @@
 # Stellar-MADE project
 
+We plan to work on 4 main axes during the meeting: 
+- Distribution, environment and evolution of discs: multiples vs. singles.
+- Disc diagnostics (morphology, kinematics and accretion) within multiples.
+- Dust evolution in multiples and flybys: G/D ratio, radial drift, traps, asymmetries.
+- Strategy to better characterise discs and orbits with new generation facilities.
+
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/DALLE-kickoff.png" alt="kickoff seen by DALL-E" width="700"/>
+
+All these topics explicitly overlap and will be discussed during the meeting. Each participant will preferentially work on one item with a subgroup of participants. At the end, we will establish a plan to keep working together after the meeting, share results efficiently, and co-write the corresponding scientific articles.
+
 List of participants for the kick-off meeting:
 1. Nicolás Cuello (Grenoble)
 2. François Ménard (Grenoble)
@@ -20,17 +30,6 @@ List of participants for the kick-off meeting:
 17. Enrico Ragusa (Lyon)
 18. Cristiano Longarini (Milano)
 19. Andrew Winter (Nice)
-
-We plan to work on 4 main axes during the meeting: 
-- Distribution, environment and evolution of discs: multiples vs. singles.
-- Disc diagnostics (morphology, kinematics and accretion) within multiples.
-- Dust evolution in multiples and flybys: G/D ratio, radial drift, traps, asymmetries.
-- Strategy to better characterise discs and orbits with new generation facilities.
-
-All these topics explicitly overlap and will be discussed during the meeting. Each participant
-will preferentially work on one item with a subgroup of participants. At the end, we will establish
-a plan to keep working together after the meeting, share results efficiently, and co-write the
-corresponding scientific articles.
 
 Practical information:
 - Tuesday: Travel to Grenoble train/bus station or IPAG.
