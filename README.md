@@ -28,7 +28,7 @@ Dates: 17, 18, 19, 20 January 2023.
 Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Villard de Lans.  
 [List of participants & information](kickoff).
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/DALLE-kickoff.png" alt="kickoff seen by DALL-E" width="700"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/DALLE-kickoff.png" alt="kickoff seen by DALL-E" width="500"/>
 
 ### Journal club: Discs & Planets in Multiple Stellar Systems
 

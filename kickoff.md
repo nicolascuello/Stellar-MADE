@@ -6,7 +6,7 @@ We plan to work on 4 main axes during the meeting:
 - Dust evolution in multiples and flybys: G/D ratio, radial drift, traps, asymmetries.
 - Strategy to better characterise discs and orbits with new generation facilities.
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/DALLE-kickoff.png" alt="kickoff seen by DALL-E" width="700"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/DALLE-kickoff.png" alt="kickoff seen by DALL-E" width="500"/>
 
 All these topics explicitly overlap and will be discussed during the meeting. Each participant will preferentially work on one item with a subgroup of participants. At the end, we will establish a plan to keep working together after the meeting, share results efficiently, and co-write the corresponding scientific articles.
 
