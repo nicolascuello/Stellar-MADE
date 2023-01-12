@@ -28,6 +28,8 @@ Dates: 17, 18, 19, 20 January 2023.
 Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Villard de Lans.  
 [List of participants & information](kickoff).
 
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/DALLE-kickoff.png" alt="kickoff seen by DALL-E" width="700"/>
+
 ### Journal club: Discs & Planets in Multiple Stellar Systems
 
 Every Wednesday at 14h30 (CET) we meet online through [Zoom](https://univ-grenoble-alpes-fr.zoom.us/j/7420595901?pwd=NWpxSolzbkRCLoFRTmVHSCtDdXRIUT09) to discuss recent interesting articles from the [arXiv](https://arxiv.org) with the available [collaborators][collaborators] of the Stellar-MADE project.  
