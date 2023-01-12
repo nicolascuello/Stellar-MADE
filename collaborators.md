@@ -35,6 +35,4 @@
 - Sebastián Pérez (Santiago, Chile)
 - Jorge Cuadra (Viña del Mar, Chile)
 
-#[Back to home](home)
-[home]: https://nicolascuello.github.io/Stellar-MADE/  
-
+[Back to home page](https://nicolascuello.github.io/Stellar-MADE/)

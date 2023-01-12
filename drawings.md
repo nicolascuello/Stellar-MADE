@@ -25,5 +25,4 @@ I was very impressed by their spectacular and accurate artwork. This was a great
 - Can planets share the same orbit (aka Trojan planets)?
 - Are these planetary systems similar to the Solar System?  
 
-#[Back to home](home)
-[home]: https://nicolascuello.github.io/Stellar-MADE/  
+[Back to home page](https://nicolascuello.github.io/Stellar-MADE/)

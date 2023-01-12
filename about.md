@@ -30,5 +30,4 @@ coherently connect protoplanetary disc evolution to planetary architectures. Unv
 multiplicity on planet formation will be a major breakthrough, which will enable us to interpret the whole
 exoplanetary population under a new and more realistic prism.  
 
-#[Back to home](home)
-[home]: https://nicolascuello.github.io/Stellar-MADE/  
+[Back to home page](https://nicolascuello.github.io/Stellar-MADE/)

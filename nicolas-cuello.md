@@ -30,5 +30,4 @@ And here the same gallery but for continuum dust emission observations:
 
 Feel free to get in touch if you want to talk about science.  
 
-#[Back to home](home)
-[home]: https://nicolascuello.github.io/Stellar-MADE/  
+[Back to home page](https://nicolascuello.github.io/Stellar-MADE/)

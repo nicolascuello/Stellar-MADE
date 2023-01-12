@@ -41,5 +41,5 @@
 - [Stellar Flyby Analysis for Spiral Arm Hosts with Gaia DR3](https://arxiv.org/abs/2210.03725), Shuai et al. (2022) – presented by Claudia Toci.  
 
 
-#[Back to home](home)
-[home]: https://nicolascuello.github.io/Stellar-MADE/  
+[Back to home page](https://nicolascuello.github.io/Stellar-MADE/)
+  

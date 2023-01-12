@@ -45,5 +45,4 @@ Cars available:
 - Enrico 12h from Lyon via airport: Benedetta, Enrique.
 - Others cars: Giuseppe, Jean-François, Estelle, Cecilia.
 
-#[Back to home](home)
-[home]: https://nicolascuello.github.io/Stellar-MADE/  
+[Back to home page](https://nicolascuello.github.io/Stellar-MADE/)
