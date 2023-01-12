@@ -23,4 +23,7 @@ I was very impressed by their spectacular and accurate artwork. This was a great
 - Why are some orbits eccentric? Are these configurations stable?
 - What is the difference between circumstellar and circumbinary planets?
 - Can planets share the same orbit (aka Trojan planets)?
-- Are these planetary systems similar to the Solar System?
+- Are these planetary systems similar to the Solar System?  
+
+#[Back to home](home)
+[home]: https://nicolascuello.github.io/Stellar-MADE/  

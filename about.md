@@ -28,4 +28,7 @@ growth, and Mean-Motion Resonances. This will allow us to identify and quantify 
 across evolution. My previous work on binary stars constitutes proof-of-concept that it is possible to
 coherently connect protoplanetary disc evolution to planetary architectures. Unveiling the effects of stellar
 multiplicity on planet formation will be a major breakthrough, which will enable us to interpret the whole
-exoplanetary population under a new and more realistic prism.
+exoplanetary population under a new and more realistic prism.  
+
+#[Back to home](home)
+[home]: https://nicolascuello.github.io/Stellar-MADE/  

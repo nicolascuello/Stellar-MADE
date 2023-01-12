@@ -40,8 +40,11 @@ Practical information:
 - Friday: Wrap-up and strategy discussion for the future.
 
 Cars available:
-- *Nicolás* 13h from IPAG: Simone, Claudia, Cristiano.
-- *François* 13h from IPAG: Gaspard, Antoine, Eleonora.
-- *Nicolás* 15h30 from Grenoble bus station: Cathie, Álvaro, Andrew.
-- *Enrico* 12h from Lyon via airport: Benedetta, Enrique.
-- *Others cars*: Giuseppe, Jean-François, Estelle, Cecilia.
+- Nicolás 13h from bus station: Simone, Claudia, Cristiano.
+- François 13h from IPAG: Gaspard, Antoine, Eleonora.
+- Nicolás 15h30 from Grenoble bus station: Cathie, Álvaro, Andrew.
+- Enrico 12h from Lyon via airport: Benedetta, Enrique.
+- Others cars: Giuseppe, Jean-François, Estelle, Cecilia.
+
+#[Back to home](home)
+[home]: https://nicolascuello.github.io/Stellar-MADE/  

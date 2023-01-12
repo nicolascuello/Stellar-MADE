@@ -38,5 +38,8 @@
 
 ### Week 1: 19/10/2022  
 - [Polar alignment of a massive retrograde circumbinary disc around an eccentric binary](https://arxiv.org/abs/2209.14466), Abod et al. (2022) – presented by Nicolás Cuello.
-- [Stellar Flyby Analysis for Spiral Arm Hosts with Gaia DR3](https://arxiv.org/abs/2210.03725), Shuai et al. (2022) – presented by Claudia Toci.
+- [Stellar Flyby Analysis for Spiral Arm Hosts with Gaia DR3](https://arxiv.org/abs/2210.03725), Shuai et al. (2022) – presented by Claudia Toci.  
 
+
+#[Back to home](home)
+[home]: https://nicolascuello.github.io/Stellar-MADE/  
