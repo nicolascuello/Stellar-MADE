@@ -6,7 +6,7 @@ We plan to work on 4 main axes during the meeting:
 - Dust evolution in multiples and flybys: G/D ratio, radial drift, traps, asymmetries.
 - Strategy to better characterise discs and orbits with new generation facilities.
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/DALLE-kickoff.png" alt="kickoff seen by DALL-E" width="500"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Stellar-MADE-kickoff_flyer.jpg" alt="kickoff seen by DALL-E" width="500"/>
 
 All these topics explicitly overlap and will be discussed during the meeting. Each participant will preferentially work on one item with a subgroup of participants. At the end, we will establish a plan to keep working together after the meeting, share results efficiently, and co-write the corresponding scientific articles.
 
@@ -84,11 +84,11 @@ List of participants for the kick-off meeting:
 17. Enrico Ragusa (Lyon)
 18. Cristiano Longarini (Milano)
 19. Andrew Winter (Nice)
-20. Additional participant (TBC)
+20. Evelyne Alecian (Grenoble)
 
 Drivers, departure times and meeting points:
-- Nicolás at 13h from bus station: Simone, Claudia, Cristiano.
-- François at 13h from IPAG: Gaspard, Antoine, Eleonora.
+- Nicolás at 13h from Grenoble bus station: Simone, Claudia, Eleonora, Cristiano.
+- François at 13h from IPAG: Gaspard, Antoine, Evelyne.
 - Nicolás at 15h30 from Grenoble bus station: Cathie, Álvaro, Andrew.
 - Enrico at 12h from Lyon via airport: Benedetta, Enrique.
 - Others cars: Giuseppe, Jean-François, Estelle, Cecilia.
