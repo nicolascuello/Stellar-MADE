@@ -18,26 +18,25 @@ Program with indicative times:
     - 21h30: Meeting room available for discussion/games & drinks.  
 - Wednesday 18/01/2023:  
     - 8h: Breakfast (buffet and hot drinks).
-    - 9h: Short presentations on the proposed axes.
+    - 9h: Short review talks & discussion.
     - 10h30: Coffee break.
-    - 11h: Collaborative work.
+    - 11h: Short review talks & discussion.
     - 12h30: Lunch (entrée, glass of wine, main course, dessert, coffee/tea).
     - 14h: Collaborative work.
     - 16h30: Coffee break.
-    - 17h: Short brain-storming session.
-    - 17h30-20h: Free time.
+    - 17h30: Short brain-storming session.
     - 20h: Diner (entrée, glass of wine, main course, dessert, coffee/tea).
-    - 21h30: Meeting room available for discussion or games & drinks.  
+    - 21h30: Meeting room available for discussion/games & drinks.  
 - Thursday 19/01/2023:
     - 8h: Breakfast (buffet and hot drinks).
     - 8h30: Collaborative work.
     - 10h: Coffee break.
-    - 10h30: Brief summary of the ongoing work and discussion.
+    - 10h30: Collaborative work.
     - 12h: Lunch (entrée, glass of wine, main course, dessert, coffee/tea).
-    - 13h-20h: FREE TIME FOR OUTDOOR ACTIVITIES (AM or PM, based on weather).
-    - 17h30: Coffee break available in the meeting room.
+    - 13h-20h: Free time for outdoor activities: walk in the forest, ski...
+    - 17h30: Coffee break.
     - 20h: RACLETTE with a glass of wine and genepi (digestive).
-    - 21h30: Meeting room available for discussion or games & drinks.  
+    - 21h30: Meeting room available for discussion/games & drinks. 
 - Friday 20/01/2023:
     - 8h: Breakfast (buffet and hot drinks).
     - 8h30: Collaborative work.
@@ -72,25 +71,22 @@ List of participants for the kick-off meeting:
 5. Giuseppe Lodato (Milano) 
 6. Isabelle Joncour (Grenoble)
 7. Jean-François Gonzalez (Lyon)
-8. Cecilia Ceccarelli (Grenoble)
-9. Estelle Moraux (Grenoble)
-10. Álvaro Ribas (Cambridge)
-11. Enrique Macías (Munich)
-12. Antoine Alaguero (Grenoble)
-13. Simone Ceppi (Milano)
-14. Benedetta Veronesi (Lyon)
-15. Claudia Toci (Munich)
-16. Eleonora Bianchi (Munich)
-17. Enrico Ragusa (Lyon)
-18. Cristiano Longarini (Milano)
-19. Andrew Winter (Nice)
-20. Evelyne Alecian (Grenoble)
+8. Álvaro Ribas (Cambridge)
+9. Enrique Macías (Munich)
+10. Antoine Alaguero (Grenoble)
+11. Simone Ceppi (Milano)
+12. Benedetta Veronesi (Lyon)
+13. Claudia Toci (Munich)
+14. Eleonora Bianchi (Munich)
+15. Enrico Ragusa (Lyon)
+16. Cristiano Longarini (Milano)
+17. Andrew Winter (Nice)
+18. Evelyne Alecian (Grenoble)
 
 Drivers, departure times and meeting points:
-- Nicolás at 13h from Grenoble bus station: Simone, Claudia, Eleonora, Cristiano.
-- François at 13h from IPAG: Gaspard, Antoine, Evelyne.
+- François at 13h30 from IPAG: Gaspard, Antoine, Evelyne, Eleonora.
+- Giuseppe at 13h30 from IPAG: Simone, Claudia, Cristiano.
 - Nicolás at 15h30 from Grenoble bus station: Cathie, Álvaro, Andrew.
 - Enrico at 12h from Lyon via airport: Benedetta, Enrique.
-- Others cars: Giuseppe, Jean-François, Estelle, Cecilia.
 
 [Back to home page](https://nicolascuello.github.io/Stellar-MADE/)
