@@ -66,7 +66,7 @@ Feel free to get in touch if you are interested.
 ### Outreach activities
 
 - Upcoming event: [Pint of Science](@pintofscienceFR) in Grenoble, 22-24/05/2023.  
-"Discs and planets in multiple stellar systems".
+"Discs and planets in multiple stellar systems".  
 Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).
 
 - Online presentation for elementary school students, Italy, 19/12/2022.  
