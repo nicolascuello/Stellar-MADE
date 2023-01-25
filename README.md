@@ -30,6 +30,7 @@ Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Vil
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/DALLE-kickoff.png" alt="kickoff seen by DALL-E" width="500"/>
 
+
 ### Journal club: Discs & Planets in Multiple Stellar Systems
 
 Every Wednesday at 14h30 (CET) we meet online through [Zoom](https://univ-grenoble-alpes-fr.zoom.us/j/7420595901?pwd=NWpxSolzbkRCLoFRTmVHSCtDdXRIUT09) to discuss recent interesting articles from the [arXiv](https://arxiv.org) with the available [collaborators][collaborators] of the Stellar-MADE project.  
@@ -54,14 +55,26 @@ Feel free to get in touch if you are interested.
 [Complete list of publications][publications]
 
 
+### Featured seminars and talks in conferences:
+
+- Upcoming invited talk at [The Alpha Centauri System](https://alphacen2023.sciencesconf.org) by Nicolás Cuello (June 2023).  
+- Upcoming [JEDI Star Talk](https://sites.google.com/inaf.it/jedi/star-talks?authuser=0) by Nicolás Cuello (February 2023).  
+- Upcoming [4th Phantom Users Workshop](https://phantomsph.bitbucket.io/workshop2023/#program) by Nicolás Cuello (February 2023).  
+- [Formation Planétaire et des Exoplanètes avec l'ELT](https://elt-exoplanets.sciencesconf.org) by Antoine Alaguero (November 2022).
+
+
 ### Outreach activities
 
-- Presentation for high-school French students at IPAG, 14/12/2022;  
-"Simulations numériques & formation planétaire".
+- Upcoming event: [Pint of Science](@pintofscienceFR) in Grenoble, 22-24/05/2023.  
+"Discs and planets in multiple stellar systems".
+Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).
 
 - Online presentation for elementary school students, Italy, 19/12/2022.  
 "I misteri della fomazione planetaria: Pianeti e stelle binarie"  
 [Gallery of selected drawings][drawings] by the students.
+
+- Presentation for high-school French students at IPAG, 14/12/2022;  
+"Simulations numériques & formation planétaire".
 
 
 ### Main collaborators of Stellar-MADE
