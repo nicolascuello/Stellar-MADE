@@ -57,9 +57,9 @@ Feel free to get in touch if you are interested.
 
 ### Featured seminars and talks in conferences:
 
-- Upcoming invited talk at [The Alpha Centauri System](https://alphacen2023.sciencesconf.org) by Nicolás Cuello (June 2023).  
-- Upcoming [JEDI Star Talk](https://sites.google.com/inaf.it/jedi/star-talks?authuser=0) by Nicolás Cuello (February 2023).  
-- Upcoming [4th Phantom Users Workshop](https://phantomsph.bitbucket.io/workshop2023/#program) by Nicolás Cuello (February 2023).  
+- Upcoming: invited talk at [The Alpha Centauri System](https://alphacen2023.sciencesconf.org) by Nicolás Cuello (June 2023).  
+- Upcoming: invited talk at [4th Phantom Users Workshop](https://phantomsph.bitbucket.io/workshop2023/#program) by Nicolás Cuello (February 2023).  
+- Upcoming: invited seminar for the [JEDI Star Talks](https://sites.google.com/inaf.it/jedi/star-talks?authuser=0) by Nicolás Cuello (February 2023).  
 - [Formation Planétaire et des Exoplanètes avec l'ELT](https://elt-exoplanets.sciencesconf.org) by Antoine Alaguero (November 2022).
 
 
