@@ -33,6 +33,8 @@ We have 2 presentations per meeting:
 For more information, follow this link: [Stellar-MADE journal club](journalclub).  
 Feel free to get in touch if you are interested.
 
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/astropirate-ship.png" alt="astropirate ship in space by DALL-E" width="500"/>
+
 
 ### Featured publications:
 

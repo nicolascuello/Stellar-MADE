@@ -18,9 +18,9 @@ Program with indicative times:
     - 21h30: Meeting room available for discussion/games & drinks.  
 - Wednesday 18/01/2023:  
     - 8h: Breakfast (buffet and hot drinks).
-    - 9h: Short review talks & discussion.
+    - 9h: Review talks & discussion: Gaspard, Andrew, Enrico.
     - 10h30: Coffee break.
-    - 11h: Short review talks & discussion.
+    - 11h: Review talks & discussion: Cathie, François.
     - 12h30: Lunch (entrée, glass of wine, main course, dessert, coffee/tea).
     - 14h: Collaborative work.
     - 16h30: Coffee break.
