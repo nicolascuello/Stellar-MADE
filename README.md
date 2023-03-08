@@ -58,9 +58,9 @@ Feel free to get in touch if you are interested.
 
 ### Outreach activities
 
-- Under preparation: Comic strips about the Stellar-MADE project, coordinated by Séverine Alvain (CNRS).  
+- In preparation: Comic strips about the Stellar-MADE project, coordinated by Séverine Alvain (CNRS).  
 
-- Upcoming event: [Pint of Science](@pintofscienceFR) in Grenoble, 22-24/05/2023.  
+- Upcoming: [Pint of Science](@pintofscienceFR) in Grenoble, 22-24/05/2023.  
 "Discs and planets in multiple stellar systems".  
 Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).  
 
