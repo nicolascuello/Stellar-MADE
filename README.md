@@ -107,7 +107,7 @@ Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Vil
 
 ### Acknowledgements
 
-This project has received funding from the [European Research Council](https://erc.europa.eu/homepage) (ERC) under the European Union Horizon 2020 research and innovation program (grant agreement No. 101042275, project Stellar-MADE).
+Funded by the European Union (ERC, Stellar-MADE, No. 101042275). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/European_Research_Council_logo.svg.png" alt="ERC logo" width="300"/>
 
