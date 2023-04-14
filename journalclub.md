@@ -2,18 +2,18 @@
 # Stellar-MADE journal club
 
 ### Week 12: 08/03/2023  
-- [The First Circumbinary Planet Discovered with Radial Velocities](https://arxiv.org/pdf/2301.10794.pdf), Standing et al. (2023) – presented by Nicolás Cuello.
-- [DESTINYS: Diverse outcomes of binary-disk interactions](https://arxiv.org/pdf/2302.12824.pdf), Zhang et al. (2023) – presented by Antoine Alaguero.
+- [The First Circumbinary Planet Discovered with Radial Velocities](https://arxiv.org/abs/2301.10794), Standing et al. (2023) – presented by Nicolás Cuello.
+- [DESTINYS: Diverse outcomes of binary-disk interactions](https://arxiv.org/abs/2302.12824), Zhang et al. (2023) – presented by Antoine Alaguero.
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-week12.jpg" alt="journal club flyer" width="700"/>
 
 ### Week 11: 08/02/2023  
-- [What does a typical full-disc around a post-AGB binary look like?](https://arxiv.org/pdf/2301.02622.pdf), Corporaal et al. (2023) – presented by Akke Corporaal.
-- [The First Circumbinary Planet Discovered with Radial Velocities](https://arxiv.org/pdf/2301.10794.pdf), Standing et al. (2023) – presented by Nicolás Cuello.
+- [What does a typical full-disc around a post-AGB binary look like?](https://arxiv.org/abs/2301.02622), Corporaal et al. (2023) – presented by Akke Corporaal.
+- [The First Circumbinary Planet Discovered with Radial Velocities](https://arxiv.org/abs/2301.10794), Standing et al. (2023) – presented by Nicolás Cuello.
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-week11.jpg" alt="journal club flyer" width="700"/>
 
 ### Week 10: 01/02/2023  
-- [Grid-Based Simulations of Polar Circumbinary Disks: Polar Alignment and Vortex Formation](https://arxiv.org/pdf/2301.07796.pdf), Rabago et al. (2023) – presented by Cristiano Longarini.
-- [Kinematic and thermal signatures of the directly imaged protoplanet candidate around Elias 2-24](https://arxiv.org/pdf/2301.08759), Pinte et al. (2023) – presented by Antoine Alaguero.
+- [Grid-Based Simulations of Polar Circumbinary Disks: Polar Alignment and Vortex Formation](https://arxiv.org/abs/2301.07796), Rabago et al. (2023) – presented by Cristiano Longarini.
+- [Kinematic and thermal signatures of the directly imaged protoplanet candidate around Elias 2-24](https://arxiv.org/abs/2301.08759), Pinte et al. (2023) – presented by Antoine Alaguero.
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-week10.jpg" alt="journal club flyer" width="700"/>
 
 ### Week 9: 11/01/2023  
