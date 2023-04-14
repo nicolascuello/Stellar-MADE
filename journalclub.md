@@ -1,6 +1,21 @@
 
 # Stellar-MADE journal club
 
+### Week 12: 08/03/2023  
+- [The First Circumbinary Planet Discovered with Radial Velocities](https://arxiv.org/pdf/2301.10794.pdf), Standing et al. (2023) – presented by Nicolás Cuello.
+- [DESTINYS: Diverse outcomes of binary-disk interactions](https://arxiv.org/pdf/2302.12824.pdf), Zhang et al. (2023) – presented by Antoine Alaguero.
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-week12.jpg" alt="journal club flyer" width="700"/>
+
+### Week 11: 08/02/2023  
+- [What does a typical full-disc around a post-AGB binary look like?](https://arxiv.org/pdf/2301.02622.pdf), Corporaal et al. (2023) – presented by Akke Corporaal.
+- [The First Circumbinary Planet Discovered with Radial Velocities](https://arxiv.org/pdf/2301.10794.pdf), Standing et al. (2023) – presented by Nicolás Cuello.
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-wee11.jpg" alt="journal club flyer" width="700"/>
+
+### Week 10: 01/02/2023  
+- [Grid-Based Simulations of Polar Circumbinary Disks: Polar Alignment and Vortex Formation](https://arxiv.org/pdf/2301.07796.pdf), Rabago et al. (2023) – presented by Cristiano Longarini.
+- [Kinematic and thermal signatures of the directly imaged protoplanet candidate around Elias 2-24](https://arxiv.org/pdf/2301.08759), Pinte et al. (2023) – presented by Antoine Alaguero.
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-week10.jpg" alt="journal club flyer" width="700"/>
+
 ### Week 9: 11/01/2023  
 - [X-Shooter Survey of Young Intermediate Mass Stars -- I. Stellar Characterization and Disc Evolution](https://arxiv.org/abs/2212.06791), Iglesias et al. (2022) – presented by Miguel Vioque.
 - [Dust dynamics in planet-forming discs in binary systems](https://arxiv.org/abs/2212.07711), Zagaria et al. (2022) – presented by Claudia Toci.

@@ -60,8 +60,8 @@ Feel free to get in touch if you are interested.
 
 - In preparation: Comic strips about the Stellar-MADE project, coordinated by Séverine Alvain (CNRS).  
 
-- Upcoming: [Pint of Science](@pintofscienceFR) in Grenoble, 22-24/05/2023.  
-"Discs and planets in multiple stellar systems".  
+- Upcoming: [Pint of Science](@pintofscienceFR) in Grenoble, 23/05/2023.  
+"Discs and planets in multiple stellar systems". Program and details [here](https://www.pintofscience.fr/event/disques-et-exoplanetes-autour-detoiles-multiples).  
 Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).  
 
 - Upcoming: Online interview about stellar multiplicity and planet formation on Twich with [GalactiCamille](https://twitter.com/galacticamille) to appear [here](twitch.tv/GalactiCamille).  
@@ -107,7 +107,7 @@ Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Vil
 
 ### Acknowledgements
 
-Funded by the European Union (ERC, Stellar-MADE, No. 101042275). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MADE, No. 101042275). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.  
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/European_Research_Council_logo.svg.png" alt="ERC logo" width="300"/>
 
