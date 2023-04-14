@@ -9,7 +9,7 @@
 ### Week 11: 08/02/2023  
 - [What does a typical full-disc around a post-AGB binary look like?](https://arxiv.org/pdf/2301.02622.pdf), Corporaal et al. (2023) – presented by Akke Corporaal.
 - [The First Circumbinary Planet Discovered with Radial Velocities](https://arxiv.org/pdf/2301.10794.pdf), Standing et al. (2023) – presented by Nicolás Cuello.
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-wee11.jpg" alt="journal club flyer" width="700"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/journal-club-Stellar-MADE-week11.jpg" alt="journal club flyer" width="700"/>
 
 ### Week 10: 01/02/2023  
 - [Grid-Based Simulations of Polar Circumbinary Disks: Polar Alignment and Vortex Formation](https://arxiv.org/pdf/2301.07796.pdf), Rabago et al. (2023) – presented by Cristiano Longarini.
