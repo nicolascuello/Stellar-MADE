@@ -55,16 +55,18 @@ Feel free to get in touch if you are interested.
 - Invited seminar for the [JEDI Star Talks](https://sites.google.com/inaf.it/jedi/star-talks?authuser=0) by Nicolás Cuello (February 2023). Talk available [here](https://drive.google.com/file/d/1OvxCVMWqItsQTncMxrJtMFNKPLMGa_-G/view?usp=sharing).  
 - [Formation Planétaire et des Exoplanètes avec l'ELT](https://elt-exoplanets.sciencesconf.org) by Antoine Alaguero (November 2022).
 
+[Complete list of talks][talks]
+
 
 ### Outreach activities
 
 - In preparation: Comic strips about the Stellar-MADE project, coordinated by Séverine Alvain (CNRS).  
 
-- Upcoming: [Pint of Science](@pintofscienceFR) in Grenoble, 23/05/2023.  
+- [Pint of Science](@pintofscienceFR) in Grenoble, 23/05/2023.  
 "Discs and planets in multiple stellar systems". Program and details [here](https://www.pintofscience.fr/event/disques-et-exoplanetes-autour-detoiles-multiples).  
 Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).  
 
-- Upcoming: Online interview about stellar multiplicity and planet formation on Twich with [GalactiCamille](https://twitter.com/galacticamille) to appear [here](twitch.tv/GalactiCamille).  
+- Online interview about stellar multiplicity and planet formation on Twich with [GalactiCamille](https://twitter.com/galacticamille) to appear [here](twitch.tv/GalactiCamille).  
 
 - Online presentation for elementary school students, Italy, 19/12/2022.  
 "I misteri della fomazione planetaria: Pianeti e stelle binarie"  
@@ -88,6 +90,13 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 [Extended list of collaborators][collaborators]
 
 
+### Phantom-mcfost workshop at IPAG
+
+Dates: 12-16 June 2023.  
+Location: [IPAG](https://ipag.osug.fr), Grenoble.  
+[List of participants & information](phantom-mcfost).
+
+
 ### Kick-off meeting in the Alps
 
 Dates: 17, 18, 19, 20 January 2023.  
@@ -99,8 +108,8 @@ Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Vil
 
 ### Current (co)supervision of students
 
-- Upcoming: Félix Sauvourel (Grenoble, France): 2023, M1 student.  
-- Upcomging: Yuna Ageron--Dubreil (Grenoble, France): 2023, high-school student.
+- Ongoing: Félix Sauvourel (Grenoble, France): 2023, M1 student, with Antoine Alaguero.  
+- Ongoing: Yuna Ageron--Dubreil (Grenoble, France): 2023, high-school student.
 - Antoine Alaguero (Grenoble, France): 2022-2025, PhD student, with François Ménard.
 - Emmanuel Gianuzzi (Córdoba, Argentina): 2021-2024, PhD student, with Cristian Giuppone.
 - Simone Ceppi (Milano, Italy): 2020-2023, PhD student, with Giuseppe Lodato.  
@@ -118,6 +127,8 @@ Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MAD
 [nicolas-cuello]: https://nicolascuello.github.io/Stellar-MADE/nicolas-cuello
 [antoine-alaguero]: https://nicolascuello.github.io/Stellar-MADE/antoine-alaguero
 [publications]: https://ui.adsabs.harvard.edu/public-libraries/JlXaxrUKQL2dp176Y2cojQ
+[talks]: https://nicolascuello.github.io/Stellar-MADE/talks
 [journalclub]: https://nicolascuello.github.io/Stellar-MADE/journalclub
 [kickoff]: https://nicolascuello.github.io/Stellar-MADE/kickoff
+[phantom-mcfost]: https://nicolascuello.github.io/Stellar-MADE/phantom-mcfost
 [drawings]: https://nicolascuello.github.io/Stellar-MADE/drawings
