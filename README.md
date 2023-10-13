@@ -12,7 +12,8 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 - [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG)
 - [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG)
 - [Pedro Poblete](pedro-poblete) (Postdoc, soon at IPAG)
-
+- [Postdoc #2](postdoc2) To be hired in 2024.
+- [PhD Student #2](PhD-grant) To be hired in 2024.
 
 ### Goals of this project:
 
@@ -23,25 +24,34 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 [Abstract of the project][about]
 
 
+### Stellar-MADE Winter Meeting 2024
+
+Dates: 16, 17, 18, 19 January 2024.  
+Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Villard de Lans.  
+[List of participants & information](winter-meeting).
+
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Flyer-StellarMADE-Winter-Meeting-2024.png" alt="winter meeting seen by midjourney" width="500"/>
+
+
 ### Job opportunities
 
-- 03/2024-07/2024: [M2 intership](m2-internship) on circumbinary planets in multiple stellar systems;  
+- 03/2024-07/2024: [M2 internship](m2-internship) on circumbinary planets in multiple stellar systems;  
 - 03/2024-02/2027: [Postdoc position](postdoc2) on exoplanet stability and observations in multiple stellar systems;
 - 10/2024-09/2027: [PhD grant](PhD-grant) on exoplanet architectures in multiple stellar systems;  
 
 
-### Journal club: Discs & Planets in Multiple Stellar Systems
+### Disc Dynamics & Planet Formation Journal Club
 
-Every Wednesday at 14h30 (CET) we meet online through [Zoom](https://univ-grenoble-alpes-fr.zoom.us/j/7420595901?pwd=NWpxSolzbkRCLoFRTmVHSCtDdXRIUT09) to discuss recent interesting articles from the [arXiv](https://arxiv.org) with the available [collaborators][collaborators] of the Stellar-MADE project.  
+Every Wednesday at 14h30 (CET) we meet online through [Zoom](https://univ-grenoble-alpes-fr.zoom.us/j/7420595901?pwd=NWpxSolzbkRCLoFRTmVHSCtDdXRIUT09) to discuss recent interesting articles from the [arXiv](https://arxiv.org). This activity is co-organised between two ongoing ERC projects: Stellar-MADE (PI: N. Cuello) and Dust2Planets (PI: F. Ménard). We alternate between sessions dedicated to "multiple stellar systems" and sessions dedicated to "dust dynamics and radiative properties".
 
-We have 2 presentations per meeting:
-- a long version (15-20 min): detailed discussion;
-- a short one (5 min): quick update / 1-2 slides.
+The format is the following:
+- a long presentation (15-20 min) followed by discussion;
+- a short one (5 min): quick overview or new idea / 1-2 slides.
 
 For more information, follow this link: [Stellar-MADE journal club](journalclub).  
 Feel free to get in touch if you are interested.
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/astropirate-ship.png" alt="astropirate ship in space by DALL-E" width="500"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Stellar-MADE-logo.png" alt="Stellar-MADE unofficial logo" width="350"/>
 
 
 ### Featured publications:
@@ -58,7 +68,7 @@ Feel free to get in touch if you are interested.
 
 ### Featured seminars and talks in conferences:
 
-- Upcoming invited talk at [The Alpha Centauri System](https://alphacen2023.sciencesconf.org) by Nicolás Cuello (June 2023).  
+- Invited talk at [The Alpha Centauri System](https://alphacen2023.sciencesconf.org) by Nicolás Cuello (June 2023).  
 - Invited talk at [4th Phantom Users Workshop](https://phantomsph.bitbucket.io/workshop2023/#program) by Nicolás Cuello (February 2023). Talk available [here](https://youtu.be/eO0KnPJD6J4).  
 - Invited seminar for the [JEDI Star Talks](https://sites.google.com/inaf.it/jedi/star-talks?authuser=0) by Nicolás Cuello (February 2023). Talk available [here](https://drive.google.com/file/d/1OvxCVMWqItsQTncMxrJtMFNKPLMGa_-G/view?usp=sharing).  
 - [Formation Planétaire et des Exoplanètes avec l'ELT](https://elt-exoplanets.sciencesconf.org) by Antoine Alaguero (November 2022).
@@ -98,34 +108,19 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 [Extended list of collaborators][collaborators]
 
 
-### Stellar-MADE Winter Meeting
+### Organised meetings & workshops
 
-Dates: 16, 17, 18, 19 January 2024.  
-Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Villard de Lans.  
-[List of participants & information](winter-meeting).
-
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/Flyer-StellarMADE-Winter-Meeting-2024.png" alt="winter meeting seen by midjourney" width="500"/>
-
-### Phantom-mcfost workshop at IPAG
-
-Dates: 12-16 June 2023.  
-Location: [IPAG](https://ipag.osug.fr), Grenoble.  
+- Phantom-mcfost workshop at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
 [List of participants & information](phantom-mcfost).
 
-
-### Kick-off meeting in the Alps
-
-Dates: 17, 18, 19, 20 January 2023.  
-Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Villard de Lans.  
+- Stellar-MADE Kick-off meeting at Villard-de-Lans(https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
 [List of participants & information](kickoff).
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/DALLE-kickoff.png" alt="kickoff seen by DALL-E" width="500"/>
 
+### Supervision of students
 
-### Current (co)supervision of students
-
-- Ongoing: Félix Sauvourel (Grenoble, France): 2023, M1 student, with Antoine Alaguero.  
-- Ongoing: Yuna Ageron--Dubreil (Grenoble, France): 2023, high-school student.
+- Félix Sauvourel (Grenoble, France): 2023, M1 student, with Antoine Alaguero.  
+- Yuna Ageron--Dubreil (Grenoble, France): 2023, high-school student, with Antoine Alaguero.
 - Antoine Alaguero (Grenoble, France): 2022-2025, PhD student, with François Ménard.
 - Emmanuel Gianuzzi (Córdoba, Argentina): 2021-2024, PhD student, with Cristian Giuppone.
 - Simone Ceppi (Milano, Italy): 2020-2023, PhD student, with Giuseppe Lodato.  
