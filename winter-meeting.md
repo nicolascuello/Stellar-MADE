@@ -1,0 +1,74 @@
+# Stellar-MADE project
+
+We plan to work on 3 main axes during the meeting: 
+- TBD  
+- TBD  
+- TBD  
+
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Flyer-StellarMADE-Winter-Meeting-2024.png" alt="winter meeting seen by midjourney" width="500"/>
+
+All these topics explicitly overlap and will be discussed during the meeting. Each participant will preferentially work on one item with a subgroup of participants. At the end, we will establish a plan to keep working together after the meeting, share results efficiently, and co-write the corresponding scientific articles.
+
+Program with indicative times:  
+- Tuesday 16/01/2024:  
+    - During the day: travel to Grenoble and then to Villard de Lans.
+    - 16h30: Welcome session in the meeting room at Hôtel des Playes.
+    - 20h: Diner (entrée, glass of wine, main course, dessert, coffee/tea).
+    - 21h30: Meeting room available for discussion/games & drinks.  
+- Wednesday 17/01/2024:  
+    - 8h: Breakfast (buffet and hot drinks).
+    - 9h: Review talks & discussion
+    - 10h30: Coffee break.
+    - 11h: Review talks & discussion
+    - 12h30: Lunch (entrée, glass of wine, main course, dessert, coffee/tea).
+    - 14h: Collaborative work.
+    - 16h30: Coffee break.
+    - 17h30: Short brain-storming session.
+    - 20h: Diner (entrée, glass of wine, main course, dessert, coffee/tea).
+    - 21h30: Meeting room available for discussion/games & drinks.  
+- Thursday 18/01/2024:
+    - 8h: Breakfast (buffet and hot drinks).
+    - 8h30: Collaborative work.
+    - 10h: Coffee break.
+    - 10h30: Collaborative work.
+    - 12h: Lunch (entrée, glass of wine, main course, dessert, coffee/tea).
+    - 13h-20h: Free time for outdoor activities: walk in the forest, ski...
+    - 17h30: Coffee break.
+    - 20h: RACLETTE with a glass of wine and genepi (digestive).
+    - 21h30: Meeting room available for discussion/games & drinks. 
+- Friday 19/01/2024:
+    - 8h: Breakfast (buffet and hot drinks).
+    - 8h30: Collaborative work.
+    - 10h30: Coffee break.
+    - 11h: Wrap-up session & strategy for the future.
+    - 12h30: Lunch (entrée, glass of wine, main course, dessert, coffee/tea).
+    - 14h: Departure from Hôtel des Playes.
+    - 15h: Back in Grenoble.  
+
+
+List of participants for the kick-off meeting:
+1. Nicolás Cuello (IPAG, Grenoble, France)
+2. François Ménard (IPAG, Grenoble, France)
+3. Myriam Benisty (OCA, Nice, France)
+4. Álvaro Ribas (IoA, Cambridge, UK)
+5. Claudia Toci (ESO, Garching, Germany)
+6. Jeff Gonzalez (ENS Lyon, France)
+7. Giuseppe Lodato (U. Milano, Italy)
+8. Martina Toscani (U. Bicocca, Milano, Italy)
+9. Miguel Vioque (ESO, Garching, Germany)
+10. Eleonora Bianchi (X, Munich, Germany)
+11. Gaspard Duchêne (IPAG, Grenoble, France)
+12. Benedetta Veronesi (ENS Lyon, France)
+13. Maxime Lombard (X, Taiwan)
+14. Matteo Bugli (U. Torino, Italy)
+15. Andrew Winter (OCA, Nice, France)
+16. Hossam Aly (X, Netherlands)
+17. Pedro Poblete (IPAG, Grenoble, France)
+18. Antoine Alaguero (IPAG, Grenoble, France)
+19. Simone Ceppi (U. Milano, Italy)
+20. Joe Stadler (OCA, Nice, France)
+
+Drivers, departure times and meeting points:  
+- TBC
+
+[Back to home page](https://nicolascuello.github.io/Stellar-MADE/)
