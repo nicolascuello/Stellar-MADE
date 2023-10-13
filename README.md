@@ -11,6 +11,7 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 
 - [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG)
 - [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG)
+- [Pedro Poblete](pedro-poblete) (Postdoc, soon at IPAG)
 
 
 ### Goals of this project:
@@ -20,6 +21,13 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 - Characterise planetary architectures and the resulting exoplanet population.
 
 [Abstract of the project][about]
+
+
+### Job opportunities
+
+- 03/2024-07/2024: [M2 intership](m2-internship) on circumbinary planets in multiple stellar systems;  
+- 03/2024-02/2027: [Postdoc position](postdoc2) on exoplanet stability and observations in multiple stellar systems;
+- 10/2024-09/2027: [PhD grant](PhD-grant) on exoplanet architectures in multiple stellar systems;  
 
 
 ### Journal club: Discs & Planets in Multiple Stellar Systems
