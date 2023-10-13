@@ -12,3 +12,5 @@ The recent discovery of young stellar systems with three or more stars with prot
 The aim of this internship will be to explore planetary system dynamics and stability in triple stellar systems through N-body calculations. To this end we will use state-of-the-art N-body integrators (e.g. code REBOUND). The work will focus on identifying the regions of stability and chaos for circumbinary planetary systems within triple stellar systems. These results will serve as a proxy to identify where this kind of planets could form, evolve, and survive around young triple stellar systems recently observed. Based on these findings, we will predict how to search these exoplanets through transit and radial velocity methods.  
 
 The student is expected to acquire expertise in celestial mechanics, N-body integrators, exo-planetary system architectures, data analysis, and science communication. Regular scientific exchanges with other researchers at the IPAG (Odyssey and Exoplanètes teams mainly) will ensure the astrophysical relevance of this project within the fields of planet formation and exoplanets.  
+
+[Back to home page](https://nicolascuello.github.io/Stellar-MADE/)
