@@ -98,6 +98,14 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 [Extended list of collaborators][collaborators]
 
 
+### Stellar-MADE Winter Meeting
+
+Dates: 16, 17, 18, 19 January 2024.  
+Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Villard de Lans.  
+[List of participants & information](winter-meeting).
+
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Flyer-StellarMADE-Winter-Meeting-2024.png" alt="winter meeting seen by midjourney" width="500"/>
+
 ### Phantom-mcfost workshop at IPAG
 
 Dates: 12-16 June 2023.  
