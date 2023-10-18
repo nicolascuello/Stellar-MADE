@@ -1,13 +1,15 @@
 # Stellar-MADE project
 
-We plan to work on 3 main axes during the meeting: 
-- TBD  
-- TBD  
-- TBD  
+We plan to work on 3 main axes during the meeting:
+- Formation and observation of discs in multiple systems;  
+- Dust dynamics and grain growth in protoplanetary discs;  
+- Planet stability and evolution in multiple stellar systems.  
+
+We will also seek new connections between two different fields: "black holes and gravitational waves" & "disc dynamics and planet formation".
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/Flyer-StellarMADE-Winter-Meeting-2024.png" alt="winter meeting seen by midjourney" width="500"/>
 
-All these topics explicitly overlap and will be discussed during the meeting. Each participant will preferentially work on one item with a subgroup of participants. At the end, we will establish a plan to keep working together after the meeting, share results efficiently, and co-write the corresponding scientific articles.
+Each participant will preferentially work on one or several items with a subgroup of participants. At the end, we will establish a plan to keep working together after the meeting, share results efficiently, and co-write the corresponding scientific articles.
 
 Program with indicative times:  
 - Tuesday 16/01/2024:  
@@ -17,9 +19,9 @@ Program with indicative times:
     - 21h30: Meeting room available for discussion/games & drinks.  
 - Wednesday 17/01/2024:  
     - 8h: Breakfast (buffet and hot drinks).
-    - 9h: Review talks & discussion
+    - 9h: Review talks & discussio.
     - 10h30: Coffee break.
-    - 11h: Review talks & discussion
+    - 11h: Review talks & discussion.
     - 12h30: Lunch (entrée, glass of wine, main course, dessert, coffee/tea).
     - 14h: Collaborative work.
     - 16h30: Coffee break.
@@ -32,10 +34,10 @@ Program with indicative times:
     - 10h: Coffee break.
     - 10h30: Collaborative work.
     - 12h: Lunch (entrée, glass of wine, main course, dessert, coffee/tea).
-    - 13h-20h: Free time for outdoor activities: walk in the forest, ski...
+    - 13h-20h: Free time for outdoor activities: walk in the forest, ski, etc.
     - 17h30: Coffee break.
     - 20h: RACLETTE with a glass of wine and genepi (digestive).
-    - 21h30: Meeting room available for discussion/games & drinks. 
+    - 21h30: Meeting room available for discussion/games & drinks.
 - Friday 19/01/2024:
     - 8h: Breakfast (buffet and hot drinks).
     - 8h30: Collaborative work.
@@ -69,6 +71,6 @@ List of participants for the kick-off meeting:
 20. Joe Stadler (OCA, Nice, France)
 
 Drivers, departure times and meeting points:  
-- TBC
+- To be decided in January.
 
 [Back to home page](https://nicolascuello.github.io/Stellar-MADE/)
