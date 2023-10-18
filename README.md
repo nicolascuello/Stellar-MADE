@@ -12,8 +12,9 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 - [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG)
 - [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG)
 - [Pedro Poblete](pedro-poblete) (Postdoc, soon at IPAG)
-- [Postdoc #2](postdoc2) To be hired in 2024.
-- [PhD Student #2](PhD-grant) To be hired in 2024.
+- [Postdoc #2](postdoc2) (To be hired around March 2024)
+- [PhD Student #2](PhD-grant) (To be hired in October 2024)
+
 
 ### Goals of this project:
 
@@ -22,6 +23,13 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 - Characterise planetary architectures and the resulting exoplanet population.
 
 [Abstract of the project][about]
+
+
+### Job opportunities
+
+- 03/2024-07/2024: [M2 internship](m2-internship) on circumbinary planets in multiple stellar systems;  
+- 03/2024-02/2027: [Postdoc position](postdoc2) on exoplanet stability and observations in multiple stellar systems;  
+- 10/2024-09/2027: [PhD grant](PhD-grant) on exoplanet architectures in multiple stellar systems;  
 
 
 ### Stellar-MADE Winter Meeting 2024
@@ -33,23 +41,15 @@ Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Vil
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/Flyer-StellarMADE-Winter-Meeting-2024.png" alt="winter meeting seen by midjourney" width="500"/>
 
 
-### Job opportunities
-
-- 03/2024-07/2024: [M2 internship](m2-internship) on circumbinary planets in multiple stellar systems;  
-- 03/2024-02/2027: [Postdoc position](postdoc2) on exoplanet stability and observations in multiple stellar systems;
-- 10/2024-09/2027: [PhD grant](PhD-grant) on exoplanet architectures in multiple stellar systems;  
-
-
 ### Disc Dynamics & Planet Formation Journal Club
 
-Every Wednesday at 14h30 (CET) we meet online through [Zoom](https://univ-grenoble-alpes-fr.zoom.us/j/7420595901?pwd=NWpxSolzbkRCLoFRTmVHSCtDdXRIUT09) to discuss recent interesting articles from the [arXiv](https://arxiv.org). This activity is co-organised between two ongoing ERC projects: Stellar-MADE (PI: N. Cuello) and Dust2Planets (PI: F. Ménard). We alternate between sessions dedicated to "multiple stellar systems" and sessions dedicated to "dust dynamics and radiative properties".
+Every Tuesday at 14h00 (CET) we meet online through Zoom to discuss recent interesting articles from the [arXiv](https://arxiv.org). This activity is co-organised between two ongoing ERC projects: Stellar-MADE (PI: N. Cuello) and Dust2Planets (PI: F. Ménard). We alternate between sessions dedicated to "multiple stellar systems" and sessions dedicated to "dust dynamics and observations".
 
 The format is the following:
 - a long presentation (15-20 min) followed by discussion;
 - a short one (5 min): quick overview or new idea / 1-2 slides.
 
-For more information, follow this link: [Stellar-MADE journal club](journalclub).  
-Feel free to get in touch if you are interested.
+For more information, check the [journal club](journalclub) webpage.  
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/Stellar-MADE-logo.png" alt="Stellar-MADE unofficial logo" width="350"/>
 
@@ -78,7 +78,7 @@ Feel free to get in touch if you are interested.
 
 ### Outreach activities
 
-- In preparation: Comic strips about the Stellar-MADE project, coordinated by Séverine Alvain (CNRS).  
+- In preparation: Comic strips about the Stellar-MADE project by the Ink Link and coordinated by Séverine Alvain.  
 
 - [Pint of Science](@pintofscienceFR) in Grenoble, 23/05/2023.  
 "Discs and planets in multiple stellar systems". Program and details [here](https://www.pintofscience.fr/event/disques-et-exoplanetes-autour-detoiles-multiples).  
@@ -94,6 +94,15 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 "Simulations numériques & formation planétaire".  
 
 
+### Organised meetings & workshops
+
+- Phantom-mcfost workshop at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
+[List of participants & information](phantom-mcfost).
+
+- Stellar-MADE Kick-off meeting at Villard-de-Lans(https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
+[List of participants & information](kickoff).
+
+
 ### Main collaborators of Stellar-MADE
 
 - François Ménard (Grenoble, France)  
@@ -106,15 +115,6 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 - Álvaro Ribas (Cambrdige, UK)
 
 [Extended list of collaborators][collaborators]
-
-
-### Organised meetings & workshops
-
-- Phantom-mcfost workshop at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
-[List of participants & information](phantom-mcfost).
-
-- Stellar-MADE Kick-off meeting at Villard-de-Lans(https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
-[List of participants & information](kickoff).
 
 
 ### Supervision of students
