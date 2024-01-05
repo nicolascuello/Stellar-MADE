@@ -11,9 +11,11 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 
 - [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG)
 - [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG)
-- [Pedro Poblete](pedro-poblete) (Postdoc, soon at IPAG)
-- [Postdoc #2](postdoc2) (To be hired around March 2024)
-- [PhD Student #2](PhD-grant) (To be hired in October 2024)
+- [Pedro Poblete](pedro-poblete) (Postdoc, IPAG)
+- [Romain Grane](romain-grane) (M2 student, soon at IPAG)
+- [Postdoc #2](postdoc2) (To be hired in 2024)
+- [PhD Student #2](PhD-grants) (To be hired in 2024)
+- [PhD Student #3](PhD-grants) (To be hired in 2024)
 
 
 ### Goals of this project:
@@ -27,9 +29,9 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 
 ### Job opportunities
 
-- 03/2024-07/2024: [M2 internship](m2-internship) on circumbinary planets in multiple stellar systems;  
 - 03/2024-02/2027: [Postdoc position](postdoc2) on exoplanet stability and observations in multiple stellar systems;  
-- 10/2024-09/2027: [PhD grant](PhD-grant) on exoplanet architectures in multiple stellar systems;  
+- 10/2024-09/2027: [PhD grant](PhD-grants) on exoplanet architectures in multiple stellar systems;  
+- 10/2024-09/2027: [PhD grant](PhD-grants) on disc evolution in multiple stellar systems and population synthesis;  
 
 
 ### Stellar-MADE Winter Meeting 2024
@@ -99,7 +101,7 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 - Phantom-mcfost workshop at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
 [List of participants & information](phantom-mcfost).
 
-- Stellar-MADE Kick-off meeting at Villard-de-Lans(https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
+- Stellar-MADE [Kick-off meeting at Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
 [List of participants & information](kickoff).
 
 

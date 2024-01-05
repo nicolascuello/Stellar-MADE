@@ -3,7 +3,7 @@
 We plan to work on 3 main axes during the meeting:
 - Formation and observation of discs in multiple systems;  
 - Dust dynamics and grain growth in protoplanetary discs;  
-- Planet stability and evolution in multiple stellar systems.  
+- Stability and evolution in multiple stellar systems.  
 
 We will also seek new connections between two different fields: "black holes and gravitational waves" & "disc dynamics and planet formation".
 
@@ -51,26 +51,31 @@ Program with indicative times:
 List of participants for the kick-off meeting:
 1. Nicolás Cuello (IPAG, Grenoble, France)
 2. François Ménard (IPAG, Grenoble, France)
-3. Myriam Benisty (OCA, Nice, France)
-4. Álvaro Ribas (IoA, Cambridge, UK)
-5. Claudia Toci (ESO, Garching, Germany)
-6. Jeff Gonzalez (ENS Lyon, France)
-7. Giuseppe Lodato (U. Milano, Italy)
-8. Martina Toscani (U. Bicocca, Milano, Italy)
-9. Miguel Vioque (ESO, Garching, Germany)
-10. Eleonora Bianchi (X, Munich, Germany)
-11. Gaspard Duchêne (IPAG, Grenoble, France)
-12. Benedetta Veronesi (ENS Lyon, France)
-13. Maxime Lombard (X, Taiwan)
-14. Matteo Bugli (U. Torino, Italy)
-15. Andrew Winter (OCA, Nice, France)
-16. Hossam Aly (X, Netherlands)
-17. Pedro Poblete (IPAG, Grenoble, France)
-18. Antoine Alaguero (IPAG, Grenoble, France)
-19. Simone Ceppi (U. Milano, Italy)
-20. Joe Stadler (OCA, Nice, France)
+3. Álvaro Ribas (IoA, Cambridge, UK)
+4. Claudia Toci (ESO, Garching, Germany)
+5. Jeff Gonzalez (ENS Lyon, France)
+6. Giuseppe Lodato (U. Milano, Italy)
+7. Martina Toscani (U. Bicocca, Milano, Italy)
+8. Miguel Vioque (ESO, Garching, Germany)
+9. Eleonora Bianchi (X, Munich, Germany)
+10. Gaspard Duchêne (IPAG, Grenoble, France)
+11. Benedetta Veronesi (ENS Lyon, France)
+12. Maxime Lombard (NTNU, Taiwan)
+13. Matteo Bugli (U. Torino, Italy)
+14. Andrew Winter (OCA, Nice, France)
+15. Hossam Aly (TU Delft, Netherlands)
+16. Pedro Poblete (IPAG, Grenoble, France)
+17. Antoine Alaguero (IPAG, Grenoble, France)
+18. Simone Ceppi (U. Milano, Italy)
+19. Joe Stadler (OCA, Nice, France)
+20. Pietro Curone (U. Milano, Italy)
 
 Drivers, departure times and meeting points:  
-- To be decided in January.
+- Nicolás from Grenoble: Martina, Álvaro, Miguel.  
+- Antoine from Grenoble: Pedro, X, X.  
+- Gaspard from Grenoble: X, X, X.  
+- François from Grenoble: X, X, X.  
+- Jeff from Lyon: Benedetta, Andrew, Hossam.  
+- Simone from Milano: Pietro, Joe.
 
 [Back to home page](https://nicolascuello.github.io/Stellar-MADE/)
