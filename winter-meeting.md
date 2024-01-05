@@ -1,6 +1,6 @@
 # Stellar-MADE project
 
-We plan to work on 3 main axes during the meeting:
+We plan to work on 3 main axes during the Winter Meeting:
 - Formation and observation of discs in multiple systems;  
 - Dust dynamics and grain growth in protoplanetary discs;  
 - Stability and evolution in multiple stellar systems.  
