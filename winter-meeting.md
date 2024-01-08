@@ -14,14 +14,15 @@ Each participant will preferentially work on one or several items with a subgrou
 Program with indicative times:  
 - Tuesday 16/01/2024:  
     - During the day: travel to Grenoble and then to Villard de Lans.
-    - 16h30: Welcome session in the meeting room at Hôtel des Playes.
+    - 16h00: Welcome session in the meeting room at Hôtel des Playes.
+    - 17h00: Coffee break.
     - 20h: Diner (entrée, glass of wine, main course, dessert, coffee/tea).
     - 21h30: Meeting room available for discussion/games & drinks.  
 - Wednesday 17/01/2024:  
     - 8h: Breakfast (buffet and hot drinks).
-    - 9h: Review talks & discussion (Giuseppe, Eleonora, Miguel).
+    - 9h: Review talks & discussion (Giuseppe, Eleonora, Andrew).
     - 10h30: Coffee break.
-    - 11h: Review talks & discussion (Andrew, Jeff).
+    - 11h: Review talks & discussion (Miguel, Jeff).
     - 12h30: Lunch (entrée, glass of wine, main course, dessert, coffee/tea).
     - 14h: Collaborative work.
     - 16h30: Coffee break.
@@ -71,10 +72,10 @@ List of participants for the kick-off meeting:
 20. Pietro Curone (U. Milano, Italy)
 
 Drivers, departure times and meeting points:  
-- Nicolás from Grenoble: Martina, Álvaro, Miguel.  
-- Antoine from Grenoble: Pedro, X, X.  
-- Gaspard from Grenoble: X, X, X.  
-- François from Grenoble: X, X, X.  
+- Nicolás from Grenoble: Martina, Matteo.  
+- Antoine from Grenoble: Pedro, Miguel.  
+- Gaspard from Grenoble: Claudia, Eleonora.  
+- François from Grenoble: Maxime, Álvaro.  
 - Jeff from Lyon: Benedetta, Andrew, Hossam.  
 - Simone from Milano: Pietro, Joe.
 
