@@ -59,6 +59,8 @@ For more information, check the [journal club](journalclub) webpage.
 
 - [Alpha Centauri: Disc Dynamics, Planet Stability & Detectability](https://ui.adsabs.harvard.edu/abs/2024arXiv240116003C/abstract)  
     Cuello & Sucerquia (2024)
+- [Formation of misaligned second-generation discs through fly-by encounters](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.2094S/abstract)  
+    Smallwood, Nealon, Cuello, Dong & Booth (2024)
 - [Close encounters: How stellar flybys shape planet-forming discs](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)  
     Cuello, Ménard & Price (2023)
 - [Circumbinary planets: migration, trapping in mean-motion resonances, and ejection](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract)  
