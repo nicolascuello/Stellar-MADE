@@ -12,13 +12,12 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 - [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG)
 - [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG)
 - [Pedro Poblete](pedro-poblete) (Postdoc, IPAG)
-- [Romain Grane](romain-grane) (M2 student, soon at IPAG)
+- [Romain Grane](romain-grane) (M2 student)
 - [Postdoc #2](postdoc2) (To be hired in 2024)
-- [PhD Student #2](PhD-grants) (To be hired in 2024)
-- [PhD Student #3](PhD-grants) (To be hired in 2024)
+- [Elisa Castro](elisa-castro) (From October 2024)
 
 
-### Goals of this project:
+### Project goals:
 
 - Establish the formation channels of protoplanetary discs around young stellar objects;  
 - Follow disc dynamics and grain growth to identify the regions of planetesimal formation;  
@@ -34,13 +33,13 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 - 10/2024-09/2027: [PhD grant](PhD-grants) on disc evolution in multiple stellar systems and population synthesis;  
 
 
-### Stellar-MADE Winter Meeting 2024
+### Stellar-MADE co(s)mic strips
 
-Dates: 16, 17, 18, 19 January 2024.  
-Location: [Hôtel Les Playes](https://www.hotel-les-playes.com/accueil.htm), Villard de Lans.  
-[List of participants & information](winter-meeting).
-
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/Flyer-StellarMADE-Winter-Meeting-2024.png" alt="winter meeting seen by midjourney" width="500"/>
+A series of comic strip about different aspects of the project. This material was done by Nicolás Cuello & Antoine Alaguero in collaboration with the Ink Link and Séverine Alvain (during 2023 and released in 2024).  
+- [Episode 1](comic-1)
+- [Episode 2](comic-2)
+- [Episode 3](comic-3)
+- [Episode 4](comic-4)
 
 
 ### Disc Dynamics & Planet Formation Journal Club
@@ -58,6 +57,8 @@ For more information, check the [journal club](journalclub) webpage.
 
 ### Featured publications:
 
+- [Alpha Centauri: Disc Dynamics, Planet Stability & Detectability](https://ui.adsabs.harvard.edu/abs/2024arXiv240116003C/abstract)  
+    Cuello & Sucerquia (2024)
 - [Close encounters: How stellar flybys shape planet-forming discs](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)  
     Cuello, Ménard & Price (2023)
 - [Circumbinary planets: migration, trapping in mean-motion resonances, and ejection](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract)  
@@ -70,7 +71,8 @@ For more information, check the [journal club](journalclub) webpage.
 
 ### Featured seminars and talks in conferences:
 
-- Invited seminar at Osservatorio Astrofisico di Torino (OAT, Italy) by Nicolás Cuello (January 2024).  
+- Contributed talk at [Exosystèmes IV](https://exosystemes4.sciencesconf.org) (Lyon, France) by Antoine Alaguero (February 2024).  
+- Invited seminar at [Osservatorio Astrofisico di Torino](https://www.oato.inaf.it) (OAT, Italy) by Nicolás Cuello (January 2024).  
 - Invited talk at [The Alpha Centauri System](https://alphacen2023.sciencesconf.org) by Nicolás Cuello (June 2023).  
 - Invited talk at [4th Phantom Users Workshop](https://phantomsph.bitbucket.io/workshop2023/#program) by Nicolás Cuello (February 2023). Talk available [here](https://youtu.be/eO0KnPJD6J4).  
 - Invited seminar for the [JEDI Star Talks](https://sites.google.com/inaf.it/jedi/star-talks?authuser=0) by Nicolás Cuello (February 2023). Talk available [here](https://drive.google.com/file/d/1OvxCVMWqItsQTncMxrJtMFNKPLMGa_-G/view?usp=sharing).  
@@ -81,15 +83,13 @@ For more information, check the [journal club](journalclub) webpage.
 
 ### Outreach activities
 
-- In preparation: Comic strips about the Stellar-MADE project by the Ink Link and coordinated by Séverine Alvain.  
-
 - [Pint of Science](@pintofscienceFR) in Grenoble, 23/05/2023.  
 "Discs and planets in multiple stellar systems". Program and details [here](https://www.pintofscience.fr/event/disques-et-exoplanetes-autour-detoiles-multiples).  
 Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).  
 
-- Online interview about stellar multiplicity and planet formation on Twich with [GalactiCamille](https://twitter.com/galacticamille) to appear [here](twitch.tv/GalactiCamille).  
+- Online interview about stellar multiplicity and planet formation on Twich with GalactiCamille (2023).  
 
-- Online presentation for elementary school students, Italy, 19/12/2022.  
+- Online presentation for elementary school students, Italy, December 2022 and 2023.  
 "I misteri della fomazione planetaria: Pianeti e stelle binarie"  
 [Gallery of selected drawings][drawings] by the students.  
 
@@ -99,11 +99,14 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 ### Organised meetings & workshops
 
-- Phantom-mcfost workshop at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
-[List of participants & information](phantom-mcfost).
+Stellar-MADE [Winter Meeting 2024](winter-meeting) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (16-19 January 2024).  
 
-- Stellar-MADE [Kick-off meeting at Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
-[List of participants & information](kickoff).
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Flyer-StellarMADE-Winter-Meeting-2024.png" alt="winter meeting seen by midjourney" width="500"/>
+
+- [Phantom-mcfost workshop](phantom-mcfost) at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
+
+- Stellar-MADE [Kick-off meeting](kickoff) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
+
 
 
 ### Main collaborators of Stellar-MADE
@@ -140,9 +143,15 @@ Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MAD
 [collaborators]: https://nicolascuello.github.io/Stellar-MADE/collaborators
 [nicolas-cuello]: https://nicolascuello.github.io/Stellar-MADE/nicolas-cuello
 [antoine-alaguero]: https://nicolascuello.github.io/Stellar-MADE/antoine-alaguero
+[pedro-poblete]: https://nicolascuello.github.io/Stellar-MADE/pedro-poblete
+[elisa-castro]: https://nicolascuello.github.io/Stellar-MADE/elisa-castro
 [publications]: https://ui.adsabs.harvard.edu/public-libraries/JlXaxrUKQL2dp176Y2cojQ
 [talks]: https://nicolascuello.github.io/Stellar-MADE/talks
 [journalclub]: https://nicolascuello.github.io/Stellar-MADE/journalclub
 [kickoff]: https://nicolascuello.github.io/Stellar-MADE/kickoff
 [phantom-mcfost]: https://nicolascuello.github.io/Stellar-MADE/phantom-mcfost
 [drawings]: https://nicolascuello.github.io/Stellar-MADE/drawings
+[comic-1]: https://nicolascuello.github.io/Stellar-MADE/comic1
+[comic-2]: https://nicolascuello.github.io/Stellar-MADE/comic2
+[comic-3]: https://nicolascuello.github.io/Stellar-MADE/comic3
+[comic-4]: https://nicolascuello.github.io/Stellar-MADE/comic4
