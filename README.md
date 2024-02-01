@@ -26,20 +26,13 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 [Abstract of the project][about]
 
 
-### Job opportunities
-
-- 03/2024-02/2027: [Postdoc position](postdoc2) on exoplanet stability and observations in multiple stellar systems;  
-- 10/2024-09/2027: [PhD grant](PhD-grants) on exoplanet architectures in multiple stellar systems;  
-- 10/2024-09/2027: [PhD grant](PhD-grants) on disc evolution in multiple stellar systems and population synthesis;  
-
-
 ### Stellar-MADE co(s)mic strips
 
 A series of comic strip about different aspects of the project. This material was done by Nicolás Cuello & Antoine Alaguero in collaboration with the Ink Link and Séverine Alvain (during 2023 and released in 2024).  
-- [Episode 1](comic1):
-- [Episode 2](comic2):
-- [Episode 3](comic3):
-- [Episode 4](comic4):
+- [Episode 1](comic1): the daily life of an astrophysicist, models & observations.
+- [Episode 2](comic2): disc dynamics and planet formation in multiple stellar systems.
+- [Episode 3](comic3): planetary orbits and chaos in multiple stellar systems.  
+- [Episode 4](comic4): distances & detection of exoplanets in multiple stellar systems.
 
 
 ### Disc Dynamics & Planet Formation Journal Club
@@ -110,7 +103,6 @@ Stellar-MADE [Winter Meeting 2024](winter-meeting) at [Villard-de-Lans](https://
 - Stellar-MADE [Kick-off meeting](kickoff) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
 
 
-
 ### Main collaborators of Stellar-MADE
 
 - François Ménard (Grenoble, France)  
@@ -127,18 +119,26 @@ Stellar-MADE [Winter Meeting 2024](winter-meeting) at [Villard-de-Lans](https://
 
 ### Supervision of students
 
+- Romain Grane (Grenoble, France): 2023, M2 student, with Mario Sucerquia.  
 - Félix Sauvourel (Grenoble, France): 2023, M1 student, with Antoine Alaguero.  
 - Yuna Ageron--Dubreil (Grenoble, France): 2023, high-school student, with Antoine Alaguero.
 - Antoine Alaguero (Grenoble, France): 2022-2025, PhD student, with François Ménard.
 - Emmanuel Gianuzzi (Córdoba, Argentina): 2021-2024, PhD student, with Cristian Giuppone.
 - Simone Ceppi (Milano, Italy): 2020-2023, PhD student, with Giuseppe Lodato.  
 
+
+### Job opportunities
+
+- 03/2024-02/2027: [Postdoc position](postdoc2) on exoplanet stability and observations in multiple stellar systems;  
+- 10/2024-09/2027: [PhD grant](PhD-grant1) on exoplanet architectures in multiple stellar systems;  
+- 10/2024-09/2027: [PhD grant](PhD-grant2) on disc evolution in multiple stellar systems and population synthesis;  
+
+
 ### Acknowledgements
 
 Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MADE, No. 101042275). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.  
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/European_Research_Council_logo.svg.png" alt="ERC logo" width="300"/>
-
 
 
 [about]: https://nicolascuello.github.io/Stellar-MADE/about
@@ -157,3 +157,6 @@ Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MAD
 [comic2]: https://nicolascuello.github.io/Stellar-MADE/comic2
 [comic3]: https://nicolascuello.github.io/Stellar-MADE/comic3
 [comic4]: https://nicolascuello.github.io/Stellar-MADE/comic4
+[PhD-grant1]: https://nicolascuello.github.io/Stellar-MADE/PhD-grant1
+[PhD-grant2]: https://nicolascuello.github.io/Stellar-MADE/PhD-grant2
+[postdoc2]: https://nicolascuello.github.io/Stellar-MADE/postdoc2
