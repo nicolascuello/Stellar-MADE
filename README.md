@@ -9,12 +9,12 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 
 ### Members of the team:
 
-- [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG)
-- [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG)
-- [Pedro Poblete](pedro-poblete) (Postdoc, IPAG)
-- [Romain Grane](romain-grane) (M2 student)
-- [Postdoc #2](postdoc2) (To be hired in 2024)
-- [Elisa Castro](elisa-castro) (From October 2024)
+- [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG/UGA)
+- [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG/CNRS)
+- [Pedro Poblete](pedro-poblete) (Postdoc, IPAG/CNRS)
+- [Romain Grane](romain-grane) (M2 student, IPAG/UGA)
+- [Postdoc #2](postdoc2) (To be hired in 2024, IPAG/UGA)
+- [Elisa Castro](elisa-castro) (From October 2024, IPAG/UGA)
 
 
 ### Project goals:
@@ -28,10 +28,10 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 
 ### Stellar-MADE co(s)mic strips
 
-A series of comic strip about different aspects of the project. This material was done by Nicolás Cuello & Antoine Alaguero in collaboration with the Ink Link and Séverine Alvain (during 2023 and released in 2024).  
-- [Episode 1](comic1): the daily life of an astrophysicist, models & observations.
+A series of comic strips about different aspects of the science carried out within the Stellar-MADE project. This material was done by Nicolás Cuello & Antoine Alaguero in collaboration with the Ink Link and Séverine Alvain (during 2023 and released in 2024). Please get in touch with us if you would like to use it for outreach activities.  
+- [Episode 1](comic1): daily life of an astrophysicist, models & astronomical observations.
 - [Episode 2](comic2): disc dynamics and planet formation in multiple stellar systems.
-- [Episode 3](comic3): planetary orbits and chaos in multiple stellar systems.  
+- [Episode 3](comic3): planetary orbits, chaos  in multiple stellar systems.  
 - [Episode 4](comic4): distances & detection of exoplanets in multiple stellar systems.
 
 
