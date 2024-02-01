@@ -91,8 +91,7 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 ### Organised meetings & workshops
 
-Stellar-MADE [Winter Meeting 2024](winter-meeting) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (16-19 January 2024).  
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/Flyer-StellarMADE-Winter-Meeting-2024.png" alt="winter meeting seen by midjourney" width="500"/>  
+- Stellar-MADE [Winter Meeting 2024](winter-meeting) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (16-19 January 2024).  
 - [Phantom-mcfost workshop](phantom-mcfost) at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
 - Stellar-MADE [Kick-off meeting](kickoff) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
 
