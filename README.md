@@ -81,13 +81,10 @@ For more information, check the [journal club](journalclub) webpage.
 - [Pint of Science](@pintofscienceFR) in Grenoble, 23/05/2023.  
 "Discs and planets in multiple stellar systems". Program and details [here](https://www.pintofscience.fr/event/disques-et-exoplanetes-autour-detoiles-multiples).  
 Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).  
-
-- Online interview about stellar multiplicity and planet formation on Twich with GalactiCamille (2023).  
-
+- Online interview about stellar multiplicity and planet formation on Twich with GalactiCamille, 22/04/2023.  
 - Online presentation for elementary school students, Italy, December 2022 and 2023.  
 "I misteri della fomazione planetaria: Pianeti e stelle binarie"  
 [Gallery of selected drawings][drawings] by the students.  
-
 - Presentation for high-school French students at IPAG, 14/12/2022;  
 "Simulations numériques & formation planétaire".  
 
@@ -95,11 +92,8 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 ### Organised meetings & workshops
 
 Stellar-MADE [Winter Meeting 2024](winter-meeting) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (16-19 January 2024).  
-
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/Flyer-StellarMADE-Winter-Meeting-2024.png" alt="winter meeting seen by midjourney" width="500"/>
-
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Flyer-StellarMADE-Winter-Meeting-2024.png" alt="winter meeting seen by midjourney" width="500"/>  
 - [Phantom-mcfost workshop](phantom-mcfost) at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
-
 - Stellar-MADE [Kick-off meeting](kickoff) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
 
 
