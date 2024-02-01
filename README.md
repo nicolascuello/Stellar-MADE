@@ -36,10 +36,10 @@ Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
 ### Stellar-MADE co(s)mic strips
 
 A series of comic strip about different aspects of the project. This material was done by Nicolás Cuello & Antoine Alaguero in collaboration with the Ink Link and Séverine Alvain (during 2023 and released in 2024).  
-- [Episode 1](comic-1)
-- [Episode 2](comic-2)
-- [Episode 3](comic-3)
-- [Episode 4](comic-4)
+- [Episode 1](comic1):
+- [Episode 2](comic2):
+- [Episode 3](comic3):
+- [Episode 4](comic4):
 
 
 ### Disc Dynamics & Planet Formation Journal Club
@@ -153,7 +153,7 @@ Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MAD
 [kickoff]: https://nicolascuello.github.io/Stellar-MADE/kickoff
 [phantom-mcfost]: https://nicolascuello.github.io/Stellar-MADE/phantom-mcfost
 [drawings]: https://nicolascuello.github.io/Stellar-MADE/drawings
-[comic-1]: https://nicolascuello.github.io/Stellar-MADE/comic1
-[comic-2]: https://nicolascuello.github.io/Stellar-MADE/comic2
-[comic-3]: https://nicolascuello.github.io/Stellar-MADE/comic3
-[comic-4]: https://nicolascuello.github.io/Stellar-MADE/comic4
+[comic1]: https://nicolascuello.github.io/Stellar-MADE/comic1
+[comic2]: https://nicolascuello.github.io/Stellar-MADE/comic2
+[comic3]: https://nicolascuello.github.io/Stellar-MADE/comic3
+[comic4]: https://nicolascuello.github.io/Stellar-MADE/comic4
