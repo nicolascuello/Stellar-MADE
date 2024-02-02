@@ -133,9 +133,9 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MADE, No. 101042275). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.  
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/logo_IPAG.png" alt="IPAG logo" heigth="40"/>
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/logo_UGA.png" alt="UGA logo" heigth="40"/>
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/European_Research_Council_logo.svg.png" alt="ERC logo" heigth="40"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/logo_IPAG.png" alt="IPAG logo" height="40"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/logo_UGA.png" alt="UGA logo" height="40"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/European_Research_Council_logo.svg.png" alt="ERC logo" height="40"/>
 
 [about]: https://nicolascuello.github.io/Stellar-MADE/about
 [collaborators]: https://nicolascuello.github.io/Stellar-MADE/collaborators
