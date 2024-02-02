@@ -2,7 +2,7 @@
 
 Exploring the effects of **Stellar M**ultiplicity on planet formation **A**cross **D**isc **E**volution.  
 [ERC](https://erc.europa.eu/homepage) Starging Grant: October 2022 - September 2027.  
-Project hosted at [IPAG](https://ipag.osug.fr) (Grenoble, France).
+Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.fr) (Grenoble, France).
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/logo.png" alt="Stellar-MADE logo" width="300"/>
 
@@ -45,7 +45,7 @@ The format is the following:
 
 For more information, check the [journal club](journalclub) webpage.  
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/Stellar-MADE-logo.png" alt="Stellar-MADE unofficial logo" width="350"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Stellar-MADE-logo.png" alt="Stellar-MADE unofficial logo" width="300"/>
 
 
 ### Featured publications:
@@ -68,8 +68,10 @@ For more information, check the [journal club](journalclub) webpage.
 
 - Contributed talk at [Exosystèmes IV](https://exosystemes4.sciencesconf.org) (Lyon, France) by Antoine Alaguero (February 2024).  
 - Invited seminar at [Osservatorio Astrofisico di Torino](https://www.oato.inaf.it) (OAT, Italy) by Nicolás Cuello (January 2024).  
-- Invited talk at [The Alpha Centauri System](https://alphacen2023.sciencesconf.org) by Nicolás Cuello (June 2023).  
-- Invited talk at [4th Phantom Users Workshop](https://phantomsph.bitbucket.io/workshop2023/#program) by Nicolás Cuello (February 2023). Talk available [here](https://youtu.be/eO0KnPJD6J4).  
+- Contributed talk at [EAS 2023](https://eas.unige.ch/EAS2023/) in Symposium S13 (Krakow, Poland) by Antoine Alaguero (July 2023).  
+- Contributed talk at [EAS 2023](https://eas.unige.ch/EAS2023/) in Special Session 6 (Krakow, Poland) by Nicolás Cuello (July 2023).  
+- Invited review talk at [The Alpha Centauri System](https://alphacen2023.sciencesconf.org) by Nicolás Cuello (June 2023).  
+- Invited review talk at [4th Phantom Users Workshop](https://phantomsph.bitbucket.io/workshop2023/#program) by Nicolás Cuello (February 2023). Talk available [here](https://youtu.be/eO0KnPJD6J4).  
 - Invited seminar for the [JEDI Star Talks](https://sites.google.com/inaf.it/jedi/star-talks?authuser=0) by Nicolás Cuello (February 2023). Talk available [here](https://drive.google.com/file/d/1OvxCVMWqItsQTncMxrJtMFNKPLMGa_-G/view?usp=sharing).  
 - [Formation Planétaire et des Exoplanètes avec l'ELT](https://elt-exoplanets.sciencesconf.org) by Antoine Alaguero (November 2022).
 
@@ -92,7 +94,7 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 ### Organised meetings & workshops
 
 - Stellar-MADE [Winter Meeting 2024](winter-meeting) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (16-19 January 2024).  
-- [Phantom-mcfost workshop](phantom-mcfost) at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
+- [Phantom-MCFOST workshop](phantom-mcfost) at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
 - Stellar-MADE [Kick-off meeting](kickoff) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
 
 
@@ -112,7 +114,7 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 ### Supervision of students
 
-- Romain Grane (Grenoble, France): 2023, M2 student, with Mario Sucerquia.  
+- Romain Grane (Grenoble, France): 2024, M2 student, with Mario Sucerquia.  
 - Félix Sauvourel (Grenoble, France): 2023, M1 student, with Antoine Alaguero.  
 - Yuna Ageron--Dubreil (Grenoble, France): 2023, high-school student, with Antoine Alaguero.
 - Antoine Alaguero (Grenoble, France): 2022-2025, PhD student, with François Ménard.
@@ -131,8 +133,8 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MADE, No. 101042275). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.  
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/European_Research_Council_logo.svg.png" alt="ERC logo" width="300"/>
-
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/European_Research_Council_logo.svg.png" alt="ERC logo" width="150"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/logo_UGA.png" alt="UGA logo" width="150"/>
 
 [about]: https://nicolascuello.github.io/Stellar-MADE/about
 [collaborators]: https://nicolascuello.github.io/Stellar-MADE/collaborators
