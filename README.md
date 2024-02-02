@@ -102,12 +102,14 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 - François Ménard (Grenoble, France)  
 - Daniel Price (Monash, Australia)  
-- Christophe Pinte (Monash, Australia)  
 - Cathie Clarke (Cambridge, UK)  
 - Giuseppe Lodato (Milano, Italy)  
-- Cristian Giuppone (Córdoba, Argentina)  
-- Rebecca Nealon (Warwick, UK)  
+- Christophe Pinte (Monash, Australia)  
 - Álvaro Ribas (Cambrdige, UK)
+- Mario Sucerquia (Viña del Mar, Chile)
+- Matías Montesinos (Santiago, Chile)
+- Rebecca Nealon (Warwick, UK)  
+- Cristian Giuppone (Córdoba, Argentina)  
 
 [Extended list of collaborators][collaborators]
 
