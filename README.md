@@ -131,7 +131,7 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 ### Acknowledgements
 
-Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MADE, No. 101042275). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.  
+Project hosted at at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.fr) (Grenoble, France), with the participation of [CNRS](https://www.cnrs.fr/). Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MADE, No. 101042275). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.  
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/logo_IPAG.png" alt="IPAG logo" height="40"/>
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/logo_UGA.png" alt="UGA logo" height="40"/>
