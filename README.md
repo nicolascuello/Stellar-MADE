@@ -28,7 +28,7 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 
 ### Stellar-MADE co(s)mic strips
 
-A series of comic strips about different aspects of the science carried out within the Stellar-MADE project. This material was done by Nicolás Cuello & Antoine Alaguero in collaboration with the Ink Link and Séverine Alvain (during 2023 and released in 2024). Please get in touch with us if you would like to use it for outreach activities.  
+A series of comic strips about different aspects of the science carried out within the Stellar-MADE project. This material was done by Nicolás Cuello & Antoine Alaguero in collaboration with the [Ink Link](https://www.theinklink.org/fr) and Séverine Alvain (during 2023 and released in 2024). Please get in touch with us if you would like to use it for outreach activities.  
 - [Episode 1](comic1): daily life of an astrophysicist, models & astronomical observations.
 - [Episode 2](comic2): disc dynamics and planet formation in multiple stellar systems.
 - [Episode 3](comic3): planetary orbits, chaos  in multiple stellar systems.  
