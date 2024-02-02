@@ -156,3 +156,4 @@ Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MAD
 [PhD-grant1]: https://nicolascuello.github.io/Stellar-MADE/PhD-grant1
 [PhD-grant2]: https://nicolascuello.github.io/Stellar-MADE/PhD-grant2
 [postdoc2]: https://nicolascuello.github.io/Stellar-MADE/postdoc2
+[data]: https://nicolascuello.github.io/Stellar-MADE/data
