@@ -12,9 +12,9 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 - [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG/UGA)
 - [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG/CNRS)
 - [Pedro Poblete](pedro-poblete) (Postdoc, IPAG/CNRS)
-- [Romain Grane](romain-grane) (M2 student, IPAG/UGA)
-- [Postdoc #2](postdoc2) (To be hired in 2024, IPAG/UGA)
-- [Elisa Castro](elisa-castro) (From October 2024, IPAG/UGA)
+- [Mario Sucerquia](mario-sucerquia) (Postdoc, from June 2024, IPAG/UGA)
+- [Romain Grane](romain-grane) (M2 student, from April 2024, IPAG/UGA)
+- [Elisa Castro](elisa-castro) (PhD Student, from October 2024, IPAG/UGA)
 
 
 ### Project goals:
@@ -69,11 +69,10 @@ For more information, check the [journal club](journalclub) webpage.
 - Contributed talk at [Exosystèmes IV](https://exosystemes4.sciencesconf.org) (Lyon, France) by Antoine Alaguero (February 2024).  
 - Invited seminar at [Osservatorio Astrofisico di Torino](https://www.oato.inaf.it) (OAT, Italy) by Nicolás Cuello (January 2024).  
 - Contributed talk at [EAS 2023](https://eas.unige.ch/EAS2023/) in Symposium S13 (Krakow, Poland) by Antoine Alaguero (July 2023).  
-- Contributed talk at [EAS 2023](https://eas.unige.ch/EAS2023/) in Special Session 6 (Krakow, Poland) by Nicolás Cuello (July 2023).  
-- Invited review talk at [The Alpha Centauri System](https://alphacen2023.sciencesconf.org) by Nicolás Cuello (June 2023).  
-- Invited review talk at [4th Phantom Users Workshop](https://phantomsph.bitbucket.io/workshop2023/#program) by Nicolás Cuello (February 2023). Talk available [here](https://youtu.be/eO0KnPJD6J4).  
-- Invited seminar for the [JEDI Star Talks](https://sites.google.com/inaf.it/jedi/star-talks?authuser=0) by Nicolás Cuello (February 2023). Talk available [here](https://drive.google.com/file/d/1OvxCVMWqItsQTncMxrJtMFNKPLMGa_-G/view?usp=sharing).  
-- [Formation Planétaire et des Exoplanètes avec l'ELT](https://elt-exoplanets.sciencesconf.org) by Antoine Alaguero (November 2022).
+- Invited review talk at [The Alpha Centauri System](https://alphacen2023.sciencesconf.org) (Nice, France) by Nicolás Cuello (June 2023).  
+- Invited review talk at [4th Phantom Users Workshop](https://phantomsph.bitbucket.io/workshop2023/#program) (Melbourne, Australia) by Nicolás Cuello (February 2023). Talk available [here](https://youtu.be/eO0KnPJD6J4).  
+- Invited seminar for the [JEDI Star Talks](https://sites.google.com/inaf.it/jedi/star-talks?authuser=0) (online) by Nicolás Cuello (February 2023). Talk available [here](https://drive.google.com/file/d/1OvxCVMWqItsQTncMxrJtMFNKPLMGa_-G/view?usp=sharing).  
+- [Formation Planétaire et des Exoplanètes avec l'ELT](https://elt-exoplanets.sciencesconf.org) (Fréjus, France) by Antoine Alaguero (November 2022).
 
 [Complete list of talks][talks]
 
@@ -114,7 +113,7 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 [Extended list of collaborators][collaborators]
 
 
-### Supervision of students
+### Supervision of students by NC
 
 - Romain Grane (Grenoble, France): 2024, M2 student, with Mario Sucerquia.  
 - Félix Sauvourel (Grenoble, France): 2023, M1 student, with Antoine Alaguero.  
@@ -122,13 +121,6 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 - Antoine Alaguero (Grenoble, France): 2022-2025, PhD student, with François Ménard.
 - Emmanuel Gianuzzi (Córdoba, Argentina): 2021-2024, PhD student, with Cristian Giuppone.
 - Simone Ceppi (Milano, Italy): 2020-2023, PhD student, with Giuseppe Lodato.  
-
-
-### Job opportunities
-
-- 03/2024-02/2027: [Postdoc position](postdoc2) on exoplanet stability and observations in multiple stellar systems;  
-- 10/2024-09/2027: [PhD grant](PhD-grant1) on exoplanet architectures in multiple stellar systems;  
-- 10/2024-09/2027: [PhD grant](PhD-grant2) on disc evolution in multiple stellar systems and population synthesis;  
 
 
 ### Acknowledgements
