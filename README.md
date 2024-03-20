@@ -34,7 +34,7 @@ A series of comic strips about different aspects of the science carried out with
 - [Episode 3](comic3): distances & detection of exoplanets in multiple stellar systems.  
 - [Episode 4](comic4): alien life, planetary orbits & chaos in multiple stellar systems.  
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/Exoplanetes-mini.png" alt="Sample of the comics" width="300"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Exoplanetes-mini.png" alt="Sample of the comics" width="700"/>
 
 
 ### Disc Dynamics & Planet Formation Journal Club
@@ -72,6 +72,7 @@ For more information, check the [journal club](journalclub) webpage.
 
 ### Featured seminars and talks in conferences:
 
+- UPCOMING: Invited review talk at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Nicolás Cuello (July 2024).  
 - Contributed talk at [Exosystèmes IV](https://exosystemes4.sciencesconf.org) (Lyon, France) by Antoine Alaguero (February 2024).  
 - Invited seminar at [Osservatorio Astrofisico di Torino](https://www.oato.inaf.it) (OAT, Italy) by Nicolás Cuello (January 2024).  
 - Contributed talk at [EAS 2023](https://eas.unige.ch/EAS2023/) in Symposium S13 (Krakow, Poland) by Antoine Alaguero (July 2023).  
