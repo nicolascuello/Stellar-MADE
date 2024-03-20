@@ -73,13 +73,14 @@ For more information, check the [journal club](journalclub) webpage.
 ### Featured seminars and talks in conferences:
 
 - UPCOMING: Invited review talk at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Nicolás Cuello (July 2024).  
+- UPCOMING: Contributed talk at [Dust Devils Workshop](https://www.as.arizona.edu/DustDevils2024/) (Tucson, USA) by Pedro Poblete (March 2024).
 - Contributed talk at [Exosystèmes IV](https://exosystemes4.sciencesconf.org) (Lyon, France) by Antoine Alaguero (February 2024).  
 - Invited seminar at [Osservatorio Astrofisico di Torino](https://www.oato.inaf.it) (OAT, Italy) by Nicolás Cuello (January 2024).  
 - Contributed talk at [EAS 2023](https://eas.unige.ch/EAS2023/) in Symposium S13 (Krakow, Poland) by Antoine Alaguero (July 2023).  
 - Invited review talk at [The Alpha Centauri System](https://alphacen2023.sciencesconf.org) (Nice, France) by Nicolás Cuello (June 2023).  
 - Invited review talk at [4th Phantom Users Workshop](https://phantomsph.bitbucket.io/workshop2023/#program) (Melbourne, Australia) by Nicolás Cuello (February 2023). Talk available [here](https://youtu.be/eO0KnPJD6J4).  
 - Invited seminar for the [JEDI Star Talks](https://sites.google.com/inaf.it/jedi/star-talks?authuser=0) (online) by Nicolás Cuello (February 2023). Talk available [here](https://drive.google.com/file/d/1OvxCVMWqItsQTncMxrJtMFNKPLMGa_-G/view?usp=sharing).  
-- [Formation Planétaire et des Exoplanètes avec l'ELT](https://elt-exoplanets.sciencesconf.org) (Fréjus, France) by Antoine Alaguero (November 2022).
+- Contributed talk at [Formation Planétaire et des Exoplanètes avec l'ELT](https://elt-exoplanets.sciencesconf.org) (Fréjus, France) by Antoine Alaguero (November 2022).
 
 [Complete list of talks][talks]
 
