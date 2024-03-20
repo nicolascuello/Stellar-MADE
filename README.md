@@ -34,6 +34,8 @@ A series of comic strips about different aspects of the science carried out with
 - [Episode 3](comic3): distances & detection of exoplanets in multiple stellar systems.  
 - [Episode 4](comic4): alien life, planetary orbits & chaos in multiple stellar systems.  
 
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Exoplanetes-mini.png" alt="Sample of the comics" width="300"/>
+
 
 ### Disc Dynamics & Planet Formation Journal Club
 
@@ -50,6 +52,10 @@ For more information, check the [journal club](journalclub) webpage.
 
 ### Featured publications:
 
+- V892 Tau: A tidally perturbed circumbinary disc in a triple stellar system  
+    Alaguero, Cuello, Ménard et al. (submitted to A&A)
+- [Probing initial distributions of orbital eccentricity and disc misalignment via polar discs](https://ui.adsabs.harvard.edu/abs/2024A%26A...682A.104C/abstract)  
+    Ceppi, Cuello, Lodato et al. (2024)
 - [Alpha Centauri: Disc Dynamics, Planet Stability & Detectability](https://ui.adsabs.harvard.edu/abs/2024arXiv240116003C/abstract)  
     Cuello & Sucerquia (2024)
 - [Formation of misaligned second-generation discs through fly-by encounters](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.2094S/abstract)  
@@ -79,6 +85,8 @@ For more information, check the [journal club](journalclub) webpage.
 
 ### Outreach activities
 
+- UPCOMING: Participation to a radio emission about comics and astrophysics by [Antoine Alaguero](antoine-alaguero).  
+- UPCOMING: Outreach activity in a local high-school in Grenoble by [Nicolás Cuello](nicolas-cuello).  
 - [Pint of Science](@pintofscienceFR) in Grenoble, 23/05/2023.  
 "Discs and planets in multiple stellar systems". Program and details [here](https://www.pintofscience.fr/event/disques-et-exoplanetes-autour-detoiles-multiples).  
 Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).  
@@ -113,14 +121,15 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 [Extended list of collaborators][collaborators]
 
 
-### Supervision of students by NC
+### Supervision of students/interns within the team
 
-- Romain Grane (Grenoble, France): 2024, M2 student, with Mario Sucerquia.  
-- Félix Sauvourel (Grenoble, France): 2023, M1 student, with Antoine Alaguero.  
-- Yuna Ageron--Dubreil (Grenoble, France): 2023, high-school student, with Antoine Alaguero.
-- Antoine Alaguero (Grenoble, France): 2022-2025, PhD student, with François Ménard.
-- Emmanuel Gianuzzi (Córdoba, Argentina): 2021-2024, PhD student, with Cristian Giuppone.
-- Simone Ceppi (Milano, Italy): 2020-2023, PhD student, with Giuseppe Lodato.  
+- Romain Grane (Grenoble, France): 2024, M2 student, by NC and Mario Sucerquia.  
+- Joshua Talidec (Grenoble, France): 2024, high-school student, by NC with Pedro Poblete.  
+- Félix Sauvourel (Grenoble, France): 2023, M1 student, by NC with Antoine Alaguero.  
+- Yuna Ageron--Dubreil (Grenoble, France): 2023, high-school student, by NC with Antoine Alaguero.
+- Antoine Alaguero (Grenoble, France): 2022-2025, PhD student, by NC with François Ménard.
+- Emmanuel Gianuzzi (Córdoba, Argentina): 2021-2024, PhD student, by NC with Cristian Giuppone.
+- Simone Ceppi (Milano, Italy): 2020-2023, PhD student, by NC with Giuseppe Lodato.  
 
 
 ### Acknowledgements
