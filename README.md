@@ -126,8 +126,8 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 ### Supervision of students/interns within the team
 
-- UPCOMING: Elisa Castro (Grenoble, France): 2024, PhD student, by NC and Mario Sucerquia.  
-- Romain Grane (Grenoble, France): 2024, M2 & PhD student, by NC and Mario Sucerquia.  
+- UPCOMING: Elisa Castro (Grenoble, France): 2024-2027, PhD student, by NC and Mario Sucerquia.  
+- Romain Grane (Grenoble, France): 2024-2027, M2 & PhD student, by NC and Mario Sucerquia.  
 - Joshua Talidec (Grenoble, France): 2024, high-school student, by NC and Pedro Poblete.  
 - Félix Sauvourel (Grenoble, France): 2023, M1 student, by NC and Antoine Alaguero.  
 - Yuna Ageron--Dubreil (Grenoble, France): 2023, high-school student, by NC and Antoine Alaguero.
