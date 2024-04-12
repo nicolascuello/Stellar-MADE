@@ -70,6 +70,17 @@ For more information, check the [journal club](journalclub) webpage.
 [Complete list of publications][publications]
 
 
+### Relevant data and setup files:
+
+- [Modelling of the CBD in V892 Tau](V892Tau)  
+- [CBD disc breaking and polar alignment](breaking)
+- [Modelling of the CBD in L1551 IRS 5](L1551)
+- [Phantom-mcfost simulations of discs in multiples](phantom-mcfost-sims)
+- [Alpha Centauri modelling](alphacen)
+- [Circumbinary planet dynamics in triples](CBP)
+- [Modelling growing dust in multiples](GIMS)
+
+
 ### Featured seminars and talks in conferences:
 
 - UPCOMING: Invited review talk at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Nicolás Cuello (July 2024).  
@@ -87,8 +98,8 @@ For more information, check the [journal club](journalclub) webpage.
 
 ### Outreach activities
 
-- UPCOMING: Participation to a radio emission about comics and astrophysics by [Antoine Alaguero](antoine-alaguero).  
-- UPCOMING: Outreach activity in a local high-school in Grenoble by [Nicolás Cuello](nicolas-cuello).  
+- Participation to a radio emission about comics and astrophysics by [Antoine Alaguero](antoine-alaguero).  
+- [Les cordées de la réussite](https://www.cordeesdelareussite.fr): Outreach activity in a local high-school in Grenoble by [Nicolás Cuello](nicolas-cuello).  
 - [Pint of Science](@pintofscienceFR) in Grenoble, 23/05/2023.  
 "Discs and planets in multiple stellar systems". Program and details [here](https://www.pintofscience.fr/event/disques-et-exoplanetes-autour-detoiles-multiples).  
 Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).  
@@ -163,4 +174,9 @@ Project hosted at at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-greno
 [PhD-grant1]: https://nicolascuello.github.io/Stellar-MADE/PhD-grant1
 [PhD-grant2]: https://nicolascuello.github.io/Stellar-MADE/PhD-grant2
 [postdoc2]: https://nicolascuello.github.io/Stellar-MADE/postdoc2
-[data]: https://nicolascuello.github.io/Stellar-MADE/data
+[V892Tau]:https://nicolascuello.github.io/Stellar-MADE/V892Tau
+[breaking]:https://nicolascuello.github.io/Stellar-MADE/CBD-breaking
+[L1551]:https://nicolascuello.github.io/Stellar-MADE/L1551
+[phantom-mcfost-sims]:https://nicolascuello.github.io/Stellar-MADE/phantom-mcfost-sims
+[CBP]:https://nicolascuello.github.io/Stellar-MADE/circumbinary-planets
+[GIMS]:https://nicolascuello.github.io/Stellar-MADE/growing-dust
