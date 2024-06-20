@@ -1,5 +1,6 @@
 # Stellar-MADE project
 
+- Contributed talk at [Dust Devils Workshop](https://www.as.arizona.edu/DustDevils2024/) (Tucson, USA) by Pedro Poblete (March 2024).  
 - Contributed talk at [Exosystèmes IV](https://exosystemes4.sciencesconf.org) (Lyon, France) by Antoine Alaguero (February 2024).  
 - Invited seminar at [Osservatorio Astrofisico di Torino](https://www.oato.inaf.it) (OAT, Italy) by Nicolás Cuello (January 2024).  
 - Contributed talk at [EAS 2023](https://eas.unige.ch/EAS2023/) in Symposium S13 (Krakow, Poland) by Antoine Alaguero (July 2023).  

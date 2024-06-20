@@ -12,8 +12,8 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 - [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG/UGA)
 - [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG/CNRS)
 - [Pedro Poblete](pedro-poblete) (Postdoc, IPAG/CNRS)
-- [Mario Sucerquia](mario-sucerquia) (Postdoc, from June 2024, IPAG/UGA)
-- [Romain Grane](romain-grane) (M2 student, from April 2024, IPAG/UGA)
+- [Mario Sucerquia](mario-sucerquia) (Postdoc, IPAG/UGA)
+- [Romain Grane](romain-grane) (PhD Student, from October 2024, IPAG/UGA)
 - [Elisa Castro](elisa-castro) (PhD Student, from October 2024, IPAG/UGA)
 
 
@@ -50,57 +50,41 @@ For more information, check the [journal club](journalclub) webpage.
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/Stellar-MADE-logo.png" alt="Stellar-MADE unofficial logo" width="300"/>
 
 
-### Featured publications:
+### Recent featured publications:
 
-- V892 Tau: A tidally perturbed circumbinary disc in a triple stellar system  
-    Alaguero, Cuello, Ménard et al. (submitted to A&A)
+- [V892 Tau: A tidally perturbed circumbinary disc in a triple stellar system](https://arxiv.org/abs/2405.12593)  
+    Alaguero, Cuello, Ménard et al. (2024)
 - [Probing initial distributions of orbital eccentricity and disc misalignment via polar discs](https://ui.adsabs.harvard.edu/abs/2024A%26A...682A.104C/abstract)  
     Ceppi, Cuello, Lodato et al. (2024)
 - [Alpha Centauri: Disc Dynamics, Planet Stability & Detectability](https://ui.adsabs.harvard.edu/abs/2024arXiv240116003C/abstract)  
     Cuello & Sucerquia (2024)
-- [Formation of misaligned second-generation discs through fly-by encounters](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.2094S/abstract)  
-    Smallwood, Nealon, Cuello, Dong & Booth (2024)
 - [Close encounters: How stellar flybys shape planet-forming discs](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)  
     Cuello, Ménard & Price (2023)
 - [Circumbinary planets: migration, trapping in mean-motion resonances, and ejection](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract)  
     Gianuzzi, Giuppone & Cuello (2023)
-- [Sustained FU Orionis-type outbursts from colliding discs in stellar flybys](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4436B/abstract)  
-    Borchert, Price, Pinte & Cuello (2022)
 
 [Complete list of publications][publications]
 
 
-### Relevant data and setup files:
+### Recent featured seminars and talks in conferences:
 
-- [Modelling of the CBD in V892 Tau](V892Tau)  
-- [CBD disc breaking and polar alignment](breaking)
-- [Modelling of the CBD in L1551 IRS 5](L1551)
-- [Phantom-mcfost simulations of discs in multiples](phantom-mcfost-sims)
-- [Alpha Centauri modelling](alphacen)
-- [Circumbinary planet dynamics in triples](CBP)
-- [Modelling growing dust in multiples](GIMS)
-
-
-### Featured seminars and talks in conferences:
-
-- UPCOMING: Invited review talk at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Nicolás Cuello (July 2024).  
-- UPCOMING: Contributed talk at [Dust Devils Workshop](https://www.as.arizona.edu/DustDevils2024/) (Tucson, USA) by Pedro Poblete (March 2024).
+- UPCOMING: Invited review talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Nicolás Cuello (September 2024).  
+- UPCOMING: 1 invited review talk, 1 contributed talk, and 1 poster at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Nicolás Cuello (July 2024).  
+- UPCOMING: 3 contributed talks at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Antoine Alaguero (July 2024).  
+- Contributed talk at [Dust Devils Workshop](https://www.as.arizona.edu/DustDevils2024/) (Tucson, USA) by Pedro Poblete (March 2024).  
 - Contributed talk at [Exosystèmes IV](https://exosystemes4.sciencesconf.org) (Lyon, France) by Antoine Alaguero (February 2024).  
 - Invited seminar at [Osservatorio Astrofisico di Torino](https://www.oato.inaf.it) (OAT, Italy) by Nicolás Cuello (January 2024).  
 - Contributed talk at [EAS 2023](https://eas.unige.ch/EAS2023/) in Symposium S13 (Krakow, Poland) by Antoine Alaguero (July 2023).  
-- Invited review talk at [The Alpha Centauri System](https://alphacen2023.sciencesconf.org) (Nice, France) by Nicolás Cuello (June 2023).  
-- Invited review talk at [4th Phantom Users Workshop](https://phantomsph.bitbucket.io/workshop2023/#program) (Melbourne, Australia) by Nicolás Cuello (February 2023). Talk available [here](https://youtu.be/eO0KnPJD6J4).  
 - Invited seminar for the [JEDI Star Talks](https://sites.google.com/inaf.it/jedi/star-talks?authuser=0) (online) by Nicolás Cuello (February 2023). Talk available [here](https://drive.google.com/file/d/1OvxCVMWqItsQTncMxrJtMFNKPLMGa_-G/view?usp=sharing).  
-- Contributed talk at [Formation Planétaire et des Exoplanètes avec l'ELT](https://elt-exoplanets.sciencesconf.org) (Fréjus, France) by Antoine Alaguero (November 2022).
 
 [Complete list of talks][talks]
 
 
 ### Outreach activities
 
-- Participation to a radio emission about comics and astrophysics by [Antoine Alaguero](antoine-alaguero).  
-- [Les cordées de la réussite](https://www.cordeesdelareussite.fr): Outreach activity in a local high-school in Grenoble by [Nicolás Cuello](nicolas-cuello).  
-- [Pint of Science](@pintofscienceFR) in Grenoble, 23/05/2023.  
+- Participation to a [radio emission about comics and astrophysics](radio) by [Antoine Alaguero](antoine-alaguero).  
+- [Les cordées de la réussite](schools): Outreach activity in a local high-school in Grenoble by [Nicolás Cuello](nicolas-cuello).  
+- [Pint of Science](https://pintofscience.fr) in Grenoble, 23/05/2023.  
 "Discs and planets in multiple stellar systems". Program and details [here](https://www.pintofscience.fr/event/disques-et-exoplanetes-autour-detoiles-multiples).  
 Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).  
 - Online interview about stellar multiplicity and planet formation on Twich with GalactiCamille, 22/04/2023.  
@@ -123,14 +107,16 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 - François Ménard (Grenoble, France)  
 - Daniel Price (Monash, Australia)  
-- Cathie Clarke (Cambridge, UK)  
-- Giuseppe Lodato (Milano, Italy)  
+- Gaspard Duchêne (IPAG, France) 
+- Rebecca Nealon (Warwick, UK)  
 - Christophe Pinte (Monash, Australia)  
 - Álvaro Ribas (Cambrdige, UK)
-- Mario Sucerquia (Viña del Mar, Chile)
+- Claudia Toci (ESO, Germany)  
 - Matías Montesinos (Santiago, Chile)
-- Rebecca Nealon (Warwick, UK)  
-- Cristian Giuppone (Córdoba, Argentina)  
+- Carolina Charalambous (Santiago, Chile)
+- Enrico Ragusa (Milano, Italy)  
+- Crisitiano Longarini (Cambridge, UK)  
+- Miguel Vioque (ESO, Germany)  
 
 [Extended list of collaborators][collaborators]
 
@@ -171,6 +157,8 @@ Project hosted at at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-greno
 [comic2]: https://nicolascuello.github.io/Stellar-MADE/comic2
 [comic3]: https://nicolascuello.github.io/Stellar-MADE/comic3
 [comic4]: https://nicolascuello.github.io/Stellar-MADE/comic4
+[radio]: https://nicolascuello.github.io/Stellar-MADE/radio
+[schools]: https://nicolascuello.github.io/Stellar-MADE/schools
 [PhD-grant1]: https://nicolascuello.github.io/Stellar-MADE/PhD-grant1
 [PhD-grant2]: https://nicolascuello.github.io/Stellar-MADE/PhD-grant2
 [postdoc2]: https://nicolascuello.github.io/Stellar-MADE/postdoc2
