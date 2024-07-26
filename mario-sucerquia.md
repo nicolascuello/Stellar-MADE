@@ -1,7 +1,7 @@
 # Stellar-MADE project
 
 Mario Sucerquia  
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-MS.jpg" alt="MS picture" width="300"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-MS.png" alt="MS picture" width="300"/>
 
 ### Summary of my career
 
