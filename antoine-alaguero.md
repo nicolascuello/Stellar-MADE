@@ -1,7 +1,7 @@
 # Stellar-MADE project
 
 Antoine Alaguero  
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/photo_AA_2022.jpeg" alt="AA picture" width="300"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/photo_AA_2022.jpg" alt="AA picture" width="300"/>
 
 ### Education
 
