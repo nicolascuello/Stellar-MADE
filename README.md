@@ -9,12 +9,12 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 
 ### Members of the team:
 
-- [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG/UGA)
-- [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG/CNRS)
-- [Pedro Poblete](pedro-poblete) (Postdoc, IPAG/CNRS)
-- [Mario Sucerquia](mario-sucerquia) (Postdoc, IPAG/UGA)
-- [Romain Grane](romain-grane) (PhD Student, from October 2024, IPAG/UGA)
-- [Elisa Castro](elisa-castro) (PhD Student, from October 2024, IPAG/UGA)
+- [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG/UGA/ERC)
+- [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG/CNRS/ERC)
+- [Pedro Poblete](pedro-poblete) (Postdoc, IPAG/CNRS/ERC)
+- [Mario Sucerquia](mario-sucerquia) (Postdoc, IPAG/UGA/ERC)
+- [Romain Grane](romain-grane) (PhD Student, IPAG/UGA/ERC)
+- [Elisa Castro](elisa-castro) (PhD Student, from December 2024, IPAG/UGA/ANR)
 
 
 ### Project goals:
@@ -52,6 +52,8 @@ For more information, check the [journal club](journalclub) webpage.
 
 ### Recent featured publications:
 
+- [The missing rings around Solar System moons](https://ui.adsabs.harvard.edu/abs/2024arXiv240810643S/abstract)  
+    Sucerquia et al. (2024)
 - [V892 Tau: A tidally perturbed circumbinary disc in a triple stellar system](https://arxiv.org/abs/2405.12593)  
     Alaguero, Cuello, Ménard et al. (2024)
 - [Probing initial distributions of orbital eccentricity and disc misalignment via polar discs](https://ui.adsabs.harvard.edu/abs/2024A%26A...682A.104C/abstract)  
@@ -60,8 +62,6 @@ For more information, check the [journal club](journalclub) webpage.
     Cuello & Sucerquia (2024)
 - [Close encounters: How stellar flybys shape planet-forming discs](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)  
     Cuello, Ménard & Price (2023)
-- [Circumbinary planets: migration, trapping in mean-motion resonances, and ejection](https://ui.adsabs.harvard.edu/abs/2022arXiv221108520G/abstract)  
-    Gianuzzi, Giuppone & Cuello (2023)
 
 [Complete list of publications][publications]
 
@@ -69,8 +69,9 @@ For more information, check the [journal club](journalclub) webpage.
 ### Recent featured seminars and talks in conferences:
 
 - UPCOMING: Invited review talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Nicolás Cuello (September 2024).  
-- UPCOMING: 1 invited review talk, 1 contributed talk, and 1 poster at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Nicolás Cuello (July 2024).  
-- UPCOMING: 3 contributed talks at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Antoine Alaguero (July 2024).  
+- UPCOMING: Contributed talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Pedro Poblete (September 2024).  
+- 1 invited review talk, 1 contributed talk, and 1 poster at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Nicolás Cuello (July 2024).  
+- 3 contributed talks at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Antoine Alaguero (July 2024).  
 - Contributed talk at [Dust Devils Workshop](https://www.as.arizona.edu/DustDevils2024/) (Tucson, USA) by Pedro Poblete (March 2024).  
 - Contributed talk at [Exosystèmes IV](https://exosystemes4.sciencesconf.org) (Lyon, France) by Antoine Alaguero (February 2024).  
 - Invited seminar at [Osservatorio Astrofisico di Torino](https://www.oato.inaf.it) (OAT, Italy) by Nicolás Cuello (January 2024).  
@@ -113,7 +114,7 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 - Álvaro Ribas (Cambrdige, UK)
 - Claudia Toci (ESO, Germany)  
 - Matías Montesinos (Santiago, Chile)
-- Carolina Charalambous (Santiago, Chile)
+- Carolina Charalambous (PUC, Chile)
 - Enrico Ragusa (Milano, Italy)  
 - Crisitiano Longarini (Cambridge, UK)  
 - Miguel Vioque (ESO, Germany)  
@@ -123,7 +124,7 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 ### Supervision of students/interns within the team
 
-- UPCOMING: Elisa Castro (Grenoble, France): 2024-2027, PhD student, by NC and Mario Sucerquia.  
+- Elisa Castro (Grenoble, France): 2024-2027, PhD student, by NC and Mario Sucerquia.  
 - Romain Grane (Grenoble, France): 2024-2027, M2 & PhD student, by NC and Mario Sucerquia.  
 - Joshua Talidec (Grenoble, France): 2024, high-school student, by NC and Pedro Poblete.  
 - Félix Sauvourel (Grenoble, France): 2023, M1 student, by NC and Antoine Alaguero.  

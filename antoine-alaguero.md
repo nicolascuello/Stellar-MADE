@@ -1,7 +1,7 @@
 # Stellar-MADE project
 
 Antoine Alaguero  
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/photo_AA_2022.jpg" alt="AA picture" width="300"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/photo_AA_2022.jpeg" alt="AA picture" width="300"/>
 
 ### Education
 
@@ -18,12 +18,22 @@ Once the dust dynamics properly understood, the second step is to understand to 
 
 ### Ongoing work
 
-#### Modelling of triple stellar systems (V892 Tau) 
+#### Dust growth in binary systems
 
-V892 Tau is a young triple stellar system with a CircumBinary Disc (CBD). The orbit of the inner binary is well known and the CBD is well characterized, but the orbit of the outer companion remains unconstrained. The CBD is highly structured, and the presence of such substructures could be due to interactions with the outer star. Using hydrodynamical simulations, I am dedicated to demonstrate this link and thus to constrain the orbit of the outer body. Once a suitable orbit is found, I will create synthetic observations of this system. Comparing those to the actual observations, I will be able to explain the origin of the observed CBD substructures by clearly deriving the orbit of the third star.
+Stars often form in multiple systems, where star-disc interactions influence protoplanetary disc dynamics and dust growth. In these systems, high dust velocity dispersion from gravitational effects of nearby companions can impede dust particle growth, yet the formation of substructures like spiral arms can enhance collision rates and growth potential due to increased density. Therefore, the impact of multiplicity on planet formation remains uncertain. To investigate this question, I perform 3D hydrodynamical simulations of binary systems in various orbital configurations with circumstellar and circumbinary discs. The simulations are integrated with dust growth and fragmentation over a total time of at least 100 000 years, which allows to derive robust results. The analysis focuses on dust spatial and size distributions to evaluate the planet-forming potential in binary systems. 
 
 #### ELT observations
 
 In the context of the forthcoming giant telescopes, accessible probed resolutions will soon be greatly upgraded, unveiling the very inner separations of stellar systems. My task is to assess how much this will improve the capability to detect exoplanets and characterize disk substructures in young stellar systems. This task is part of the science cases of the ELT/MICADO and ELT/HARMONI instruments. To adress this question, I am performing full radiative transfer simulations of a typical young stellar system using the radiative transfer code MCFOST. I then transform those simulations into synthetic observations of the ELT instruments. By analyzing these observations, I derive detection limits for embedded planets depending on the initial system configuration.
+
+
+### Recent Highlights
+
+#### Modelling of triple stellar systems (V892 Tau) 
+
+V892 Tau is a young triple stellar system with a CircumBinary Disc (CBD). The orbit of the inner binary is well known and the CBD is well characterized, but the orbit of the outer companion V892 Tau NE remains unconstrained. As seen on new ALMA high-resolution observations, the CBD is highly structured and the presence of such substructures could be due to interactions with the outer star. Using hydrodynamical simulations post-processed into synthetic observations, I showed that an eccentric misaligned orbit of the companion can account for the observed substructures in the CBD, demonstrating the ongoing interactions with V892 Tau NE.
+
+[Link to the paper](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.311A/abstract)
+
 
 [Back to home page](https://nicolascuello.github.io/Stellar-MADE/)
