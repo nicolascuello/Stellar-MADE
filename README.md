@@ -98,6 +98,8 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 ### Organised meetings & workshops
 
+- [Multiplicity in Young Stars](https://indico.nbi.ku.dk/event/2121/) at [Niels Bohr Institute](https://nbi.ku.dk/english/) in Copenhagen (26-29 August 2025).  
+- Stellar-MADE [Winter Meeting 2025](winter-meeting2) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (14-17 January 2025).  
 - [Special Session 19](https://eas.unige.ch/EAS_meeting/session.jsp?id=SS19) on "Stars, discs & planets: dynamics & evolution in multiple systems" at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) (3 July 2024).  
 - Stellar-MADE [Winter Meeting 2024](winter-meeting) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (16-19 January 2024).  
 - [Phantom-MCFOST workshop](phantom-mcfost) at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
@@ -124,7 +126,7 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 ### Supervision of students/interns within the team
 
-- Elisa Castro (Grenoble, France): 2024-2027, PhD student, by NC and Mario Sucerquia.  
+- Elisa Castro (Grenoble, France): 2024-2027, PhD student, by NC and Philippe Delorme.  
 - Romain Grane (Grenoble, France): 2024-2027, M2 & PhD student, by NC and Mario Sucerquia.  
 - Joshua Talidec (Grenoble, France): 2024, high-school student, by NC and Pedro Poblete.  
 - Félix Sauvourel (Grenoble, France): 2023, M1 student, by NC and Antoine Alaguero.  
