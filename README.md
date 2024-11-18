@@ -1,7 +1,7 @@
 # Stellar-MADE Project
 
 Exploring the effects of **Stellar M**ultiplicity on planet formation **A**cross **D**isc **E**volution.  
-[ERC](https://erc.europa.eu/homepage) Starging Grant: October 2022 - September 2027.  
+[ERC](https://erc.europa.eu/homepage) Starting Grant: October 2022 - September 2027.  
 Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.fr) (Grenoble, France).
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/logo.png" alt="Stellar-MADE logo" width="300"/>
@@ -14,7 +14,7 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 - [Pedro Poblete](pedro-poblete) (Postdoc, IPAG/CNRS/ERC)
 - [Mario Sucerquia](mario-sucerquia) (Postdoc, IPAG/UGA/ERC)
 - [Romain Grane](romain-grane) (PhD Student, IPAG/UGA/ERC)
-- [Elisa Castro](elisa-castro) (PhD Student, from December 2024, IPAG/UGA/ANR)
+- [Elisa Castro](elisa-castro) (PhD Student, IPAG/UGA/ANR)
 
 
 ### Project goals:
@@ -24,16 +24,6 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 - Characterise planetary architectures and the resulting exoplanet population.
 
 [Abstract of the project][about]
-
-
-### Organised meetings & workshops
-
-- [Multiplicity in Young Stars](https://indico.nbi.ku.dk/event/2121/) at [Niels Bohr Institute](https://nbi.ku.dk/english/) in Copenhagen (26-29 August 2025).  
-- Stellar-MADE [Winter Meeting 2025](winter-meeting2) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (14-17 January 2025).  
-- [Special Session 19](https://eas.unige.ch/EAS_meeting/session.jsp?id=SS19) on "Stars, discs & planets: dynamics & evolution in multiple systems" at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) (3 July 2024).  
-- Stellar-MADE [Winter Meeting 2024](winter-meeting) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (16-19 January 2024).  
-- [Phantom-MCFOST workshop](phantom-mcfost) at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
-- Stellar-MADE [Kick-off meeting](kickoff) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
 
 
 ### Stellar-MADE co(s)mic strips
@@ -47,7 +37,14 @@ A series of comic strips about different aspects of the science carried out with
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/Exoplanetes-mini.png" alt="Sample of the comics" width="700"/>
 
 
+### Organised meetings & workshops
 
+- [Multiplicity in Young Stars](https://indico.nbi.ku.dk/event/2121/) at [Niels Bohr Institute](https://nbi.ku.dk/english/) in Copenhagen (26-29 August 2025).  
+- Stellar-MADE [Winter Meeting 2025](winter-meeting2) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (14-17 January 2025).  
+- [Special Session 19](https://eas.unige.ch/EAS_meeting/session.jsp?id=SS19) on "Stars, discs & planets: dynamics & evolution in multiple systems" at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) (3 July 2024).  
+- Stellar-MADE [Winter Meeting 2024](winter-meeting) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (16-19 January 2024).  
+- [Phantom-MCFOST workshop](phantom-mcfost) at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
+- Stellar-MADE [Kick-off meeting](kickoff) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
 
 
 ### Recent featured publications:
@@ -68,6 +65,7 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Recent featured seminars and talks in conferences:
 
+- Invited seminar at [ET Science Seminar Series](http://astro-en.shao.cas.cn) (Shanghai, China) by Nicolás Cuello (November 2024).  
 - Invited review talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Nicolás Cuello (September 2024).  
 - Contributed talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Pedro Poblete (September 2024).  
 - 1 invited review talk, 1 contributed talk, and 1 poster at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Nicolás Cuello (July 2024).  
@@ -95,17 +93,6 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 - Presentation for high-school French students at IPAG, 14/12/2022;  
 "Simulations numériques & formation planétaire".  
 
-
-### Disc Dynamics & Planet Formation Journal Club
-
-Every Tuesday at 14h00 (CET) we meet online through Zoom to discuss recent interesting articles from the [arXiv](https://arxiv.org). This activity is co-organised between two ongoing ERC projects: Stellar-MADE (PI: N. Cuello) and Dust2Planets (PI: F. Ménard). We alternate between sessions dedicated to "multiple stellar systems" and sessions dedicated to "dust dynamics and observations".
-
-The format is the following:
-- a long presentation (15-20 min) followed by discussion;
-- a short one (5 min): quick overview or new idea / 1-2 slides.
-
-For more information, check the [journal club](journalclub) webpage.  
-
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/Stellar-MADE-logo.png" alt="Stellar-MADE unofficial logo" width="300"/>
 
 
@@ -116,12 +103,12 @@ For more information, check the [journal club](journalclub) webpage.
 - Gaspard Duchêne (IPAG, France) 
 - Rebecca Nealon (Warwick, UK)  
 - Christophe Pinte (Monash, Australia)  
-- Álvaro Ribas (Cambrdige, UK)
+- Álvaro Ribas (Cambridge, UK)
 - Claudia Toci (ESO, Germany)  
 - Matías Montesinos (Santiago, Chile)
 - Carolina Charalambous (PUC, Chile)
 - Enrico Ragusa (Milano, Italy)  
-- Crisitiano Longarini (Cambridge, UK)  
+- Sebastián Zúñiga (Liège, Belgium)
 - Miguel Vioque (ESO, Germany)  
 
 [Extended list of collaborators][collaborators]
