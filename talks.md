@@ -1,5 +1,10 @@
 # Stellar-MADE project
 
+- Invited seminar at [ET Science Seminar Series](http://astro-en.shao.cas.cn) (Shanghai, China) by Nicolás Cuello (November 2024).  
+- Invited review talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Nicolás Cuello (September 2024).  
+- Contributed talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Pedro Poblete (September 2024).  
+- 1 invited review talk, 1 contributed talk, and 1 poster at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Nicolás Cuello (July 2024).  
+- 3 contributed talks at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Antoine Alaguero (July 2024).  
 - Contributed talk at [Dust Devils Workshop](https://www.as.arizona.edu/DustDevils2024/) (Tucson, USA) by Pedro Poblete (March 2024).  
 - Contributed talk at [Exosystèmes IV](https://exosystemes4.sciencesconf.org) (Lyon, France) by Antoine Alaguero (February 2024).  
 - Invited seminar at [Osservatorio Astrofisico di Torino](https://www.oato.inaf.it) (OAT, Italy) by Nicolás Cuello (January 2024).  

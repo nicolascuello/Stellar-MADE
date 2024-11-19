@@ -4,7 +4,7 @@ Exploring the effects of **Stellar M**ultiplicity on planet formation **A**cross
 [ERC](https://erc.europa.eu/homepage) Starting Grant: October 2022 - September 2027.  
 Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.fr) (Grenoble, France).
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/logo.png" alt="Stellar-MADE logo" width="300"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Stellar-MADE_logotext.png" alt="Stellar-MADE logo" width="300"/>
 
 
 ### Members of the team:
@@ -22,6 +22,8 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 - Establish the formation channels of protoplanetary discs around young stellar objects;  
 - Follow disc dynamics and grain growth to identify the regions of planetesimal formation;  
 - Characterise planetary architectures and the resulting exoplanet population.
+
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/logo.png" alt="Stellar-MADE logo" width="300"/>
 
 [Abstract of the project][about]
 
@@ -66,6 +68,7 @@ A series of comic strips about different aspects of the science carried out with
 ### Recent featured seminars and talks in conferences:
 
 - Invited seminar at [ET Science Seminar Series](http://astro-en.shao.cas.cn) (Shanghai, China) by Nicolás Cuello (November 2024).  
+- Invited seminar for the Star Formation Group at [European Southern Observatory](https://www.eso.org/) (Garching, Germany) by Antoine Alaguero (October 2024).  
 - Invited review talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Nicolás Cuello (September 2024).  
 - Contributed talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Pedro Poblete (September 2024).  
 - 1 invited review talk, 1 contributed talk, and 1 poster at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Nicolás Cuello (July 2024).  
@@ -81,8 +84,8 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Outreach activities
 
-- Participation to a [radio emission about comics and astrophysics](radio) by [Antoine Alaguero](antoine-alaguero).  
-- [Les cordées de la réussite](schools): Outreach activity in a local high-school in Grenoble by [Nicolás Cuello](nicolas-cuello).  
+- Participation to a [radio emission about comics and astrophysics](radio) by [Antoine Alaguero](antoine-alaguero), June 2024.  
+- [Les cordées de la réussite](schools): Outreach activity in a local high-school in Grenoble by [Nicolás Cuello](nicolas-cuello), June 2024.  
 - [Pint of Science](https://pintofscience.fr) in Grenoble, 23/05/2023.  
 "Discs and planets in multiple stellar systems". Program and details [here](https://www.pintofscience.fr/event/disques-et-exoplanetes-autour-detoiles-multiples).  
 Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).  
@@ -92,8 +95,6 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 [Gallery of selected drawings][drawings] by the students.  
 - Presentation for high-school French students at IPAG, 14/12/2022;  
 "Simulations numériques & formation planétaire".  
-
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/Stellar-MADE-logo.png" alt="Stellar-MADE unofficial logo" width="300"/>
 
 
 ### Main collaborators of Stellar-MADE
@@ -128,7 +129,7 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 
 ### Acknowledgements
 
-Project hosted at at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.fr) (Grenoble, France), with the participation of [CNRS](https://www.cnrs.fr/). Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MADE, No. 101042275). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.  
+Project hosted at at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.fr) (Grenoble, France), with the participation of [CNRS](https://www.cnrs.fr/). Funded by the European Union ([ERC](https://erc.europa.eu/homepage), Stellar-MADE, No. 101042275). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them. Grant agreement No. 101042275, project Stellar-MADE.  
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/logo_IPAG.png" alt="IPAG logo" height="150"/>
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/logo_UGA.png" alt="UGA logo" height="150"/>
