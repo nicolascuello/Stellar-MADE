@@ -98,6 +98,8 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 - Presentation for high-school French students at IPAG, 14/12/2022;  
 "Simulations numériques & formation planétaire".  
 
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/antoine-radiocampus_small.jpeg" alt="Multiplicity in young stars" width="700"/>
+
 
 ### Main collaborators of Stellar-MADE
 
