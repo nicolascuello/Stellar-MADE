@@ -1,6 +1,7 @@
 # Stellar-MADE project
 
 - Invited seminar at [ET Science Seminar Series](http://astro-en.shao.cas.cn) (Shanghai, China) by Nicolás Cuello (November 2024).  
+- Invited seminar for the Star Formation Group at [European Southern Observatory](https://www.eso.org/) (Garching, Germany) by Antoine Alaguero (October 2024).  
 - Invited review talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Nicolás Cuello (September 2024).  
 - Contributed talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Pedro Poblete (September 2024).  
 - 1 invited review talk, 1 contributed talk, and 1 poster at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Nicolás Cuello (July 2024).  

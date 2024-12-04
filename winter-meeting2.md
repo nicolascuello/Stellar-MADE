@@ -5,7 +5,7 @@ We plan to work on 3 main axes during the Winter Meeting:
 - Dust dynamics and grain growth in protoplanetary discs;  
 - Stability and evolution in multiple stellar systems.  
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/Flyer-StellarMADE-Winter-Meeting-2024.png" alt="winter meeting seen by midjourney" width="500"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Affiche_A3_Stellar-MADE_winter_meeting_2025.png" alt="winter meeting 2025 poster by Romain Grane" width="500"/>
 
 Each participant will preferentially work on one or several items with a subgroup of participants. At the end, we will establish a plan to keep working together after the meeting, share results efficiently, and co-write the corresponding scientific articles.
 
@@ -73,6 +73,10 @@ List of participants for the kick-off meeting:
 22. Thimotée David-Cleris (IPAG, Grenoble)
 
 Drivers, departure times and meeting points:  
-- TBD
+- Nicolás
+- Antoine
+- Romain
+- François
+- Gaspard
 
 [Back to home page](https://nicolascuello.github.io/Stellar-MADE/)
