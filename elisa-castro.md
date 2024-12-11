@@ -1,7 +1,7 @@
 # Stellar-MADE project
 
 Elisa Castro  
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-EC.jpg" alt="EC picture" width="300"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-EC.png" alt="EC picture" width="300"/>
 
 ### Summary of my career
 
