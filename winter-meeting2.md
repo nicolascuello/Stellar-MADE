@@ -14,19 +14,19 @@ Program with indicative times:
     - During the day: travel to Grenoble and then to Villard de Lans.
     - 16h00: Welcome session by Stellar-MADE team.
     - 17h00: Coffee break.
-    - 18h: Stellar multiplicity & Planet Formation (François and Cathie)
-    - 20h: Diner (entrée, glass of wine, main course, dessert, coffee/tea).
+    - 18h: Scientific discussions & drinks.
+    - 20h: Dinner (entrée, glass of wine, main course, dessert, coffee/tea).
     - 21h30: Meeting room available for discussion/games & drinks.  
 - Wednesday 15/01/2025:  
     - 8h: Breakfast (buffet and hot drinks).
-    - 9h: Review talks (Miguel & Álvaro; Claudia & Bec; Francesco & Antoine)
+    - 9h: Sparkling talks by Claudia & Bec, Francesco & Antoine, Pedro & Thimothée.
     - 10h30: Coffee break.
-    - 11h: Review talk (Mario & Emmanuel) & Discussion (Gaspard & Nicolas).
+    - 11h: Sparkling talk by Mario & Emmanuel, working groups & projects.
     - 12h30: Lunch (entrée, glass of wine, main course, dessert, coffee/tea).
     - 14h: Collaborative work.
     - 16h30: Coffee break.
     - 17-18h: Collaborative work.
-    - 20h: Diner (entrée, glass of wine, main course, dessert, coffee/tea).
+    - 20h: Dinner (entrée, glass of wine, main course, dessert, coffee/tea).
     - 21h30: Meeting room available for discussion/games & drinks.  
 - Thursday 16/01/2025:
     - 8h: Breakfast (buffet and hot drinks).
