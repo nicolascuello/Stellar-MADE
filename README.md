@@ -16,14 +16,14 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 - [Romain Grane](romain-grane) (PhD Student, IPAG/UGA/ERC)
 - [Elisa Castro](elisa-castro) (PhD Student, IPAG/UGA/ANR)
 
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/team_all2.jpg" alt="Picture of the team" width="700"/>
+
 
 ### Project goals:
 
 - Establish the formation channels of protoplanetary discs around young stellar objects;  
 - Follow disc dynamics and grain growth to identify the regions of planetesimal formation;  
 - Characterise planetary architectures and the resulting exoplanet population.
-
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/logo.png" alt="Stellar-MADE logo" width="300"/>
 
 [Abstract of the project][about]
 
@@ -53,14 +53,14 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Recent featured publications:
 
-- [The missing rings around Solar System moons](https://ui.adsabs.harvard.edu/abs/2024arXiv240810643S/abstract)  
-    Sucerquia et al. (2024)
+- [Breaking long-period resonance chains with stellar flybys](https://ui.adsabs.harvard.edu/abs/2025arXiv250310914C/abstract)  
+    Charalambous, Cuello & Petrovich (2025)
+- [Circumstellar and circumbinary discs in multiple stellar systems](https://ui.adsabs.harvard.edu/abs/2025arXiv250119249C/abstract)  
+    Cuello, Alaguero & Poblete (2025)
+- [Extreme exomoons in WASP-49 Ab: Dynamics and detectability](https://ui.adsabs.harvard.edu/abs/2024arXiv240810643S/abstract)  
+    Sucerquia et al. (2025)
 - [V892 Tau: A tidally perturbed circumbinary disc in a triple stellar system](https://arxiv.org/abs/2405.12593)  
     Alaguero, Cuello, Ménard et al. (2024)
-- [Probing initial distributions of orbital eccentricity and disc misalignment via polar discs](https://ui.adsabs.harvard.edu/abs/2024A%26A...682A.104C/abstract)  
-    Ceppi, Cuello, Lodato et al. (2024)
-- [Alpha Centauri: Disc Dynamics, Planet Stability & Detectability](https://ui.adsabs.harvard.edu/abs/2024arXiv240116003C/abstract)  
-    Cuello & Sucerquia (2024)
 - [Close encounters: How stellar flybys shape planet-forming discs](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)  
     Cuello, Ménard & Price (2023)
 
@@ -86,8 +86,10 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Outreach activities
 
+- [Les cordées de la réussite](schools): Outreach activity at Lycée Mounier in Grenoble by [Nicolás Cuello](nicolas-cuello), March 2025.  
+- [La planète aux deux étoiles](https://www.youtube.com/watch?v=elB19YfCfJQ&t=1436s): Online podcast broadcast by Auroralpes featuring Antoine Alaguero & Nicolás Cuello, 21/02/2025.  
 - Participation to a [radio emission about comics and astrophysics](radio) by [Antoine Alaguero](antoine-alaguero), June 2024.  
-- [Les cordées de la réussite](schools): Outreach activity in a local high-school in Grenoble by [Nicolás Cuello](nicolas-cuello), June 2024.  
+- [Les cordées de la réussite](schools): Outreach activity at Lycée Argouges in Grenoble by [Nicolás Cuello](nicolas-cuello), June 2024.  
 - [Pint of Science](https://pintofscience.fr) in Grenoble, 23/05/2023.  
 "Discs and planets in multiple stellar systems". Program and details [here](https://www.pintofscience.fr/event/disques-et-exoplanetes-autour-detoiles-multiples).  
 Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).  
@@ -98,7 +100,7 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 - Presentation for high-school French students at IPAG, 14/12/2022;  
 "Simulations numériques & formation planétaire".  
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/antoine-radiocampus_small.jpeg" alt="Multiplicity in young stars" width="700"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/podcast_Auroralpes_AA_NC.jpeg" alt="Podcast Auroralpes" width="700"/>
 
 
 ### Main collaborators of Stellar-MADE
