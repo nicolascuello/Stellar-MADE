@@ -58,7 +58,7 @@ A series of comic strips about different aspects of the science carried out with
 - [Circumstellar and circumbinary discs in multiple stellar systems](https://ui.adsabs.harvard.edu/abs/2025arXiv250119249C/abstract)  
     Cuello, Alaguero & Poblete (2025)
 - [Extreme exomoons in WASP-49 Ab: Dynamics and detectability](https://ui.adsabs.harvard.edu/abs/2024arXiv240810643S/abstract)  
-    Sucerquia et al. (2025)
+    Sucerquia & Cuello (2025)
 - [V892 Tau: A tidally perturbed circumbinary disc in a triple stellar system](https://arxiv.org/abs/2405.12593)  
     Alaguero, Cuello, Ménard et al. (2024)
 - [Close encounters: How stellar flybys shape planet-forming discs](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)  
