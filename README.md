@@ -100,7 +100,7 @@ Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoin
 - Presentation for high-school French students at IPAG, 14/12/2022;  
 "Simulations numériques & formation planétaire".  
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/podcast_Auroralpes_AA_NC.jpeg" alt="Podcast Auroralpes" width="700"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/podcast_Auroralpes_AA_NC.jpg" alt="Podcast Auroralpes" width="700"/>
 
 
 ### Main collaborators of Stellar-MADE
