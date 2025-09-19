@@ -30,18 +30,21 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 
 ### Stellar-MADE co(s)mic strips
 
-A series of comic strips about different aspects of the science carried out within the Stellar-MADE project. This material was done by Nicolás Cuello & Antoine Alaguero in collaboration with the [Ink Link](https://www.theinklink.org/fr) and Séverine Alvain (during 2023 and released in 2024). Please get in touch with us if you would like to use it for outreach activities.  
-- [Episode 1](comic1): daily life of an astrophysicist, models & astronomical observations.
-- [Episode 2](comic2): disc dynamics and planet formation in multiple stellar systems.  
-- [Episode 3](comic3): distances & detection of exoplanets in multiple stellar systems.  
-- [Episode 4](comic4): alien life, planetary orbits & chaos in multiple stellar systems.  
+A series of comic strips about different aspects of the science carried out within the Stellar-MADE project. This material was done by Nicolás Cuello & Antoine Alaguero in collaboration with the [Ink Link](https://www.theinklink.org/fr) and Séverine Alvain (during 2023 and released in 2024 and 2025).  
+- Episode 1: [EN1](comic1-en), [FR1](comic1-fr), [ES1](comic1-es), [IT1](comic1-it): daily life of an astrophysicist, models & astronomical observations.
+- Episode 2: [EN2](comic2-en), [FR2](comic2-fr), [ES2](comic2-es), [IT2](comic2-it) disc dynamics and planet formation in multiple stellar systems.  
+- Episode 3: [EN3](comic3-en), [FR3](comic3-fr), [FR3](comic3-es), [IT3](comic3-it): distances & detection of exoplanets in multiple stellar systems.  
+- Episode 4: [EN4](comic4-en), [FR4](comic4-fr), [ES4](comic4-es), [IT4](comic4-it): alien life, planetary orbits & chaos in multiple stellar systems.  
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/Exoplanetes-mini.png" alt="Sample of the comics" width="700"/>
 
 
 ### Organised meetings & workshops
 
+- Stellar-MADE [Winter Meeting 2026](winter-meeting3) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (13-16 January 2026).  
 - [Multiplicity in Young Stars](https://indico.nbi.ku.dk/event/2121/) at [Niels Bohr Institute](https://nbi.ku.dk/english/) in Copenhagen (26-29 August 2025).  
+- [2nd European Phantom code family users workshop
+2025](https://phantomsph.github.io/workshop2025/) at IPAG (2-6 June 2025).  
 - Stellar-MADE [Winter Meeting 2025](winter-meeting2) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (14-17 January 2025).  
 - [Special Session 19](https://eas.unige.ch/EAS_meeting/session.jsp?id=SS19) on "Stars, discs & planets: dynamics & evolution in multiple systems" at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) (3 July 2024).  
 - Stellar-MADE [Winter Meeting 2024](winter-meeting) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (16-19 January 2024).  
@@ -53,13 +56,17 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Recent featured publications:
 
+- [Asymmetric radiation in binary systems: Implications for disk evolution and chemistry](https://ui.adsabs.harvard.edu/abs/2025arXiv250912898P/abstract)  
+    Poblete, Cuello, Alaguero et al. (2025)  
+- [Two warm Earth-sized exoplanets and an Earth-sized candidate in the M5V-M6V binary system TOI-2267](https://ui.adsabs.harvard.edu/abs/2025arXiv250814176Z/abstract)
+    Zúñiga-Fernández et al. (2025)  
 - [Breaking long-period resonance chains with stellar flybys](https://ui.adsabs.harvard.edu/abs/2025arXiv250310914C/abstract)  
     Charalambous, Cuello & Petrovich (2025)
 - [Circumstellar and circumbinary discs in multiple stellar systems](https://ui.adsabs.harvard.edu/abs/2025arXiv250119249C/abstract)  
     Cuello, Alaguero & Poblete (2025)
 - [Extreme exomoons in WASP-49 Ab: Dynamics and detectability](https://ui.adsabs.harvard.edu/abs/2024arXiv240810643S/abstract)  
     Sucerquia & Cuello (2025)
-- [V892 Tau: A tidally perturbed circumbinary disc in a triple stellar system](https://arxiv.org/abs/2405.12593)  
+- [V892 Tau: A tidally perturbed circumbinary disc in a triple stellar system](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.311A/abstract)  
     Alaguero, Cuello, Ménard et al. (2024)
 - [Close encounters: How stellar flybys shape planet-forming discs](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)  
     Cuello, Ménard & Price (2023)
@@ -142,6 +149,7 @@ Project hosted at at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-greno
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/European_Research_Council_logo.svg.png" alt="ERC logo" height="150"/>
 
 [about]: https://nicolascuello.github.io/Stellar-MADE/about
+[data]: https://nicolascuello.github.io/Stellar-MADE/data
 [collaborators]: https://nicolascuello.github.io/Stellar-MADE/collaborators
 [nicolas-cuello]: https://nicolascuello.github.io/Stellar-MADE/nicolas-cuello
 [antoine-alaguero]: https://nicolascuello.github.io/Stellar-MADE/antoine-alaguero
@@ -153,10 +161,22 @@ Project hosted at at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-greno
 [kickoff]: https://nicolascuello.github.io/Stellar-MADE/kickoff
 [phantom-mcfost]: https://nicolascuello.github.io/Stellar-MADE/phantom-mcfost
 [drawings]: https://nicolascuello.github.io/Stellar-MADE/drawings
-[comic1]: https://nicolascuello.github.io/Stellar-MADE/comic1
-[comic2]: https://nicolascuello.github.io/Stellar-MADE/comic2
-[comic3]: https://nicolascuello.github.io/Stellar-MADE/comic3
-[comic4]: https://nicolascuello.github.io/Stellar-MADE/comic4
+[comic1-EN]: https://nicolascuello.github.io/Stellar-MADE/comic1-en
+[comic2-EN]: https://nicolascuello.github.io/Stellar-MADE/comic2-en
+[comic3-EN]: https://nicolascuello.github.io/Stellar-MADE/comic3-en
+[comic4-EN]: https://nicolascuello.github.io/Stellar-MADE/comic4-en
+[comic1-FR]: https://nicolascuello.github.io/Stellar-MADE/comic1-fr
+[comic2-FR]: https://nicolascuello.github.io/Stellar-MADE/comic2-fr
+[comic3-FR]: https://nicolascuello.github.io/Stellar-MADE/comic3-fr
+[comic4-FR]: https://nicolascuello.github.io/Stellar-MADE/comic4-fr
+[comic1-ES]: https://nicolascuello.github.io/Stellar-MADE/comic1-es
+[comic2-ES]: https://nicolascuello.github.io/Stellar-MADE/comic2-es
+[comic3-ES]: https://nicolascuello.github.io/Stellar-MADE/comic3-es
+[comic4-ES]: https://nicolascuello.github.io/Stellar-MADE/comic4-es
+[comic1-IT]: https://nicolascuello.github.io/Stellar-MADE/comic1-it
+[comic2-IT]: https://nicolascuello.github.io/Stellar-MADE/comic2-it
+[comic3-IT]: https://nicolascuello.github.io/Stellar-MADE/comic3-it
+[comic4-IT]: https://nicolascuello.github.io/Stellar-MADE/comic4-it
 [radio]: https://nicolascuello.github.io/Stellar-MADE/radio
 [schools]: https://nicolascuello.github.io/Stellar-MADE/schools
 [PhD-grant1]: https://nicolascuello.github.io/Stellar-MADE/PhD-grant1
