@@ -1,3 +1,5 @@
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/comics_IT/comics_it001.jpeg" alt="Comic 1" width="800"/>
+# Stellar-MADE project
+
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/comics_IT/comics_it001.jpeg" alt="Stellar-MADE comic" width="500"/>
 
 [Back to home page](https://nicolascuello.github.io/Stellar-MADE/)

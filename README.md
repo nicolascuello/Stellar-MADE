@@ -28,17 +28,6 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 [Abstract of the project][about]
 
 
-### Stellar-MADE co(s)mic strips
-
-A series of comic strips about different aspects of the science carried out within the Stellar-MADE project. This material was done by Nicolás Cuello & Antoine Alaguero in collaboration with the [Ink Link](https://www.theinklink.org/fr) and Séverine Alvain (during 2023 and released in 2024 and 2025).  
-- Episode 1: [EN1](comic1-en), [FR1](comic1-fr), [ES1](comic1-es), [IT1](comic1-it): daily life of an astrophysicist, models & astronomical observations.
-- Episode 2: [EN2](comic2-en), [FR2](comic2-fr), [ES2](comic2-es), [IT2](comic2-it) disc dynamics and planet formation in multiple stellar systems.  
-- Episode 3: [EN3](comic3-en), [FR3](comic3-fr), [FR3](comic3-es), [IT3](comic3-it): distances & detection of exoplanets in multiple stellar systems.  
-- Episode 4: [EN4](comic4-en), [FR4](comic4-fr), [ES4](comic4-es), [IT4](comic4-it): alien life, planetary orbits & chaos in multiple stellar systems.  
-
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/Exoplanetes-mini.png" alt="Sample of the comics" width="700"/>
-
-
 ### Organised meetings & workshops
 
 - Stellar-MADE [Winter Meeting 2026](winter-meeting3) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (13-16 January 2026).  
@@ -52,6 +41,24 @@ A series of comic strips about different aspects of the science carried out with
 - Stellar-MADE [Kick-off meeting](kickoff) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/binary_conf_flyer_16_9_slide_QR.png" alt="Multiplicity in young stars" width="700"/>
+
+
+### Solarigraphy project at IPAG
+
+Project done by [Patricio Michelin](https://www.patricio-michelin.com) in collaboration with Stellar-MADE team and [OSUG](https://www.osug.fr). If you want to see more, follow this [link](solarigraphy). Feel free to contact us if you would like to start your own solarigraphy project.  
+
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/solarigraphy2.jpg" alt="Solarigraphy from IPAG" width="700"/>
+
+
+### Stellar-MADE co(s)mic strips
+
+A series of comic strips about different aspects of the science carried out within the Stellar-MADE project. The 4 episodes were originally prepared in French (FR) by Nicolás Cuello & Antoine Alaguero in collaboration with the [Ink Link](https://www.theinklink.org/fr) and Séverine Alvain (during 2023 and released in 2024 and 2025). Then, Elisa Castro took care of the translations into Spanish (ES), English (EN) & Italian (IT). We regularly use this comic during outreach activities in schools.  
+1. Daily life of an astrophysicist, models & astronomical observations: [EN1](comic1-en), [FR1](comic1-fr), [ES1](comic1-es), [IT1](comic1-it).
+2. Disc dynamics and planet formation in multiple stellar systems: [EN2](comic2-en), [FR2](comic2-fr), [ES2](comic2-es), [IT2](comic2-it).  
+3. Distances & detection of exoplanets in multiple stellar systems: [EN3](comic3-en), [FR3](comic3-fr), [ES3](comic3-es), [IT3](comic3-it).  
+4. Alien life, planetary orbits & chaos in multiple stellar systems: [EN4](comic4-en), [FR4](comic4-fr), [ES4](comic4-es), [IT4](comic4-it).  
+
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Exoplanetes-mini.png" alt="Sample of the comics" width="700"/>
 
 
 ### Recent featured publications:
