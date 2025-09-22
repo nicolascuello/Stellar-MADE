@@ -15,6 +15,7 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 - [Mario Sucerquia](mario-sucerquia) (Postdoc, IPAG/UGA/ERC)
 - [Romain Grane](romain-grane) (PhD Student, IPAG/UGA/ERC)
 - [Elisa Castro](elisa-castro) (PhD Student, IPAG/UGA/ANR)
+- [Daniel Price](https://users.monash.edu.au/~dprice/) (Visiting professor, Monash/UGA)
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/team_all2.jpg" alt="Picture of the team" width="700"/>
 
