@@ -1,5 +1,13 @@
 # Stellar-MADE project
 
+- Inivited review talk by Daniel Price at [Multiplicity in Young Stars](https://indico.nbi.ku.dk/event/2121/), [Niels Bohr Institute](https://nbi.ku.dk/english/) (Copenhagen, Demmark), August 2025.
+- 2 contributed talks by Antoine Alaguero & Pedro Poblete at [Multiplicity in Young Stars](https://indico.nbi.ku.dk/event/2121/), [Niels Bohr Institute](https://nbi.ku.dk/english/) (Copenhagen, Demmark), August 2025.  
+- Invited Lunch Talk by Nicolás Cuello at [European Southern Observatory](https://www.eso.org/) (Garching, Germany), July 2025.  
+- 2 contributed talks by Pedro Poblete at [EAS 2025](https://eas.unige.ch/EAS2025/), (Cork, Ireland), June 2025.  
+- 1 contributed talk by Pedro Poblete at [SPHERIC](https://spheric2025.upc.edu) (Barcelona, Spain), June 2025.
+- 3 contributed talk by Antoine Alaguero, Pedro Poblete & Nicolás Cuello at [2nd European Phantom code family users workshop
+2025](https://phantomsph.github.io/workshop2025/) (Grenoble, France), June 2025. 
+- Invited talk at by Mario Sucerquia at [FoF 2025](https://fof.oac.uncor.edu/2025/) (Córdoba, Argentina), April 2025.
 - Invited seminar at [ET Science Seminar Series](http://astro-en.shao.cas.cn) (Shanghai, China) by Nicolás Cuello (November 2024).  
 - Invited seminar for the Star Formation Group at [European Southern Observatory](https://www.eso.org/) (Garching, Germany) by Antoine Alaguero (October 2024).  
 - Invited review talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Nicolás Cuello (September 2024).  

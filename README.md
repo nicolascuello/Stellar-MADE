@@ -84,17 +84,16 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Recent featured seminars and talks in conferences:
 
-- Invited seminar at [ET Science Seminar Series](http://astro-en.shao.cas.cn) (Shanghai, China) by Nicolás Cuello (November 2024).  
-- Invited seminar for the Star Formation Group at [European Southern Observatory](https://www.eso.org/) (Garching, Germany) by Antoine Alaguero (October 2024).  
-- Invited review talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Nicolás Cuello (September 2024).  
-- Contributed talk at [Born in Fire](https://fireborn2024.github.io) (Santiago, Chile) by Pedro Poblete (September 2024).  
-- 1 invited review talk, 1 contributed talk, and 1 poster at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Nicolás Cuello (July 2024).  
-- 3 contributed talks at [EAS2024](https://eas.unige.ch/EAS_meeting/index.jsp) (Padova, Italy) by Antoine Alaguero (July 2024).  
-- Contributed talk at [Dust Devils Workshop](https://www.as.arizona.edu/DustDevils2024/) (Tucson, USA) by Pedro Poblete (March 2024).  
-- Contributed talk at [Exosystèmes IV](https://exosystemes4.sciencesconf.org) (Lyon, France) by Antoine Alaguero (February 2024).  
-- Invited seminar at [Osservatorio Astrofisico di Torino](https://www.oato.inaf.it) (OAT, Italy) by Nicolás Cuello (January 2024).  
-- Contributed talk at [EAS 2023](https://eas.unige.ch/EAS2023/) in Symposium S13 (Krakow, Poland) by Antoine Alaguero (July 2023).  
-- Invited seminar for the [JEDI Star Talks](https://sites.google.com/inaf.it/jedi/star-talks?authuser=0) (online) by Nicolás Cuello (February 2023). Talk available [here](https://drive.google.com/file/d/1OvxCVMWqItsQTncMxrJtMFNKPLMGa_-G/view?usp=sharing).  
+- UPCOMING: Invited seminar by Nicolás Cuello at [IoA](https://www.ast.cam.ac.uk) (Cambridge, England), October 2025
+- UPCOMING: Invited seminar by Nicolás Cuello at [DAMTP](https://www.damtp.cam.ac.uk) (Cambridge, England), October 2025
+- Inivited review talk by Daniel Price at [Multiplicity in Young Stars](https://indico.nbi.ku.dk/event/2121/), [Niels Bohr Institute](https://nbi.ku.dk/english/) (Copenhagen, Demmark), August 2025.
+- 2 contributed talks by Antoine Alaguero & Pedro Poblete at [Multiplicity in Young Stars](https://indico.nbi.ku.dk/event/2121/), [Niels Bohr Institute](https://nbi.ku.dk/english/) (Copenhagen, Demmark), August 2025.  
+- Invited Lunch Talk by Nicolás Cuello at [European Southern Observatory](https://www.eso.org/) (Garching, Germany), July 2025.  
+- 2 contributed talks by Pedro Poblete at [EAS 2025](https://eas.unige.ch/EAS2025/), (Cork, Ireland), June 2025.  
+- 1 contributed talk by Pedro Poblete at [SPHERIC](https://spheric2025.upc.edu) (Barcelona, Spain), June 2025.
+- 3 contributed talk by Antoine Alaguero, Pedro Poblete & Nicolás Cuello at [2nd European Phantom code family users workshop
+2025](https://phantomsph.github.io/workshop2025/) (Grenoble, France), June 2025. 
+- Invited talk at by Mario Sucerquia at [FoF 2025](https://fof.oac.uncor.edu/2025/) (Córdoba, Argentina), April 2025.
 
 [Complete list of talks][talks]
 
@@ -102,19 +101,17 @@ A series of comic strips about different aspects of the science carried out with
 ### Outreach activities
 
 - [Lights, Camera, Early-Career Scientists in Action!](https://www.youtube.com/playlist?list=PLPXeplhp1d02O6yM12P_6la1L-oXa0Hih) by [Europlanet](https://www.europlanet.org): [3 things about planet formation](https://www.youtube.com/watch?v=Wi5aa_sbIWA) and [a career overview](https://www.youtube.com/watch?v=oqOuBNXrPEs) by [Nicolás Cuello](nicolas-cuello), September 2025.
+- "Formación del sistema solar y observaciones del Sol" at [Colegio Kennedy](https://kennedy.edu.uy) by [Elisa Castro](elisa-castro), Montevideo, Uruguay, April 2025.
 - [Les cordées de la réussite](schools): Outreach activity at Lycée Mounier in Grenoble by [Nicolás Cuello](nicolas-cuello), March 2025.  
 - [La planète aux deux étoiles](https://www.youtube.com/watch?v=elB19YfCfJQ&t=1436s): Online podcast broadcast by Auroralpes featuring Antoine Alaguero & Nicolás Cuello, 21/02/2025.  
-- Participation to a [radio emission about comics and astrophysics](radio) by [Antoine Alaguero](antoine-alaguero), June 2024.  
+- [Plateau radio: Qu'est ce que la BD apporte à la science ?](https://www.echosciences-grenoble.fr/articles/plateau-radio-qu-est-ce-que-la-bd-apporte-a-la-science) by [Antoine Alaguero](antoine-alaguero), June 2024.  
 - [Les cordées de la réussite](schools): Outreach activity at Lycée Argouges in Grenoble by [Nicolás Cuello](nicolas-cuello), June 2024.  
 - [Pint of Science](https://pintofscience.fr) in Grenoble, 23/05/2023.  
 "Discs and planets in multiple stellar systems". Program and details [here](https://www.pintofscience.fr/event/disques-et-exoplanetes-autour-detoiles-multiples).  
-Presentations by [Nicolás Cuello](nicolas-cuello) and [Antoine Alaguero](antoine-alaguero).  
-- Online interview about stellar multiplicity and planet formation on Twich with GalactiCamille, 22/04/2023.  
-- Online presentation for elementary school students, Italy, December 2022 and 2023.  
-"I misteri della fomazione planetaria: Pianeti e stelle binarie"  
+- Stellar multiplicity and planet formation, online interview on Twich with GalactiCamille by [Nicolás Cuello](nicolas-cuello), 22/04/2023.  
+- "I misteri della fomazione planetaria: Pianeti e stelle binarie", online presentation for elementary school students by [Nicolás Cuello](nicolas-cuello), Italy, December 2022 and 2023.  
 [Gallery of selected drawings][drawings] by the students.  
-- Presentation for high-school French students at IPAG, 14/12/2022;  
-"Simulations numériques & formation planétaire".  
+- "Simulations numériques & formation planétaire", presentation to high-school students at IPAG by [Nicolás Cuello](nicolas-cuello), 14/12/2022.    
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/podcast_Auroralpes_AA_NC.jpg" alt="Podcast Auroralpes" width="700"/>
 
@@ -186,7 +183,6 @@ Project hosted at at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-greno
 [comic2-IT]: https://nicolascuello.github.io/Stellar-MADE/comic2-it
 [comic3-IT]: https://nicolascuello.github.io/Stellar-MADE/comic3-it
 [comic4-IT]: https://nicolascuello.github.io/Stellar-MADE/comic4-it
-[radio]: https://nicolascuello.github.io/Stellar-MADE/radio
 [schools]: https://nicolascuello.github.io/Stellar-MADE/schools
 [PhD-grant1]: https://nicolascuello.github.io/Stellar-MADE/PhD-grant1
 [PhD-grant2]: https://nicolascuello.github.io/Stellar-MADE/PhD-grant2
