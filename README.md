@@ -91,9 +91,9 @@ A series of comic strips about different aspects of the science carried out with
 - Invited Lunch Talk by Nicolás Cuello at [European Southern Observatory](https://www.eso.org/) (Garching, Germany), July 2025.  
 - 2 contributed talks by Pedro Poblete at [EAS 2025](https://eas.unige.ch/EAS2025/), (Cork, Ireland), June 2025.  
 - 1 contributed talk by Pedro Poblete at [SPHERIC](https://spheric2025.upc.edu) (Barcelona, Spain), June 2025.
-- 3 contributed talk by Antoine Alaguero, Pedro Poblete & Nicolás Cuello at [2nd European Phantom code family users workshop
+- 3 contributed talks by Antoine Alaguero, Pedro Poblete & Nicolás Cuello at [2nd European Phantom code family users workshop
 2025](https://phantomsph.github.io/workshop2025/) (Grenoble, France), June 2025. 
-- Invited talk at by Mario Sucerquia at [FoF 2025](https://fof.oac.uncor.edu/2025/) (Córdoba, Argentina), April 2025.
+- Invited talk by Mario Sucerquia at [FoF 2025](https://fof.oac.uncor.edu/2025/) (Córdoba, Argentina), April 2025.
 
 [Complete list of talks][talks]
 
