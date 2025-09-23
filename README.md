@@ -64,6 +64,8 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Recent featured publications:
 
+- [Probing dust and grain growth in the optically thick circumbinary ring of V892 Tau](https://arxiv.org/abs/2509.17424)  
+    Alaguero, Ménard, Cuello et al. (2023)
 - [Asymmetric radiation in binary systems: Implications for disk evolution and chemistry](https://ui.adsabs.harvard.edu/abs/2025arXiv250912898P/abstract)  
     Poblete, Cuello, Alaguero et al. (2025)  
 - [Two warm Earth-sized exoplanets and an Earth-sized candidate in the M5V-M6V binary system TOI-2267](https://ui.adsabs.harvard.edu/abs/2025arXiv250814176Z/abstract)
@@ -76,8 +78,6 @@ A series of comic strips about different aspects of the science carried out with
     Sucerquia & Cuello (2025)
 - [V892 Tau: A tidally perturbed circumbinary disc in a triple stellar system](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.311A/abstract)  
     Alaguero, Cuello, Ménard et al. (2024)
-- [Close encounters: How stellar flybys shape planet-forming discs](https://ui.adsabs.harvard.edu/abs/2022arXiv220709752C/abstract)  
-    Cuello, Ménard & Price (2023)
 
 [Complete list of publications][publications]
 
@@ -101,6 +101,7 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Outreach activities
 
+- [Lights, Camera, Early-Career Scientists in Action!](https://www.youtube.com/playlist?list=PLPXeplhp1d02O6yM12P_6la1L-oXa0Hih) by [Europlanet](https://www.europlanet.org): [3 things about planet formation](https://www.youtube.com/watch?v=Wi5aa_sbIWA) and [a career overview](https://www.youtube.com/watch?v=oqOuBNXrPEs) by [Nicolás Cuello](nicolas-cuello), September 2025.
 - [Les cordées de la réussite](schools): Outreach activity at Lycée Mounier in Grenoble by [Nicolás Cuello](nicolas-cuello), March 2025.  
 - [La planète aux deux étoiles](https://www.youtube.com/watch?v=elB19YfCfJQ&t=1436s): Online podcast broadcast by Auroralpes featuring Antoine Alaguero & Nicolás Cuello, 21/02/2025.  
 - Participation to a [radio emission about comics and astrophysics](radio) by [Antoine Alaguero](antoine-alaguero), June 2024.  
