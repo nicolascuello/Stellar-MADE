@@ -10,7 +10,7 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 ### Members of the team:
 
 - [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG/UGA/ERC)
-- [Antoine Alaguero](antoine-alaguero) (PhD Student, IPAG/CNRS/ERC)
+- [Antoine Alaguero](antoine-alaguero) (Postdoc, IPAG/UGA/ERC)
 - [Pedro Poblete](pedro-poblete) (Postdoc, IPAG/CNRS/ERC)
 - [Mario Sucerquia](mario-sucerquia) (Postdoc, IPAG/UGA/ERC)
 - [Romain Grane](romain-grane) (PhD Student, IPAG/UGA/ERC)
@@ -64,8 +64,8 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Recent featured publications:
 
-- [Probing dust and grain growth in the optically thick circumbinary ring of V892 Tau](https://arxiv.org/abs/2509.17424)  
-    Alaguero, Ménard, Cuello et al. (2023)
+- [Probing dust and grain growth in the optically thick circumbinary ring of V892 Tau](https://ui.adsabs.harvard.edu/abs/2025arXiv250917424A/abstract)  
+    Alaguero, Ménard, Cuello et al. (2025)
 - [Asymmetric radiation in binary systems: Implications for disk evolution and chemistry](https://ui.adsabs.harvard.edu/abs/2025arXiv250912898P/abstract)  
     Poblete, Cuello, Alaguero et al. (2025)  
 - [Two warm Earth-sized exoplanets and an Earth-sized candidate in the M5V-M6V binary system TOI-2267](https://ui.adsabs.harvard.edu/abs/2025arXiv250814176Z/abstract)
