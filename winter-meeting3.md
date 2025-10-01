@@ -68,7 +68,7 @@ List of participants for the kick-off meeting:
 17.	Eleonora Bianchi (INAF, Firenze, Italy)
 18.	Mario Damasso (OAT, Torino, Italy)
 19.	Martina Toscani (UniMiB, Milano, Italy)
-20.	Álvaro (QMU, London, England)
+20.	Álvaro Ribas (QMU, London, England)
 21.	Jean-François Gonzalez (CRAL, Lyon, France)
 22.	Luigi Zallio (UniMi, Milano, Italy)
 23.	Carolina (PUC, Santiago, Chile)
