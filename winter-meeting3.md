@@ -71,7 +71,7 @@ List of participants for the kick-off meeting:
 20.	Álvaro Ribas (QMU, London, England)
 21.	Jean-François Gonzalez (CRAL, Lyon, France)
 22.	Luigi Zallio (UniMi, Milano, Italy)
-23.	Carolina (PUC, Santiago, Chile)
+23.	Carolina Charalambous (PUC, Santiago, Chile)
 24.	Josh Calcino (Univ. Tsinghua, Beijing, China)
 25.	Maxime Lombart (CEA Paris, France)
 26.	Claudia Toci (Univ. Sevilla, Spain) 
