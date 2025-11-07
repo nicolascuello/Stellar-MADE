@@ -5,7 +5,7 @@ We plan to work on 3 main axes during the Winter Meeting:
 - Dust dynamics and grain growth in protoplanetary discs;  
 - Planetary architectures in multiple stellar systems.  
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/Affiche_A3_Stellar-MADE_winter_meeting_2025.png" alt="winter meeting 2026 poster by the Stellar-MADE team" width="500"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/WinterMeeting2026_poster.png" alt="winter meeting 2026 poster by the Stellar-MADE team" width="500"/>
 
 Each participant will preferentially work on one or several items with a subgroup of participants. At the end, we will establish a plan to keep working together after the meeting, share results efficiently, and co-write the corresponding scientific articles.
 
@@ -61,12 +61,12 @@ List of participants for the kick-off meeting:
 10.	Elisa Martínez (IPAG, Grenoble, France)
 11.	Cathie Clarke (Univ. Cambridge, England)
 12.	Cristiano Longarini (Univ. Cambridge, England)
-13.	Enrique Macías (ESO Garching, Germany)
+13.	Nicolás Kurtovic (MPIA, Germany)
 14.	Elena Viscardi (ESO Garching, Germany)
 15.	Miguel Vioque (ESO Garching, Germany)
 16.	Francesco Zagaria (Univ. Heidelberg, Germany)
 17.	Eleonora Bianchi (INAF, Firenze, Italy)
-18.	Mario Damasso (OAT, Torino, Italy)
+18.	Mario Damasso (INAF, Torino, Italy)
 19.	Martina Toscani (UniMiB, Milano, Italy)
 20.	Álvaro Ribas (QMU, London, England)
 21.	Jean-François Gonzalez (CRAL, Lyon, France)
