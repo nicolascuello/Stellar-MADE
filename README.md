@@ -41,7 +41,7 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 - [Phantom-MCFOST workshop](phantom-mcfost) at [IPAG](https://ipag.osug.fr) (12-16 June 2023).  
 - Stellar-MADE [Kick-off meeting](kickoff) at [Villard-de-Lans](https://www.hotel-les-playes.com/accueil.htm) (17-20 January 2023).  
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/binary_conf_flyer_16_9_slide_QR.png" alt="Multiplicity in young stars" width="700"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/WinterMeeting2026_poster.png" alt="Multiplicity in young stars" width="500"/>
 
 
 ### Solarigraphy project at IPAG
