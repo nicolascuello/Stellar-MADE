@@ -84,8 +84,7 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Recent featured seminars and talks in conferences:
 
-- UPCOMING: Invited seminar by Nicolás Cuello at [IoA](https://www.ast.cam.ac.uk) (Cambridge, England), October 2025
-- UPCOMING: Invited seminar by Nicolás Cuello at [DAMTP](https://www.damtp.cam.ac.uk) (Cambridge, England), October 2025
+- Invited seminar by Nicolás Cuello at [DAMTP](https://www.damtp.cam.ac.uk) (Cambridge, England), October 2025
 - Inivited review talk by Daniel Price at [Multiplicity in Young Stars](https://indico.nbi.ku.dk/event/2121/), [Niels Bohr Institute](https://nbi.ku.dk/english/) (Copenhagen, Demmark), August 2025.
 - 2 contributed talks by Antoine Alaguero & Pedro Poblete at [Multiplicity in Young Stars](https://indico.nbi.ku.dk/event/2121/), [Niels Bohr Institute](https://nbi.ku.dk/english/) (Copenhagen, Demmark), August 2025.  
 - Invited Lunch Talk by Nicolás Cuello at [European Southern Observatory](https://www.eso.org/) (Garching, Germany), July 2025.  
