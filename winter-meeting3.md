@@ -1,9 +1,9 @@
 # Stellar-MADE project
 
 We plan to work on 3 main axes during the Winter Meeting:
-- Flybys and infall on discs in multiple stellar systems;  
-- Dust dynamics and grain growth in protoplanetary discs;  
-- Planetary architectures in multiple stellar systems.  
+- Flybys, environmental effects & infall on within multiple stellar systems;  
+- Dust dynamics, grain growth & observations of protoplanetary discs;  
+- Multi-planetary architectures in multiple stellar systems.  
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/WinterMeeting2026_poster.png" alt="winter meeting 2026 poster by the Stellar-MADE team" width="500"/>
 
@@ -19,9 +19,13 @@ Program with indicative times:
     - 21h30: Games & drinks.  
 - Wednesday 14/01/2026:  
     - 8h: Breakfast (buffet and hot drinks).
-    - 9h: Sparkling talks by X, Y, Z,
+    - 9h: Sparkling talk by Daniel Price.
+    - 9h30: Sparkling talk by Nicolás Kurtovic.
+    - 10h: Stellar-MADE projects by PP, AA, EC, RG, MS.
     - 10h30: Coffee break.
-    - 11h: Sparkling talk by X, Y, Z
+    - 11h: Sparkling talk by Carolina Charalambous.
+    - 11h30: Sparkling talk by Mario Damasso.
+    - 12h00: Sparkling talk by Philippe Delorme.
     - 12h30: Lunch (entrée, glass of wine, main course, dessert, coffee/tea).
     - 14h: Collaborative work.
     - 16h30: Coffee break.
@@ -61,7 +65,7 @@ List of participants for the kick-off meeting:
 10.	Elisa Martínez (IPAG, Grenoble, France)
 11.	Cathie Clarke (Univ. Cambridge, England)
 12.	Cristiano Longarini (Univ. Cambridge, England)
-13.	Nicolás Kurtovic (MPIA, Germany)
+13.	Nicolás Kurtovic (MPIA, Heidelberg, Germany)
 14.	Elena Viscardi (ESO Garching, Germany)
 15.	Miguel Vioque (ESO Garching, Germany)
 16.	Francesco Zagaria (Univ. Heidelberg, Germany)
@@ -76,7 +80,7 @@ List of participants for the kick-off meeting:
 25.	Maxime Lombart (CEA Paris, France)
 26.	Claudia Toci (Univ. Sevilla, Spain) 
 
-Drivers, departure times and meeting points (TBC):  
+Drivers, departure times and meeting points (TBC in January):  
 - Nicolás
 - Antoine
 - Romain
