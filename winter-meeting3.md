@@ -52,7 +52,7 @@ Program with indicative times:
     - 15h: Back in Grenoble.  
 
 
-List of participants for the kick-off meeting:
+List of participants:
 1.	Nicolás Cuello (IPAG, Grenoble, France)
 2.	Daniel Price (IPAG, Grenoble, France)
 3.	François Ménard (IPAG, Grenoble, France)
@@ -63,22 +63,21 @@ List of participants for the kick-off meeting:
 8.	Mario Sucerquia (IPAG, Grenoble, France)
 9.	Romain Grane (IPAG, Grenoble, France)
 10.	Elisa Martínez (IPAG, Grenoble, France)
-11.	Cathie Clarke (Univ. Cambridge, England)
-12.	Cristiano Longarini (Univ. Cambridge, England)
-13.	Nicolás Kurtovic (MPIA, Heidelberg, Germany)
-14.	Elena Viscardi (ESO Garching, Germany)
-15.	Miguel Vioque (ESO Garching, Germany)
-16.	Francesco Zagaria (Univ. Heidelberg, Germany)
-17.	Eleonora Bianchi (INAF, Firenze, Italy)
-18.	Mario Damasso (INAF, Torino, Italy)
-19.	Martina Toscani (UniMiB, Milano, Italy)
-20.	Álvaro Ribas (QMU, London, England)
-21.	Jean-François Gonzalez (CRAL, Lyon, France)
-22.	Luigi Zallio (UniMi, Milano, Italy)
-23.	Carolina Charalambous (PUC, Santiago, Chile)
-24.	Josh Calcino (Univ. Tsinghua, Beijing, China)
-25.	Maxime Lombart (CEA Paris, France)
-26.	Claudia Toci (Univ. Sevilla, Spain) 
+11.	Cristiano Longarini (Univ. Cambridge, England)
+12.	Nicolás Kurtovic (MPIA, Heidelberg, Germany)
+13.	Elena Viscardi (ESO Garching, Germany)
+14.	Miguel Vioque (ESO Garching, Germany)
+15.	Francesco Zagaria (Univ. Heidelberg, Germany)
+16.	Eleonora Bianchi (INAF, Firenze, Italy)
+17.	Mario Damasso (INAF, Torino, Italy)
+18.	Martina Toscani (UniMiB, Milano, Italy)
+19.	Álvaro Ribas (QMU, London, England)
+20.	Jean-François Gonzalez (CRAL, Lyon, France)
+21.	Luigi Zallio (UniMi, Milano, Italy)
+22.	Carolina Charalambous (PUC, Santiago, Chile)
+23.	Josh Calcino (Univ. Tsinghua, Beijing, China)
+24.	Maxime Lombart (CEA Paris, France)
+25.	Claudia Toci (Univ. Sevilla, Spain) 
 
 Drivers, departure times and meeting points (TBC in January):  
 - Nicolás
