@@ -64,14 +64,14 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Recent featured publications:
 
+- [FAUST XXX: Dust enhancement in the young binary L1551 IRS 5](https://ui.adsabs.harvard.edu/abs/2025arXiv251210486C/abstract)  
+    Cuello, Bianchi, Ménard et al. (2025)
 - [Probing dust and grain growth in the optically thick circumbinary ring of V892 Tau](https://ui.adsabs.harvard.edu/abs/2025arXiv250917424A/abstract)  
     Alaguero, Ménard, Cuello et al. (2025)
 - [Asymmetric radiation in binary systems: Implications for disk evolution and chemistry](https://ui.adsabs.harvard.edu/abs/2025arXiv250912898P/abstract)  
     Poblete, Cuello, Alaguero et al. (2025)  
 - [Two warm Earth-sized exoplanets and an Earth-sized candidate in the M5V-M6V binary system TOI-2267](https://ui.adsabs.harvard.edu/abs/2025arXiv250814176Z/abstract)
     Zúñiga-Fernández et al. (2025)  
-- [Breaking long-period resonance chains with stellar flybys](https://ui.adsabs.harvard.edu/abs/2025arXiv250310914C/abstract)  
-    Charalambous, Cuello & Petrovich (2025)
 - [Circumstellar and circumbinary discs in multiple stellar systems](https://ui.adsabs.harvard.edu/abs/2025arXiv250119249C/abstract)  
     Cuello, Alaguero & Poblete (2025)
 - [Extreme exomoons in WASP-49 Ab: Dynamics and detectability](https://ui.adsabs.harvard.edu/abs/2024arXiv240810643S/abstract)  
@@ -99,6 +99,8 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Outreach activities
 
+- "Exoplanetary mysteries in our galaxy", online presentation for elementary shool students by [Nicolás Cuello](nicolas-cuello), International School of Lyon, France, December 2025.  
+- Front page of [Le Petit Quotidien](https://lepetitquotidien.test.playbacpresse.fr) regarding the discovery of [exoplanets in the binary system TOI-2267](https://lepetitquotidien.test.playbacpresse.fr/article/decouverte-3-planetes-tournant-autour-dun-couple-de-soleils-2025-11-17-092509) by [Mario Sucerquia](mario-sucerquia).  
 - [Lights, Camera, Early-Career Scientists in Action!](https://www.youtube.com/playlist?list=PLPXeplhp1d02O6yM12P_6la1L-oXa0Hih) by [Europlanet](https://www.europlanet.org): [3 things about planet formation](https://www.youtube.com/watch?v=Wi5aa_sbIWA) and [a career overview](https://www.youtube.com/watch?v=oqOuBNXrPEs) by [Nicolás Cuello](nicolas-cuello), September 2025.
 - "Formación del sistema solar y observaciones del Sol" at [Colegio Kennedy](https://kennedy.edu.uy) by [Elisa Castro](elisa-castro), Montevideo, Uruguay, April 2025.
 - [Les cordées de la réussite](schools): Outreach activity at Lycée Mounier in Grenoble by [Nicolás Cuello](nicolas-cuello), March 2025.  
@@ -108,7 +110,7 @@ A series of comic strips about different aspects of the science carried out with
 - [Pint of Science](https://pintofscience.fr) in Grenoble, 23/05/2023.  
 "Discs and planets in multiple stellar systems". Program and details [here](https://www.pintofscience.fr/event/disques-et-exoplanetes-autour-detoiles-multiples).  
 - Stellar multiplicity and planet formation, online interview on Twich with GalactiCamille by [Nicolás Cuello](nicolas-cuello), 22/04/2023.  
-- "I misteri della fomazione planetaria: Pianeti e stelle binarie", online presentation for elementary school students by [Nicolás Cuello](nicolas-cuello), Italy, December 2022 and 2023.  
+- "I misteri della fomazione planetaria: Pianeti e stelle binarie", online presentation for elementary school students by [Nicolás Cuello](nicolas-cuello), Italy, December 2022, 2023 & 2025.  
 [Gallery of selected drawings][drawings] by the students.  
 - "Simulations numériques & formation planétaire", presentation to high-school students at IPAG by [Nicolás Cuello](nicolas-cuello), 14/12/2022.    
 
@@ -135,6 +137,9 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Supervision of students/interns within the team
 
+- Nina Proutière (Grenoble, France): 2026, L2 student by Elisa Castro & NC.  
+- Hugo Derbey (Grenoble, France): 2025-2026, M2 student by Antoine Alaguero & NC.
+- Elie Desmartin & Loïc Converset (Grenoble, France): 2025-2026, M1 students by Romain Grane & Mario Sucerquia.
 - Elisa Castro (Grenoble, France): 2024-2027, PhD student, by NC and Philippe Delorme.  
 - Romain Grane (Grenoble, France): 2024-2027, M2 & PhD student, by NC and Mario Sucerquia.  
 - Joshua Talidec (Grenoble, France): 2024, high-school student, by NC and Pedro Poblete.  

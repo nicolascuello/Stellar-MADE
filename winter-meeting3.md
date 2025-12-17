@@ -67,7 +67,7 @@ List of participants:
 12.	Nicolás Kurtovic (MPIA, Heidelberg, Germany)
 13.	Elena Viscardi (ESO Garching, Germany)
 14.	Miguel Vioque (ESO Garching, Germany)
-15.	Francesco Zagaria (Univ. Heidelberg, Germany)
+15.	Thimothée David-Clris (IPAG, Grenoble, France)
 16.	Eleonora Bianchi (INAF, Firenze, Italy)
 17.	Mario Damasso (INAF, Torino, Italy)
 18.	Martina Toscani (UniMiB, Milano, Italy)
