@@ -56,34 +56,33 @@ List of participants:
 1.	Nicolás Cuello (IPAG, Grenoble, France)
 2.	Daniel Price (IPAG, Grenoble, France)
 3.	François Ménard (IPAG, Grenoble, France)
-4.	Gaspard Duchêne (IPAG, Grenoble, France)
-5.	Philippe Delorme (IPAG, Grenoble, France)
-6.	Antoine Alaguero (IPAG, Grenoble, France)
-7.	Pedro Poblete (IPAG, Grenoble, France)
-8.	Mario Sucerquia (IPAG, Grenoble, France)
-9.	Romain Grane (IPAG, Grenoble, France)
-10.	Elisa Martínez (IPAG, Grenoble, France)
-11.	Cristiano Longarini (Univ. Cambridge, England)
-12.	Nicolás Kurtovic (MPIA, Heidelberg, Germany)
-13.	Elena Viscardi (ESO Garching, Germany)
-14.	Miguel Vioque (ESO Garching, Germany)
-15.	Thimothée David-Clris (IPAG, Grenoble, France)
-16.	Eleonora Bianchi (INAF, Firenze, Italy)
-17.	Mario Damasso (INAF, Torino, Italy)
-18.	Martina Toscani (UniMiB, Milano, Italy)
-19.	Álvaro Ribas (QMU, London, England)
-20.	Jean-François Gonzalez (CRAL, Lyon, France)
-21.	Luigi Zallio (UniMi, Milano, Italy)
-22.	Carolina Charalambous (PUC, Santiago, Chile)
-23.	Josh Calcino (Univ. Tsinghua, Beijing, China)
-24.	Maxime Lombart (CEA Paris, France)
-25.	Claudia Toci (Univ. Sevilla, Spain) 
+4.	Philippe Delorme (IPAG, Grenoble, France)
+5.	Antoine Alaguero (IPAG, Grenoble, France)
+6.	Pedro Poblete (IPAG, Grenoble, France)
+7.	Mario Sucerquia (IPAG, Grenoble, France)
+8.	Romain Grane (IPAG, Grenoble, France)
+9.	Elisa Martínez (IPAG, Grenoble, France)
+10.	Cristiano Longarini (Univ. Cambridge, England)
+11.	Nicolás Kurtovic (MPIA, Heidelberg, Germany)
+12.	Elena Viscardi (ESO Garching, Germany)
+13.	Miguel Vioque (ESO Garching, Germany)
+14.	Thimothée David-Clris (IPAG, Grenoble, France)
+15.	Eleonora Bianchi (INAF, Firenze, Italy)
+16.	Mario Damasso (INAF, Torino, Italy)
+17.	Álvaro Ribas (QMU, London, England)
+18.	Jean-François Gonzalez (CRAL, Lyon, France)
+19.	Luigi Zallio (UniMi, Milano, Italy)
+20.	Carolina Charalambous (PUC, Santiago, Chile)
+21.	Josh Calcino (Univ. Tsinghua, Beijing, China)
+22.	Maxime Lombart (CEA Paris, France)
+23.	Claudia Toci (Univ. Sevilla, Spain) 
 
 Drivers, departure times and meeting points (TBC in January):  
 - Nicolás
 - Antoine
-- Romain
 - François
-- Gaspard
+- Mario D.
+- Luigi
+- Thimothée
 
 [Back to home page](https://nicolascuello.github.io/Stellar-MADE/)

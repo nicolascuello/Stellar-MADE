@@ -99,6 +99,7 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Outreach activities
 
+- Comment for [Sky & Telescope](https://skyandtelescope.org/astronomy-news/passing-baby-stars-lock-arms-in-rare-astronomical-find/) regarding a recent flyby discovery by Choi et al. (2026).
 - "Exoplanetary mysteries in our galaxy", online presentation for elementary shool students by [Nicolás Cuello](nicolas-cuello), International School of Lyon, France, December 2025.  
 - Front page of [Le Petit Quotidien](https://lepetitquotidien.test.playbacpresse.fr) regarding the discovery of [exoplanets in the binary system TOI-2267](https://lepetitquotidien.test.playbacpresse.fr/article/decouverte-3-planetes-tournant-autour-dun-couple-de-soleils-2025-11-17-092509) by [Mario Sucerquia](mario-sucerquia).  
 - [Lights, Camera, Early-Career Scientists in Action!](https://www.youtube.com/playlist?list=PLPXeplhp1d02O6yM12P_6la1L-oXa0Hih) by [Europlanet](https://www.europlanet.org): [3 things about planet formation](https://www.youtube.com/watch?v=Wi5aa_sbIWA) and [a career overview](https://www.youtube.com/watch?v=oqOuBNXrPEs) by [Nicolás Cuello](nicolas-cuello), September 2025.
