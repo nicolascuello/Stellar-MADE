@@ -6,20 +6,6 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/Stellar-MADE_logotext.png" alt="Stellar-MADE logo" width="300"/>
 
-
-### Members of the team:
-
-- [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG/UGA/ERC)
-- [Antoine Alaguero](antoine-alaguero) (Postdoc, IPAG/UGA/ERC)
-- [Pedro Poblete](pedro-poblete) (Postdoc, IPAG/CNRS/ERC)
-- [Mario Sucerquia](mario-sucerquia) (Postdoc, IPAG/UGA/ERC)
-- [Romain Grane](romain-grane) (PhD Student, IPAG/UGA/ERC)
-- [Elisa Castro](elisa-castro) (PhD Student, IPAG/UGA/ANR)
-- [Daniel Price](https://users.monash.edu.au/~dprice/) (Visiting professor, Monash/UGA)
-
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/team_all2.jpg" alt="Picture of the team" width="700"/>
-
-
 ### Project goals:
 
 - Establish the formation channels of protoplanetary discs around young stellar objects;  
@@ -27,6 +13,24 @@ Hosted at [IPAG](https://ipag.osug.fr) & [UGA](https://www.univ-grenoble-alpes.f
 - Characterise planetary architectures and the resulting exoplanet population.
 
 [Abstract of the project][about]
+
+### Stellar-MADE team:
+
+- [Nicolás Cuello](nicolas-cuello) (Principal Investigator, IPAG/UGA/ERC)
+- [Mario Sucerquia](mario-sucerquia) (Postdoc, IPAG/UGA/ERC)
+- [Pedro Poblete](pedro-poblete) (Postdoc, IPAG/CNRS/ERC)
+- [Antoine Lacquement](antoine-lacquement) (Postdoc, IPAG/UGA/ERC)
+- [Romain Grane](romain-grane) (PhD Student, IPAG/UGA/ERC)
+- [Elisa Castro](elisa-castro) (PhD Student, IPAG/UGA/ANR)
+- [Hugo Derbey](hugo-derbey) (PhD Student, IPAG/UGA/ED)
+
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/team_all2.jpg" alt="Picture of the team" width="700"/>
+
+
+### Former Stellar-MADE members:
+
+- [Antoine Alaguero](antoine-alaguero) (Postdoc, Arcetri/INAF, Italy)
+- [Daniel Price](https://users.monash.edu.au/~dprice/) (Full Professor, Monash, Australia)
 
 
 ### Organised meetings & workshops
@@ -51,54 +55,39 @@ Project done by [Patricio Michelin](https://www.patricio-michelin.com) in collab
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/solarigraphy2.jpg" alt="Solarigraphy from IPAG" width="700"/>
 
 
-### Stellar-MADE co(s)mic strips
-
-A series of comic strips about different aspects of the science carried out within the Stellar-MADE project. The 4 episodes were originally prepared in French (FR) by Nicolás Cuello & Antoine Alaguero in collaboration with the [Ink Link](https://www.theinklink.org/fr) and Séverine Alvain (during 2023 and released in 2024 and 2025). Then, Elisa Castro took care of the translations into Spanish (ES), English (EN) & Italian (IT). We regularly use this comic during outreach activities in schools.  
-1. Daily life of an astrophysicist, models & astronomical observations: [EN1](comic1-en), [FR1](comic1-fr), [ES1](comic1-es), [IT1](comic1-it).
-2. Disc dynamics and planet formation in multiple stellar systems: [EN2](comic2-en), [FR2](comic2-fr), [ES2](comic2-es), [IT2](comic2-it).  
-3. Distances & detection of exoplanets in multiple stellar systems: [EN3](comic3-en), [FR3](comic3-fr), [ES3](comic3-es), [IT3](comic3-it).  
-4. Alien life, planetary orbits & chaos in multiple stellar systems: [EN4](comic4-en), [FR4](comic4-fr), [ES4](comic4-es), [IT4](comic4-it).  
-
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/Exoplanetes-mini.png" alt="Sample of the comics" width="700"/>
-
-
 ### Recent featured publications:
 
-- [FAUST XXX: Dust enhancement in the young binary L1551 IRS 5](https://ui.adsabs.harvard.edu/abs/2025arXiv251210486C/abstract)  
-    Cuello, Bianchi, Ménard et al. (2025)
-- [Probing dust and grain growth in the optically thick circumbinary ring of V892 Tau](https://ui.adsabs.harvard.edu/abs/2025arXiv250917424A/abstract)  
-    Alaguero, Ménard, Cuello et al. (2025)
-- [Asymmetric radiation in binary systems: Implications for disk evolution and chemistry](https://ui.adsabs.harvard.edu/abs/2025arXiv250912898P/abstract)  
-    Poblete, Cuello, Alaguero et al. (2025)  
-- [Two warm Earth-sized exoplanets and an Earth-sized candidate in the M5V-M6V binary system TOI-2267](https://ui.adsabs.harvard.edu/abs/2025arXiv250814176Z/abstract)
-    Zúñiga-Fernández et al. (2025)  
-- [Circumstellar and circumbinary discs in multiple stellar systems](https://ui.adsabs.harvard.edu/abs/2025arXiv250119249C/abstract)  
-    Cuello, Alaguero & Poblete (2025)
-- [Extreme exomoons in WASP-49 Ab: Dynamics and detectability](https://ui.adsabs.harvard.edu/abs/2024arXiv240810643S/abstract)  
-    Sucerquia & Cuello (2025)
-- [V892 Tau: A tidally perturbed circumbinary disc in a triple stellar system](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.311A/abstract)  
-    Alaguero, Cuello, Ménard et al. (2024)
+- [Binary tidal evolution as a sculptor of circumbinary planet architectures](https://scixplorer.org/abs/2026arXiv260936112S/abstract)  
+    Sucerquia, Cuello & Duchêne (2026)
+- [Dust Growth in Binary Systems: Inhibition of dust settling and growth in circumbinary discs](https://scixplorer.org/abs/2026arXiv260714788A/abstract)  
+    Alaguero, Cuello, Gonzalez et al. (2026)
+- [Environmental interactions in class II systems and their impact on the disk-planet architecture](https://scixplorer.org/abs/2026A%26A...712A.140P/abstract)  
+    Poblete, Cuello, Pearce et al. (2026)
+- [Stability of circumbinary planets: the role of binary properties and migration scenarios](https://scixplorer.org/abs/2026arXiv260905134G/abstract)  
+    Grane, Cuello, Sucerquia et al. (2026)
+- [FAUST XXX: Dust enhancement in the young binary L1551 IRS 5](https://scixplorer.org/abs/2026A%26A...705L..16C/abstract)  
+    Cuello, Bianchi, Ménard et al. (2026)
 
 [Complete list of publications][publications]
 
 
 ### Recent featured seminars and talks in conferences:
 
+- Invited talk by Nicolás Cuello at [Disco: Disks in Context](https://sites.google.com/view/disksincontext) (NRAO, Charlottesville, USA), September 2026
+- Contributed talk by Romain Grane at [Europlanet Science Congress 2026](https://www.epsc2026.eu/home.html) (The Hague, The Netherlands), September 2026.
+- Seminar by Elisa Castro at [IALP](https://ialp.fcaglp.unlp.edu.ar) (La Plata, Argentina), August 2026.
+- Invited review talk by Nicolás Cuello at [ALMA2040 workshop](https://alma2040.sciencescall.org/) (Paris, France), March 2026
 - Invited seminar by Nicolás Cuello at [DAMTP](https://www.damtp.cam.ac.uk) (Cambridge, England), October 2025
 - Inivited review talk by Daniel Price at [Multiplicity in Young Stars](https://indico.nbi.ku.dk/event/2121/), [Niels Bohr Institute](https://nbi.ku.dk/english/) (Copenhagen, Demmark), August 2025.
 - 2 contributed talks by Antoine Alaguero & Pedro Poblete at [Multiplicity in Young Stars](https://indico.nbi.ku.dk/event/2121/), [Niels Bohr Institute](https://nbi.ku.dk/english/) (Copenhagen, Demmark), August 2025.  
-- Invited Lunch Talk by Nicolás Cuello at [European Southern Observatory](https://www.eso.org/) (Garching, Germany), July 2025.  
-- 2 contributed talks by Pedro Poblete at [EAS 2025](https://eas.unige.ch/EAS2025/), (Cork, Ireland), June 2025.  
-- 1 contributed talk by Pedro Poblete at [SPHERIC](https://spheric2025.upc.edu) (Barcelona, Spain), June 2025.
-- 3 contributed talks by Antoine Alaguero, Pedro Poblete & Nicolás Cuello at [2nd European Phantom code family users workshop
-2025](https://phantomsph.github.io/workshop2025/) (Grenoble, France), June 2025. 
-- Invited talk by Mario Sucerquia at [FoF 2025](https://fof.oac.uncor.edu/2025/) (Córdoba, Argentina), April 2025.
 
 [Complete list of talks][talks]
 
 
 ### Outreach activities
 
+- Article: [Planet formation around multiple stars](https://www.openaccessgovernment.org/article/astronomy-and-astrophysics-planet-formation-around-multiple-stars/214738/), [Open Access Government](https://www.openaccessgovernment.org/) journal, September 2026
+- Article: [Building exoplanets in systems with multiple Suns](https://issuu.com/euresearcher/docs/stellar-made?fr=sODVhOTkyNDA3ODI), [EU Research](https://euresearcher.com) journal, Summer 2026
 - Comment for [Sky & Telescope](https://skyandtelescope.org/astronomy-news/passing-baby-stars-lock-arms-in-rare-astronomical-find/) regarding a recent flyby discovery by Choi et al. (2026).
 - "Exoplanetary mysteries in our galaxy", online presentation for elementary shool students by [Nicolás Cuello](nicolas-cuello), International School of Lyon, France, December 2025.  
 - Front page of [Le Petit Quotidien](https://lepetitquotidien.test.playbacpresse.fr) regarding the discovery of [exoplanets in the binary system TOI-2267](https://lepetitquotidien.test.playbacpresse.fr/article/decouverte-3-planetes-tournant-autour-dun-couple-de-soleils-2025-11-17-092509) by [Mario Sucerquia](mario-sucerquia).  
@@ -118,18 +107,31 @@ A series of comic strips about different aspects of the science carried out with
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/podcast_Auroralpes_AA_NC.jpg" alt="Podcast Auroralpes" width="700"/>
 
 
+### Stellar-MADE co(s)mic strips
+
+A series of comic strips about different aspects of the science carried out within the Stellar-MADE project. The 4 episodes were originally prepared in French (FR) by Nicolás Cuello & Antoine Alaguero in collaboration with the [Ink Link](https://www.theinklink.org/fr) and Séverine Alvain (during 2023 and released in 2024 and 2025). Then, Elisa Castro took care of the translations into Spanish (ES), English (EN) & Italian (IT). We regularly use this comic during outreach activities in schools.  
+1. Daily life of an astrophysicist, models & astronomical observations: [EN1](comic1-en), [FR1](comic1-fr), [ES1](comic1-es), [IT1](comic1-it).
+2. Disc dynamics and planet formation in multiple stellar systems: [EN2](comic2-en), [FR2](comic2-fr), [ES2](comic2-es), [IT2](comic2-it).  
+3. Distances & detection of exoplanets in multiple stellar systems: [EN3](comic3-en), [FR3](comic3-fr), [ES3](comic3-es), [IT3](comic3-it).  
+4. Alien life, planetary orbits & chaos in multiple stellar systems: [EN4](comic4-en), [FR4](comic4-fr), [ES4](comic4-es), [IT4](comic4-it).  
+
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/Exoplanetes-mini.png" alt="Sample of the comics" width="700"/>
+
+
 ### Main collaborators of Stellar-MADE
 
 - François Ménard (Grenoble, France)  
-- Daniel Price (Monash, Australia)  
+- Daniel Price (Monash, Australia) 
+- Eleonora Bianchi (Firenze, Italy) 
 - Gaspard Duchêne (IPAG, France) 
 - Rebecca Nealon (Warwick, UK)  
 - Christophe Pinte (Monash, Australia)  
 - Álvaro Ribas (Cambridge, UK)
-- Claudia Toci (ESO, Germany)  
-- Matías Montesinos (Santiago, Chile)
+- Claudia Toci (Sevilla, Spain)  
 - Carolina Charalambous (PUC, Chile)
 - Enrico Ragusa (Milano, Italy)  
+- Carine Babusiaux (Grenoble, France)
+- Mario Damasso (Torino, Italy)
 - Sebastián Zúñiga (Liège, Belgium)
 - Miguel Vioque (ESO, Germany)  
 
@@ -138,8 +140,9 @@ A series of comic strips about different aspects of the science carried out with
 
 ### Supervision of students/interns within the team
 
-- Nina Proutière (Grenoble, France): 2026, L2 student by Elisa Castro & NC.  
-- Hugo Derbey (Grenoble, France): 2025-2026, M2 student by Antoine Alaguero & NC.
+- Hugo Derbey (Grenoble, France): 2025-2029, M2 student by Antoine Alaguero & NC, PhD student by NC and Jean-François Gonzalez.
+- Loïc Converset (Grenoble, France): 2026, M2 student by Mario Sucerquia & NC.  
+- Nina Proutière (Grenoble, France): 2026, L2 student by Elisa Castro & NC.
 - Elie Desmartin & Loïc Converset (Grenoble, France): 2025-2026, M1 students by Romain Grane & Mario Sucerquia.
 - Elisa Castro (Grenoble, France): 2024-2027, PhD student, by NC and Philippe Delorme.  
 - Romain Grane (Grenoble, France): 2024-2027, M2 & PhD student, by NC and Mario Sucerquia.  
@@ -147,7 +150,7 @@ A series of comic strips about different aspects of the science carried out with
 - Félix Sauvourel (Grenoble, France): 2023, M1 student, by NC and Antoine Alaguero.  
 - Yuna Ageron--Dubreil (Grenoble, France): 2023, high-school student, by NC and Antoine Alaguero.
 - Antoine Alaguero (Grenoble, France): 2022-2025, PhD student, by NC and François Ménard.
-- Emmanuel Gianuzzi (Córdoba, Argentina): 2021-2024, PhD student, by NC and Cristian Giuppone.
+- Emmanuel Gianuzzi (Córdoba, Argentina): 2021-2027, PhD student, by NC and Cristian Giuppone.
 - Simone Ceppi (Milano, Italy): 2020-2024, PhD student, by NC and Giuseppe Lodato.  
 
 
