@@ -1,6 +1,7 @@
 # Stellar-MADE project
 
 Antoine Lacquement
+
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-AL.jpg" alt="AL picture" width="300"/>
 
 ### Summary of my career
@@ -21,7 +22,7 @@ My postdoc carries on this work on GG Tau A, a young triple system made of a clo
 
 More broadly, I will study young hierarchical triples like GG Tau A and how they shape their disks, a topic that will gain momentum with Gaia DR4, which is expected to reveal many new triple systems. Gaia will also provide absolute astrometry, which I plan to integrate into Oracle alongside imaging and radial-velocity data to better constrain the orbits of these systems.
 
-<img src="https://nicolascuello.github.io/Stellar-MADE/images/AL-ggtau-simulation.png" alt="N-body simulation of the GG Tau A disk" width="450"/>
+<img src="https://nicolascuello.github.io/Stellar-MADE/images/AL-ggtau-simulation.png" alt="N-body simulation of the GG Tau A disk" width="400"/>
 
 *N-body simulation of the disk around GG Tau A after 4 Myr, for one of the orbital solutions found with Oracle. The gap carved near 200 au is driven by a secular resonance between the inner triple and the disk particles, and could contribute to shaping the observed cavity.*
 
