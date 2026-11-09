@@ -1,6 +1,6 @@
 # Stellar-MADE project
 
-Hugo Derbey 
+Hugo Derbey  
 <img src="https://nicolascuello.github.io/Stellar-MADE/images/picture-HD.png" alt="HD picture" width="300"/>
 
 ### Summary of my career
